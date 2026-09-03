@@ -10,15 +10,15 @@
     },
     {
       "label": "Projetista",
-      "n": 258
+      "n": 264
     },
     {
       "label": "Cadista",
-      "n": 51
+      "n": 53
     },
     {
       "label": "Desenhista",
-      "n": 89
+      "n": 92
     },
     {
       "label": "Designer de Interiores",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Analista",
-      "n": 54
+      "n": 55
     },
     {
       "label": "Assistente / Auxiliar",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 33
+      "n": 34
     },
     {
       "label": "Orçamentista",
@@ -146,11 +146,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 57
+      "n": 58
     },
     {
       "label": "SketchUp",
-      "n": 20
+      "n": 21
     },
     {
       "label": "ArchiCAD",
