@@ -1,0 +1,249 @@
+{
+  "firms": [
+    {
+      "id": "metodo-engenharia",
+      "name": "Método Engenharia",
+      "city": "São Paulo",
+      "website": "https://www.metodo.com.br/",
+      "careersUrl": "https://metodo.gupy.io/",
+      "platform": "Gupy",
+      "applicationMethod": "ats-link",
+      "highlight": true,
+      "notes": "Melhor achado da pesquisa: costuma ter várias vagas de arquitetura abertas (Analista Jr./Pleno, Coordenador de Projetos). Também aparece automaticamente na fonte \"Gupy (portal agregador)\" quando publica vagas com \"arquitetura\" no título."
+    },
+    {
+      "id": "cyrela",
+      "name": "Cyrela",
+      "city": "São Paulo",
+      "website": "https://www.cyrela.com.br/",
+      "careersUrl": "https://cyrela.gupy.io/",
+      "platform": "Gupy",
+      "applicationMethod": "ats-link",
+      "highlight": false,
+      "notes": "Grande incorporadora, ~45 vagas ativas em média. Já publicou vagas de projetos de arquitetura."
+    },
+    {
+      "id": "tecnisa",
+      "name": "Tecnisa",
+      "city": "São Paulo",
+      "website": "https://www.tecnisa.com.br/",
+      "careersUrl": "https://tecnisa.gupy.io/",
+      "platform": "Gupy",
+      "applicationMethod": "ats-link",
+      "highlight": false,
+      "notes": "Incorporadora com histórico de vagas para arquitetos."
+    },
+    {
+      "id": "mrv-co",
+      "name": "MRV&CO",
+      "city": "São Paulo (vagas nacionais)",
+      "website": "https://www.mrv.com.br/",
+      "careersUrl": "https://vagas-mrveco.gupy.io/",
+      "platform": "Gupy",
+      "applicationMethod": "ats-link",
+      "highlight": false,
+      "notes": "Volume alto de vagas (~250+); também tem banco de estágio dedicado para Arquitetura em programadeestagiomrveco.gupy.io."
+    },
+    {
+      "id": "eztec",
+      "name": "EZTEC",
+      "city": "São Paulo",
+      "website": "https://www.eztec.com.br/",
+      "careersUrl": "https://eztec.gupy.io/",
+      "platform": "Gupy",
+      "applicationMethod": "ats-link",
+      "highlight": false,
+      "notes": "Já teve vagas exigindo formação completa em Arquitetura."
+    },
+    {
+      "id": "jhsf",
+      "name": "JHSF",
+      "city": "São Paulo",
+      "website": "https://www.jhsf.com.br/",
+      "careersUrl": "https://jhsf.gupy.io/",
+      "platform": "Gupy",
+      "applicationMethod": "ats-link",
+      "highlight": false,
+      "notes": "Já publicou vaga de \"Analista de Arquitetura de Masterplan\"."
+    },
+    {
+      "id": "wtorre",
+      "name": "Grupo WTorre",
+      "city": "São Paulo",
+      "website": "https://wtorre.com.br/",
+      "careersUrl": "https://wtorre.gupy.io/",
+      "platform": "Gupy",
+      "applicationMethod": "ats-link",
+      "highlight": false,
+      "notes": "Costuma manter banco de talentos aberto mesmo sem vaga específica no momento."
+    },
+    {
+      "id": "perkins-will",
+      "name": "Perkins&Will São Paulo (ex-RoccoVidal)",
+      "city": "São Paulo",
+      "website": "https://perkinswill.com/",
+      "careersUrl": "https://perkinswill.com/careers/?lang=pt-br",
+      "platform": "UltiPro",
+      "applicationMethod": "ats-link",
+      "highlight": true,
+      "notes": "Escritório internacional de arquitetura com unidade em São Paulo (ex-RoccoVidal+arquitetos, incorporado em 2012). Board de vagas é global — filtre por Brasil/São Paulo na página."
+    },
+    {
+      "id": "gensler",
+      "name": "Gensler São Paulo",
+      "city": "São Paulo",
+      "website": "https://www.gensler.com/",
+      "careersUrl": "https://www.gensler.com/careers",
+      "platform": "Avature",
+      "applicationMethod": "ats-link",
+      "highlight": true,
+      "notes": "Escritório internacional de arquitetura com unidade confirmada em São Paulo (Itaim Bibi). Board de vagas é global."
+    },
+    {
+      "id": "racional-engenharia",
+      "name": "Racional Engenharia",
+      "city": "São Paulo",
+      "website": "https://racional.com/",
+      "careersUrl": "https://racionalengenharia50.abler.com.br/",
+      "platform": "Abler",
+      "applicationMethod": "ats-link",
+      "highlight": false,
+      "notes": "Já teve vaga de \"Arquiteto de Projetos\" em São Paulo."
+    },
+    {
+      "id": "vitacon",
+      "name": "Vitacon",
+      "city": "São Paulo",
+      "website": "https://vitacon.com.br/",
+      "careersUrl": "https://jobs.recrutei.com.br/vitacon",
+      "platform": "Recrutei",
+      "applicationMethod": "ats-link",
+      "highlight": false,
+      "notes": "Incorporadora conhecida por arquitetura autoral/inovadora. Board estava sem vagas cadastradas na última checagem — vale revisitar."
+    },
+    {
+      "id": "setin",
+      "name": "Setin Incorporadora",
+      "city": "São Paulo",
+      "website": "https://www.setin.com.br/",
+      "careersUrl": "https://www.setin.com.br/trabalhe-conosco",
+      "platform": null,
+      "applicationMethod": "form",
+      "highlight": false,
+      "notes": "Formulário próprio de cadastro de currículo por área (não lista vagas específicas)."
+    },
+    {
+      "id": "trisul",
+      "name": "Trisul",
+      "city": "São Paulo",
+      "website": "https://www.trisul-sa.com.br/",
+      "careersUrl": "https://www.trisul-sa.com.br/trabalhe-conosco",
+      "platform": null,
+      "applicationMethod": "email",
+      "contactEmail": "rh@trisul-sa.com.br",
+      "highlight": false,
+      "notes": "Sem lista de vagas — candidatura espontânea por e-mail (assunto = nome da vaga desejada)."
+    },
+    {
+      "id": "superlimao-studio",
+      "name": "Superlimão Studio",
+      "city": "São Paulo",
+      "website": "https://www.superlimao.com.br/",
+      "careersUrl": "https://www.superlimao.com.br/contato",
+      "platform": null,
+      "applicationMethod": "email",
+      "contactEmail": "portfolio@superlimao.com.br",
+      "highlight": false,
+      "notes": "Escritório de autor. Aceita banco de talentos por e-mail com portfólio."
+    },
+    {
+      "id": "aflalo-gasperini",
+      "name": "aflalo/gasperini arquitetos",
+      "city": "São Paulo",
+      "website": "https://aflalogasperini.com.br/",
+      "careersUrl": "https://aflalogasperini.com.br/contato/",
+      "platform": null,
+      "applicationMethod": "email",
+      "contactEmail": "curriculos@aflalogasperini.com.br",
+      "highlight": false,
+      "notes": "Escritório tradicional (fundado em 1962). Banco de currículos passivo por e-mail."
+    },
+    {
+      "id": "erm-brasil",
+      "name": "ERM Brasil",
+      "city": "São Paulo",
+      "website": "https://www.erm.com/",
+      "careersUrl": "https://erm.wd3.myworkdayjobs.com/ERM_Careers",
+      "platform": "Workday",
+      "applicationMethod": "ats-link",
+      "highlight": true,
+      "notes": "Consultoria ambiental global com forte atuação em licenciamento ambiental/EIA-RIMA e due diligence ambiental. 18 vagas ativas em São Paulo confirmadas na validação, incluindo \"Consulting Associate (Licenciamento ambiental - Meio Físico)\"."
+    },
+    {
+      "id": "consenge-sp",
+      "name": "Consenge SP",
+      "city": "São Paulo",
+      "website": "https://consengesp.com.br/",
+      "careersUrl": "https://consengesp.com.br/trabalhe-conosco/",
+      "platform": null,
+      "applicationMethod": "form",
+      "highlight": false,
+      "notes": "Regularização fundiária e projetos técnico-sociais para núcleos habitacionais e infraestrutura urbana. Formulário próprio com upload de currículo; sem vagas abertas no momento, mas banco de currículos ativo."
+    },
+    {
+      "id": "reconnstek",
+      "name": "Reconnstek",
+      "city": "São Paulo",
+      "website": "https://reconnstek.com.br/",
+      "careersUrl": "https://reconnstek.com.br/trabalhe-conosco/",
+      "platform": null,
+      "applicationMethod": "form",
+      "highlight": false,
+      "notes": "AVCB, laudos e regularização junto ao Corpo de Bombeiros, projetos de prevenção contra incêndio."
+    },
+    {
+      "id": "ofos",
+      "name": "OFOS",
+      "city": "São Paulo",
+      "website": "https://ofos.com.br/",
+      "careersUrl": "https://ofos.gupy.io/",
+      "platform": "Gupy",
+      "applicationMethod": "ats-link",
+      "highlight": false,
+      "notes": "AVCB, PPCI e licenciamento contra incêndio — 40 anos no mercado. Banco de talentos aberto (sem vaga específica no momento da validação)."
+    },
+    {
+      "id": "bureau-veritas",
+      "name": "Bureau Veritas Brasil",
+      "city": "São Paulo",
+      "website": "https://www.bureauveritas.com.br/",
+      "careersUrl": "https://trabalheconosco.vagas.com.br/bureau-veritas",
+      "platform": "Vagas.com",
+      "applicationMethod": "ats-link",
+      "highlight": false,
+      "notes": "Inspeção, certificação e conformidade predial (AVCB/CLCB, laudos técnicos). Multinacional; banco de talentos aberto (sem vaga específica no momento da validação)."
+    },
+    {
+      "id": "permits-legalizacoes",
+      "name": "Permits Legalizações e Consultoria",
+      "city": "São Paulo",
+      "website": "https://www.permitslegalizacoes.com.br/",
+      "careersUrl": "https://www.permitslegalizacoes.com.br/",
+      "platform": "InfoJobs (perfil de empregador)",
+      "applicationMethod": "form",
+      "highlight": false,
+      "notes": "Alvarás, licenças e regularização de imóveis e empresas em todo o Brasil, com equipe multidisciplinar (arquitetos, engenheiros, advogados, geólogos). Também tem perfil de empregador no InfoJobs (busque pelo nome da empresa) para acompanhar vagas futuras."
+    },
+    {
+      "id": "vip-engenharia",
+      "name": "VIP Engenharia",
+      "city": "Barueri",
+      "website": "https://vip.com.vc/",
+      "careersUrl": "https://www.empregos.com.br/empresa/vip-engenharia/e-224475",
+      "platform": "Empregos.com.br",
+      "applicationMethod": "ats-link",
+      "highlight": true,
+      "notes": "Inspeção predial, engenharia diagnóstica e regularização imobiliária — referência nacional, atua em mais de 3.500 condomínios em SP. Única empresa desse nicho sediada fora da capital que foi validada (Barueri/Alphaville)."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+name: Reprocessar fontes
+
+# Manual: re-roda fontes específicas (lista por vírgula, ou "auto" = as que o
+# health.json marcou) e regrava só os parts/<id>.json delas.
+
+on:
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: 'Fontes (lista por vírgula) ou "auto" p/ ler health.json'
+        default: "auto"
+        required: true
+
+concurrency:
+  group: atualizar-vagas # mesmo lock do ciclo de dados — nunca rodam juntos
+  cancel-in-progress: false
+
+jobs:
+  pick:
+    runs-on: ubuntu-latest
+    outputs:
+      list: ${{ steps.pick.outputs.list }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: pick
+        run: |
+          IN="${{ github.event.inputs.sources || 'auto' }}"
+          if [ "$IN" = "auto" ]; then
+            LIST=$(node -e "try{const h=require('./site/public/data/health.json');process.stdout.write((h.needsReprocess||[]).join(','))}catch(e){process.stdout.write('')}")
+          else
+            LIST="$IN"
+          fi
+          echo "list=$LIST" >> "$GITHUB_OUTPUT"
+          echo "Vai reprocessar: ${LIST:-<nada>}"
+
+  run:
+    needs: pick
+    if: needs.pick.outputs.list != ''
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+
+      - name: Reprocessar fontes
+        run: |
+          IFS=',' read -ra IDS <<< "${{ needs.pick.outputs.list }}"
+          for raw in "${IDS[@]}"; do
+            id="$(echo "$raw" | xargs)"
+            [ -z "$id" ] && continue
+            echo "::group::$id"
+            node collector/run-source.js "$id" || echo "::warning::reprocesso de $id terminou com falha (part anterior preservado)"
+            echo "::endgroup::"
+          done
+
+      # Tira o alerta da caixa "Fontes" só das fontes que acabaram de ser reprocessadas
+      # (faz PATCH no health.json existente — não recalcula as outras, que não rodaram).
+      - name: Atualizar veredito das fontes reprocessadas
+        run: |
+          node -e '
+            const fs = require("fs");
+            const HP = "site/public/data/health.json";
+            const list = "${{ needs.pick.outputs.list }}".split(",").map((s) => s.trim()).filter(Boolean);
+            let h;
+            try { h = JSON.parse(fs.readFileSync(HP, "utf-8")); } catch { process.exit(0); }
+            for (const id of list) {
+              let part;
+              try { part = JSON.parse(fs.readFileSync("site/public/data/parts/" + id + ".json", "utf-8")); } catch { continue; }
+              const n = (part.jobs || []).length;
+              h.sources = h.sources || {};
+              h.sources[id] = { ...(h.sources[id] || {}), verdict: n > 0 ? "ok" : "failed", reasons: n > 0 ? [] : ["0 vagas no reprocesso"], jobsFound: n, lastRunAt: part.collectedAt || null };
+            }
+            h.needsReprocess = (h.needsReprocess || []).filter((id) => !list.includes(id));
+            h.alerts = Object.entries(h.sources).filter(([, a]) => a.verdict && !["ok", "unknown"].includes(a.verdict)).map(([id, a]) => id + ": " + a.verdict.toUpperCase() + " — " + (a.reasons || []).join("; "));
+            h.ok = h.alerts.length === 0;
+            fs.writeFileSync(HP, JSON.stringify(h, null, 2));
+            console.log("health patch:", list.join(", "), "->", h.ok ? "todas OK" : h.alerts.join(" | "));
+          '
+
+      - name: Commitar parts
+        run: |
+          git config user.name "vagas-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/public/data/parts site/public/data/health.json
+          if git diff --quiet --staged; then
+            echo "Nenhum part mudou."
+          else
+            git commit -m "chore: reprocessa fontes ($(date -u +%FT%TZ)) [skip ci]"
+            git pull --rebase --autostash -q || true
+            git push || echo "push falhou — confira Settings > Actions > Workflow permissions"
+          fi

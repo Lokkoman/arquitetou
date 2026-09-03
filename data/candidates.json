@@ -1,0 +1,72 @@
+{
+  "generatedAt": "2026-09-02T11:57:17.075Z",
+  "note": "Gemini falhou: Gemini HTTP 429: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-lim",
+  "candidates": [
+    {
+      "type": "job-board",
+      "name": "https://www.empregos.com.br/vagas/arquiteto",
+      "url": "https://www.empregos.com.br/vagas/arquiteto",
+      "uf": null,
+      "remote": false,
+      "why": "seed manual",
+      "firstSeen": "2026-08-27T03:21:21.771Z",
+      "lastSeen": "2026-08-27T03:21:21.772Z",
+      "adopted": false,
+      "probe": {
+        "url": "https://www.empregos.com.br/vagas/arquiteto",
+        "checkedAt": "2026-08-27T03:21:21.772Z",
+        "robots": {
+          "status": 200,
+          "protected": false,
+          "disallowAll": false,
+          "note": null
+        },
+        "status": 502,
+        "ms": 121,
+        "verdict": "inacessivel",
+        "notes": [
+          "HTTP 502"
+        ]
+      },
+      "robotsProtected": false
+    },
+    {
+      "type": "job-board",
+      "name": "https://www.trabalhabrasil.com.br/vagas-de-emprego/arquiteto",
+      "url": "https://www.trabalhabrasil.com.br/vagas-de-emprego/arquiteto",
+      "uf": null,
+      "remote": false,
+      "why": "seed manual",
+      "firstSeen": "2026-08-27T03:20:53.953Z",
+      "lastSeen": "2026-08-27T03:20:53.954Z",
+      "adopted": false,
+      "probe": {
+        "url": "https://www.trabalhabrasil.com.br/vagas-de-emprego/arquiteto",
+        "checkedAt": "2026-08-27T03:20:53.954Z",
+        "robots": {
+          "status": 200,
+          "protected": false,
+          "disallowAll": false,
+          "note": null
+        },
+        "status": 200,
+        "ms": 868,
+        "signals": {
+          "contentType": "text/html; charset=utf-8",
+          "htmlBytes": 369012,
+          "textChars": 4247,
+          "scriptSrcCount": 12,
+          "listingHits": 31,
+          "isJson": false,
+          "hasJobPosting": false,
+          "hasEmbeddedJson": false,
+          "antibot": false,
+          "looksSpa": false
+        },
+        "verdict": "html",
+        "notes": []
+      },
+      "robotsProtected": false
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Arquitetou — vagas de arquitetura, urbanismo e licenciamento</title>
+<meta name="description" content="Agregador de vagas de arquitetura, urbanismo e licenciamento — São Paulo, Osasco, Taboão da Serra, Guarulhos, Barueri e qualquer cidade do Brasil quando a vaga é 100% remota. Atualiza sozinho 1x/dia." />
+<link rel="icon" type="image/svg+xml" href="favicon.svg" />
+<link rel="mask-icon" href="favicon.svg" color="#0f766e" />
+<meta name="theme-color" content="#0f766e" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Arquitetou" />
+<meta property="og:title" content="Arquitetou — vagas de arquitetura, urbanismo e licenciamento" />
+<meta property="og:description" content="Vagas de arquitetura, urbanismo e licenciamento na Grande São Paulo + remoto (Brasil). Atualiza sozinho 1x/dia." />
+<meta name="twitter:card" content="summary" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+          <rect width="64" height="64" rx="12" fill="var(--accent)" />
+          <g stroke="#ffffff" stroke-opacity="0.13" stroke-width="1">
+            <path d="M16 4V60M32 4V60M48 4V60M4 16H60M4 32H60M4 48H60" />
+          </g>
+          <path d="M12 50H53" stroke="#ffffff" stroke-width="5" stroke-linecap="round" />
+          <path d="M15 50V33a9 9 0 0 1 18 0V50" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" />
+          <circle cx="24" cy="33" r="2.6" fill="#ffffff" />
+          <rect x="39" y="24" width="8" height="26" rx="1.5" fill="#ffffff" />
+          <rect x="49" y="17" width="7" height="33" rx="1.5" fill="#ffffff" fill-opacity="0.82" />
+        </svg>
+      </span>
+      <div class="brand-text">
+        <h1>Arquitetou<span class="brand-q">?</span></h1>
+        <p class="brand-sub">Vagas de arquitetura, urbanismo e licenciamento — São Paulo, Osasco, Taboão da Serra, Guarulhos, Barueri e remoto (Brasil todo)</p>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <span id="updatedAt" class="updated-at">—</span>
+      <span class="section-note">Atualiza sozinho 1x/dia, de madrugada</span>
+    </div>
+  </div>
+</header>
+
+<main class="container layout">
+
+  <aside class="sidebar sidebar-left" aria-label="Filtros">
+    <div class="sidebar-header sidebar-header-row">
+      <h2>Filtros</h2>
+      <button id="clearFilters" class="btn btn-ghost btn-sm" type="button">Limpar</button>
+    </div>
+
+    <div class="filters-stack">
+      <div class="filter-group">
+        <label for="fWorkplace">Modalidade</label>
+        <select id="fWorkplace">
+          <option value="todas">Todas</option>
+          <option value="remote">Remoto</option>
+          <option value="hybrid">Híbrido</option>
+          <option value="on-site">Presencial</option>
+          <option value="nao_informado">Não informado</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="fCity">Cidade</label>
+        <select id="fCity">
+          <option value="todas">Todas</option>
+          <option value="sao_paulo">São Paulo</option>
+          <option value="osasco">Osasco</option>
+          <option value="taboao">Taboão da Serra</option>
+          <option value="guarulhos">Guarulhos</option>
+          <option value="barueri">Barueri</option>
+          <option value="remoto">Remoto (qualquer cidade)</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="fCategory">Tipo de vaga</label>
+        <select id="fCategory">
+          <option value="todas">Todos</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="fSource">Fonte</label>
+        <select id="fSource">
+          <option value="todas">Todas</option>
+        </select>
+      </div>
+      <div class="filter-group" hidden>
+        <label for="fTool">Programa</label>
+        <select id="fTool"><option value="todas">Todos</option></select>
+      </div>
+      <div class="filter-group">
+        <label for="fDays">Publicada em até</label>
+        <select id="fDays">
+          <option value="">Qualquer data</option>
+          <option value="1">Últimas 24h</option>
+          <option value="3">Últimos 3 dias</option>
+          <option value="7">Última semana</option>
+          <option value="30" selected>Último mês</option>
+          <option value="90">Últimos 3 meses</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="fQuery">Buscar</label>
+        <input id="fQuery" type="search" placeholder="cargo ou empresa..." />
+      </div>
+    </div>
+
+    <div class="profile-box">
+      <button id="profileToggle" class="btn btn-ghost" type="button" aria-expanded="false">🎯 Ordenar pelo meu perfil</button>
+      <div id="profilePanel" hidden>
+        <p class="section-note">Cole suas habilidades, ferramentas e experiência. Fica só neste navegador e serve pra calcular a compatibilidade de cada vaga — nada é enviado a lugar nenhum.</p>
+        <textarea id="profileText" rows="5" placeholder="Ex.: Arquiteta e urbanista, 4 anos com aprovação de projetos e regularização de imóveis na prefeitura de SP, AutoCAD e Revit avançado, SketchUp, habite-se, AVCB, laudos..."></textarea>
+        <div class="profile-actions">
+          <button id="profileSave" class="btn btn-primary btn-sm" type="button">Salvar e ordenar</button>
+          <button id="profileClear" class="btn btn-ghost btn-sm" type="button">Limpar</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="source-box">
+      <h3 class="source-box-title">Fontes</h3>
+      <section id="sourceStatus" class="source-status" aria-live="polite"></section>
+      <section id="sourceNotes" class="source-notes"></section>
+    </div>
+  </aside>
+
+  <div class="main-content">
+
+    <section aria-label="Resultados">
+      <div class="results-header">
+        <h2 id="resultsCount">Carregando vagas…</h2>
+        <label class="sort-control">Ordenar:
+          <select id="fSort">
+            <option value="recent">Mais recentes</option>
+            <option value="match">Melhor match com meu perfil</option>
+          </select>
+        </label>
+      </div>
+      <div id="jobsList" class="jobs-list"></div>
+      <div id="emptyState" class="empty-state" hidden>
+        <p>Nenhuma vaga encontrada com esses filtros.</p>
+        <p class="empty-hint">Tente ampliar o período ou remover filtros. Veja também a busca direta abaixo e o diretório de escritórios ao lado.</p>
+      </div>
+    </section>
+
+    <section class="collapsible" aria-label="Buscar diretamente">
+      <button id="deeplinksToggle" class="collapsible-toggle" type="button" aria-expanded="false">
+        <span>🔎 Buscar diretamente no LinkedIn, Indeed e Catho</span>
+        <span class="chev">▾</span>
+      </button>
+      <div id="deeplinksBody" class="collapsible-body" hidden>
+        <p class="section-note">Esses sites bloqueiam ou dificultam a extração automática — aqui vai o link de busca já pronto, filtrado por cidade, período e tipo de vaga. É só clicar.</p>
+        <div id="deeplinksGrid" class="deeplinks-grid"></div>
+      </div>
+    </section>
+
+  </div>
+
+  <aside class="sidebar" aria-label="Escritórios de arquitetura com inscrição">
+    <div class="sidebar-header">
+      <h2>🏢 Sites de escritórios com inscrição</h2>
+      <p class="section-note" id="firmsNote"></p>
+    </div>
+    <div id="firmsGrid" class="firms-list"></div>
+  </aside>
+
+</main>
+
+<footer class="footer">
+  <p>Fontes agregadas automaticamente: Gupy (portal), Vagas.com, InfoJobs, BNE, Catho, Empregos.com.br, LinkedIn. Indeed via busca direta.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

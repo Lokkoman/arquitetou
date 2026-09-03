@@ -1,0 +1,22 @@
+{
+  "name": "arquitetou",
+  "private": true,
+  "description": "Arquitetou — agregador de vagas de arquitetura, urbanismo e licenciamento em SP / Osasco / Taboão da Serra / Guarulhos / Barueri + remoto (Brasil). Site estático publicado no GitHub Pages.",
+  "repository": "github:Lokkoman/arquitetou",
+  "scripts": {
+    "build": "node site/build.js",
+    "build:local": "node site/build.js --no-scrape --no-ai",
+    "serve": "serve site/public",
+    "probe": "node tools/probe.js",
+    "discover": "node tools/discover.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}

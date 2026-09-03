@@ -1,0 +1,33 @@
+{
+  "sourceId": "vagas-com",
+  "name": "Vagas.com",
+  "collectedAt": "2026-08-31T00:15:25.992Z",
+  "durationMs": 23961,
+  "queriesRun": 32,
+  "ok": true,
+  "aborted": false,
+  "errorCount": 0,
+  "errors": [],
+  "jobs": [
+    {
+      "id": "df9ad3d1138b2f3f",
+      "title": "Arquiteto(a)",
+      "company": "Álya Construtora S.A.",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "Vagas.com",
+      "sourceId": "vagas-com",
+      "sourceType": "scraped",
+      "seniority": "sênior",
+      "workplaceType": null,
+      "matchedKeyword": "arquitetura",
+      "postedAt": null,
+      "url": "https://www.vagas.com.br/vagas/v2823194/arquiteto-a",
+      "description": "Descrição:CEBE - Consórcio Expresso Boa Esperança está em busca de profissional para atuar como Arquiteto(a) nas obras da Linha 15 Prata do Metrô de São Paulo/SP (Monotrilho Leste).Principais Atividades:Atividades relacionadas diretamente em projetos de arquitetura, acabamento e comunicação de estações metroviárias.Elaborar planos e projetos de arquitetura, em todas as suas etapas, d...",
+      "descriptionSnippet": "Descrição:CEBE - Consórcio Expresso Boa Esperança está em busca de profissional para atuar como Arquiteto(a) nas obras da Linha 15 Prata do Metrô de São Paulo/SP (Monotrilho Leste).Principais Atividades:Atividades relacionadas diretamente e…",
+      "collectedAt": "2026-08-31T00:15:25.986Z"
+    }
+  ],
+  "verdict": "ok"
+}

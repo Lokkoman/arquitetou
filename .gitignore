@@ -1,0 +1,9 @@
+node_modules/
+*.tmp
+*.log
+.env
+.env.*
+
+# cache local do coletor (o que vai pro site fica em site/public/data/, versionado)
+data/jobs.json
+data/sources-status.json

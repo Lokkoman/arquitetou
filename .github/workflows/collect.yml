@@ -1,0 +1,147 @@
+name: Atualizar vagas
+
+# A cada 3h: raspa as 7 fontes (um job por fonte), junta com retenção de 90d,
+# classifica as novas com o Gemini e publica no Pages. LinkedIn via Bright Data só
+# na 1ª rodada de segunda.
+
+on:
+  schedule:
+    - cron: "0 10,13,16,19,22,1 * * *" # 07/10/13/16/19/22 BRT
+  workflow_dispatch:
+    inputs:
+      linkedin:
+        description: "LinkedIn via Bright Data (manual): off | incremental | backfill"
+        type: choice
+        options: ["off", "incremental", "backfill"]
+        default: "off"
+
+concurrency:
+  group: atualizar-vagas
+  cancel-in-progress: false
+
+jobs:
+  fontes:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        id: [gupy-portal, vagas-com, infojobs, bne, linkedin, catho, empregos]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - name: Coletar ${{ matrix.id }}
+        run: node collector/run-source.js ${{ matrix.id }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: part-${{ matrix.id }}
+          path: site/public/data/parts/${{ matrix.id }}.json
+          if-no-files-found: warn
+          retention-days: 7
+
+  publicar:
+    needs: fontes
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: part-*
+          path: /tmp/parts
+          merge-multiple: true
+      - name: Mover parts pro repo
+        run: |
+          mkdir -p site/public/data/parts
+          cp -f /tmp/parts/*.json site/public/data/parts/ 2>/dev/null || echo "nenhum part novo"
+
+      # Recalcula health.json + grava a linha de history.jsonl (o --no-native não faz isso).
+      - name: Recalcular health.json
+        run: |
+          node -e '
+            const fs = require("fs");
+            const dir = "site/public/data/parts";
+            const map = {};
+            for (const f of fs.readdirSync(dir).filter((x) => x.endsWith(".json"))) {
+              const j = JSON.parse(fs.readFileSync(dir + "/" + f, "utf-8"));
+              if (!j || !j.sourceId) continue;
+              map[j.sourceId] = {
+                name: j.name || j.sourceId,
+                jobsFound: (j.jobs || []).length,
+                errors: j.errors || [],
+                queriesRun: j.queriesRun || null,
+                durationMs: j.durationMs || null,
+                lastRunAt: j.collectedAt || null,
+              };
+            }
+            const { assessHealth } = require("./tools/health");
+            const h = assessHealth({ sources: map });
+            console.log("health:", h.ok ? "todas OK" : h.alerts.join(" | "));
+          '
+
+      # LinkedIn só 1×/semana: segunda 10:00 UTC. O coletor abre a janela pra 7 dias sozinho.
+      - id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "linkedin=${{ github.event.inputs.linkedin }}" >> "$GITHUB_OUTPUT"
+          elif [ "$(date -u +%u)" = "1" ] && [ "$(date -u +%H)" = "10" ]; then
+            echo "linkedin=incremental" >> "$GITHUB_OUTPUT"
+          else
+            echo "linkedin=off" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Sem GEMINI_API_KEY / BRIGHTDATA_* roda igual, só sem IA e sem LinkedIn.
+      - name: Montar dados + classificar + gerar site
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          BRIGHTDATA_API_TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+          BRIGHTDATA_JOBS_DATASET: ${{ vars.BRIGHTDATA_JOBS_DATASET }}
+          BRIGHTDATA_API_TOKEN_2: ${{ secrets.BRIGHTDATA_API_TOKEN_2 }}
+          BRIGHTDATA_JOBS_DATASET_2: ${{ vars.BRIGHTDATA_JOBS_DATASET_2 }}
+          BRIGHTDATA_POSTS_DATASET: ${{ vars.BRIGHTDATA_POSTS_DATASET }}
+        run: node site/build.js --no-native --linkedin=${{ steps.mode.outputs.linkedin }}
+
+      - name: Commitar dados
+        continue-on-error: true
+        run: |
+          git config user.name "vagas-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/public/data
+          if git diff --quiet --staged; then
+            echo "Nada mudou."
+          else
+            git commit -m "chore: atualiza vagas ($(date -u +%Y-%m-%dT%H:%MZ)) [skip ci]"
+            git pull --rebase --autostash -q || true
+            git push || echo "push falhou — confira Workflow permissions"
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/public
+
+  deploy:
+    needs: publicar
+    # `always() &&` é obrigatório: sem uma status-check function no if, o GitHub PULA
+    # este job quando um ancestral (o matrix `fontes`) falhou, antes mesmo de avaliar
+    # a condição — e o site ficava parado mesmo com dados novos commitados.
+    if: ${{ always() && needs.publicar.result == 'success' }}
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

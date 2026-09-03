@@ -1,0 +1,71 @@
+name: Limpar histórico de runs
+
+# Apaga runs antigos das Actions: mantém as KEEP_MIN mais recentes de cada workflow
+# e remove o resto além de KEEP_DAYS dias. Semanal (domingo) + manual.
+
+on:
+  schedule:
+    - cron: "0 3 * * 0"
+  workflow_dispatch:
+    inputs:
+      keep_days:
+        description: "Apagar runs mais antigos que N dias"
+        default: "30"
+        required: true
+      keep_min:
+        description: "Sempre manter as N runs mais recentes de cada workflow"
+        default: "20"
+        required: true
+
+concurrency:
+  group: cleanup-runs
+  cancel-in-progress: false
+
+permissions:
+  actions: write # apagar runs
+  contents: read
+
+jobs:
+  prune:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Apagar runs antigos
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          KEEP_DAYS: ${{ github.event.inputs.keep_days || '30' }}
+          KEEP_MIN: ${{ github.event.inputs.keep_min || '20' }}
+        run: |
+          set -euo pipefail
+          cutoff=$(date -u -d "-${KEEP_DAYS} days" +%s)
+          echo "Corte: runs criados antes de $(date -u -d "@${cutoff}" +%FT%TZ) | mantendo as ${KEEP_MIN} mais novas por workflow"
+
+          # id \t created_at \t workflow_name  — mais novo primeiro
+          mapfile -t rows < <(gh api --paginate \
+            "/repos/${REPO}/actions/runs?per_page=100" \
+            --jq '.workflow_runs[] | [.id, .created_at, .name] | @tsv' \
+            | sort -t$'\t' -k2,2r)
+
+          declare -A count
+          deleted=0
+          kept=0
+          for row in "${rows[@]}"; do
+            id=$(cut -f1 <<<"$row")
+            created=$(cut -f2 <<<"$row")
+            wf=$(cut -f3- <<<"$row")
+            count[$wf]=$(( ${count[$wf]:-0} + 1 ))
+
+            if [ "${count[$wf]}" -le "${KEEP_MIN}" ]; then
+              kept=$((kept + 1)); continue
+            fi
+            ts=$(date -u -d "$created" +%s)
+            if [ "$ts" -ge "$cutoff" ]; then
+              kept=$((kept + 1)); continue
+            fi
+            if gh api -X DELETE "/repos/${REPO}/actions/runs/${id}" --silent 2>/dev/null; then
+              deleted=$((deleted + 1))
+            else
+              echo "::warning::falha ao apagar run ${id} (${wf})"
+            fi
+          done
+          echo "Apagados: ${deleted} | mantidos: ${kept} | total avaliado: ${#rows[@]}"

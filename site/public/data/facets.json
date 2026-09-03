@@ -1,0 +1,168 @@
+{
+  "roles": [
+    {
+      "label": "Arquiteto(a)",
+      "n": 202
+    },
+    {
+      "label": "Urbanista",
+      "n": 7
+    },
+    {
+      "label": "Projetista",
+      "n": 257
+    },
+    {
+      "label": "Cadista",
+      "n": 51
+    },
+    {
+      "label": "Desenhista",
+      "n": 90
+    },
+    {
+      "label": "Designer de Interiores",
+      "n": 36
+    },
+    {
+      "label": "Modelador BIM",
+      "n": 5
+    },
+    {
+      "label": "Coordenador de Projetos",
+      "n": 2
+    },
+    {
+      "label": "Analista",
+      "n": 54
+    },
+    {
+      "label": "Assistente / Auxiliar",
+      "n": 47
+    },
+    {
+      "label": "Estagiário",
+      "n": 132
+    },
+    {
+      "label": "Técnico em Edificações",
+      "n": 33
+    },
+    {
+      "label": "Orçamentista",
+      "n": 13
+    },
+    {
+      "label": "Consultor / Especialista",
+      "n": 15
+    },
+    {
+      "label": "Fiscal / Mestre de Obras",
+      "n": 1
+    }
+  ],
+  "scope": [
+    {
+      "label": "Projeto arquitetônico",
+      "n": 7
+    },
+    {
+      "label": "Projeto executivo",
+      "n": 7
+    },
+    {
+      "label": "Projeto legal / aprovação",
+      "n": 8
+    },
+    {
+      "label": "Legalização / regularização",
+      "n": 8
+    },
+    {
+      "label": "Licenciamento",
+      "n": 4
+    },
+    {
+      "label": "Habite-se / alvará / AVCB",
+      "n": 8
+    },
+    {
+      "label": "Compatibilização",
+      "n": 8
+    },
+    {
+      "label": "Levantamento / as built",
+      "n": 2
+    },
+    {
+      "label": "Acompanhamento de obra",
+      "n": 15
+    },
+    {
+      "label": "Orçamento / quantitativos",
+      "n": 2
+    },
+    {
+      "label": "Laudo / perícia / vistoria",
+      "n": 3
+    },
+    {
+      "label": "Avaliação de imóveis",
+      "n": 1
+    },
+    {
+      "label": "Restauro / retrofit",
+      "n": 2
+    },
+    {
+      "label": "Maquete / renderização",
+      "n": 3
+    },
+    {
+      "label": "Interiores",
+      "n": 45
+    },
+    {
+      "label": "Paisagismo",
+      "n": 7
+    },
+    {
+      "label": "Planejamento urbano",
+      "n": 3
+    },
+    {
+      "label": "Loteamento / parcelamento",
+      "n": 3
+    },
+    {
+      "label": "HIS / habitação social",
+      "n": 2
+    },
+    {
+      "label": "Due diligence / georreferenciamento",
+      "n": 1
+    }
+  ],
+  "tools": [
+    {
+      "label": "AutoCAD",
+      "n": 56
+    },
+    {
+      "label": "SketchUp",
+      "n": 20
+    },
+    {
+      "label": "ArchiCAD",
+      "n": 4
+    },
+    {
+      "label": "Revit",
+      "n": 24
+    },
+    {
+      "label": "BIM",
+      "n": 32
+    }
+  ]
+}

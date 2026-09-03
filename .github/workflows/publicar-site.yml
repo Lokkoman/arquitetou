@@ -1,0 +1,37 @@
+name: Publicar site
+
+# Sobe a pasta site/public/ pro GitHub Pages, sem build. Dispara em push no
+# front-end (HTML/CSS/JS/ícone).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "site/public/**/*.html"
+      - "site/public/**/*.css"
+      - "site/public/**/*.js"
+      - "site/public/**/*.svg"
+      - "site/public/**/*.webmanifest"
+      - ".github/workflows/publicar-site.yml"
+  workflow_dispatch: {}
+
+concurrency:
+  group: pages-publish
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/public
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,45 @@
+name: Descobrir fontes novas
+
+on:
+  schedule:
+    - cron: "0 7 * * *" # 07:00 UTC = 04:00 BRT — em paralelo ao collect.yml (independente)
+  workflow_dispatch: {}
+
+concurrency:
+  group: discover
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # commitar data/candidates.*
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      # Sem GEMINI_API_KEY roda igual, só sem a descoberta por IA (a verificação das
+      # firmas já no diretório continua). Usa Google Search grounding (grátis).
+      - name: Descobrir + validar candidatos
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DISCOVER_GEMINI_MODEL: ${{ vars.DISCOVER_GEMINI_MODEL }}
+        run: node tools/discover.js
+
+      - name: Commitar candidatos
+        run: |
+          git config user.name "vagas-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/candidates.json data/candidates.md data/firms.json
+          if git diff --quiet --staged; then
+            echo "Sem mudança na lista de candidatos."
+          else
+            git commit -m "chore: candidatos de fonte + diretório de escritórios ($(date -u +%F)) [skip ci]"
+            git push || echo "push falhou — confira Workflow permissions"
+          fi
+      # A fila de revisão fica no arquivo data/candidates.md (versionado); sem issue.

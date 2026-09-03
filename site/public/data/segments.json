@@ -1,0 +1,56 @@
+{
+  "segments": [
+    {
+      "key": "licenciamento",
+      "label": "Licenciamento & Regularização"
+    },
+    {
+      "key": "restauro",
+      "label": "Restauro & Patrimônio"
+    },
+    {
+      "key": "pericia",
+      "label": "Perícia & Avaliação de Imóveis"
+    },
+    {
+      "key": "sustentabilidade",
+      "label": "Sustentabilidade & Certificações"
+    },
+    {
+      "key": "bim",
+      "label": "BIM & Compatibilização"
+    },
+    {
+      "key": "paisagismo",
+      "label": "Paisagismo"
+    },
+    {
+      "key": "interiores",
+      "label": "Interiores"
+    },
+    {
+      "key": "obra",
+      "label": "Obra & Acompanhamento"
+    },
+    {
+      "key": "viz3d",
+      "label": "Visualização 3D & Maquete"
+    },
+    {
+      "key": "urbanismo",
+      "label": "Urbanismo & Planejamento"
+    },
+    {
+      "key": "arquitetura",
+      "label": "Arquitetura & Projeto"
+    },
+    {
+      "key": "cad",
+      "label": "CAD, Projetista & Detalhamento"
+    },
+    {
+      "key": "outros",
+      "label": "Outras / a revisar"
+    }
+  ]
+}

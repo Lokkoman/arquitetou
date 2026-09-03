@@ -1,0 +1,6 @@
+# URLs para o scripts/discover.js testar com o probe, além do que a IA descobrir.
+# Uma URL por linha. Aponte pra uma PÁGINA QUE LISTA VAGAS (não a home).
+# Linhas com # são ignoradas. Depois de adotar uma fonte, tire daqui.
+
+https://www.trabalhabrasil.com.br/vagas-de-emprego/arquiteto
+https://www.empregos.com.br/vagas/arquiteto

@@ -1,0 +1,115 @@
+{
+  "sources": {
+    "gupy-portal": {
+      "name": "Gupy",
+      "ok": true,
+      "verdict": "ok",
+      "aborted": false,
+      "jobsFound": 8,
+      "queriesRun": 252,
+      "durationMs": 11719,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-09-03T05:31:44.180Z",
+      "note": "Coletado em workflow próprio."
+    },
+    "vagas-com": {
+      "name": "Vagas.com",
+      "ok": true,
+      "verdict": "ok",
+      "aborted": false,
+      "jobsFound": 1,
+      "queriesRun": 32,
+      "durationMs": 23961,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-08-31T00:15:25.992Z",
+      "note": "Coletado em workflow próprio."
+    },
+    "infojobs": {
+      "name": "InfoJobs",
+      "ok": true,
+      "verdict": "ok",
+      "aborted": false,
+      "jobsFound": 102,
+      "queriesRun": 125,
+      "durationMs": 101731,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-09-03T05:33:14.904Z",
+      "note": "Coletado em workflow próprio."
+    },
+    "bne": {
+      "name": "BNE",
+      "ok": true,
+      "verdict": "ok",
+      "aborted": false,
+      "jobsFound": 124,
+      "queriesRun": 54,
+      "durationMs": 116128,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-09-03T05:33:31.144Z",
+      "note": "Coletado em workflow próprio."
+    },
+    "linkedin": {
+      "name": "LinkedIn",
+      "ok": true,
+      "verdict": "ok",
+      "aborted": false,
+      "jobsFound": 122,
+      "queriesRun": 524,
+      "durationMs": 521861,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-09-03T05:40:14.279Z",
+      "note": "Coletado em workflow próprio."
+    },
+    "catho": {
+      "name": "Catho",
+      "ok": true,
+      "verdict": "ok",
+      "aborted": false,
+      "jobsFound": 548,
+      "queriesRun": 503,
+      "durationMs": 272131,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-09-03T05:36:04.055Z",
+      "note": "Coletado em workflow próprio."
+    },
+    "empregos": {
+      "name": "Empregos.com.br",
+      "ok": true,
+      "verdict": "ok",
+      "aborted": false,
+      "jobsFound": 25,
+      "queriesRun": 52,
+      "durationMs": 154823,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-09-03T05:34:07.106Z",
+      "note": "Coletado em workflow próprio."
+    },
+    "linkedin-api": {
+      "name": "LinkedIn (vagas)",
+      "ok": true,
+      "jobsFound": 21,
+      "errors": [],
+      "lastRunAt": "2026-08-28T15:11:28.187Z",
+      "note": "Modo incremental: 76 da API."
+    }
+  },
+  "lastRun": "2026-09-03T05:42:46.603Z",
+  "startedAt": "2026-09-03T05:40:28.923Z",
+  "finishedAt": "2026-09-03T05:42:46.603Z",
+  "linkedin": null,
+  "ai": {
+    "model": null,
+    "enriched": 200,
+    "dropped": 94,
+    "cached": 836,
+    "ok": true,
+    "note": "134 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
+  }
+}

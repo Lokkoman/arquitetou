@@ -1,0 +1,252 @@
+{
+  "at": "2026-08-28T15:09:08.318Z",
+  "mode": "incremental",
+  "stats": {
+    "kept": 131,
+    "noUrl": 0,
+    "noMatch": 184,
+    "noCity": 152
+  },
+  "rejects": [
+    {
+      "why": "sem-match",
+      "title": "Advogado(a) Cível e Empresarial",
+      "location": "Votuporanga, São Paulo, Brazil",
+      "snippet": "Advogado(a) Cível e Empresarial Billalba Carvalho Sociedade de Advogados · Votuporanga, SP · Presencial O que você vai fazer Conduzir contencioso cível empresar"
+    },
+    {
+      "why": "sem-match",
+      "title": "OPERADOR IRRIGAÇÃO I (Pessoa Com Deficiência - PCD)",
+      "location": "Limeira do Oeste, Minas Gerais, Brazil",
+      "snippet": "Somente PCD - Responsável pelas operações dos pivôs e sistemas de gotejamento, checando funcionalidade.- Conferir níveis de água dos rios, reservatórios e sucçõ"
+    },
+    {
+      "why": "sem-match",
+      "title": "OPERADOR MÁQUINA AUTOMOTIVA II (Pessoa Com Deficiência - PCD)",
+      "location": "Limeira do Oeste, Minas Gerais, Brazil",
+      "snippet": "Somente PCD - Operar o trator ( transbordo) para recolhimento de cana colhida e picada pela máquina colheitadeira, obedecendo aos procedimentos operacionais, no"
+    },
+    {
+      "why": "sem-match",
+      "title": "Advogado(a) Cível e Empresarial",
+      "location": "Votuporanga, São Paulo, Brazil",
+      "snippet": "Advogado(a) Cível e Empresarial Billalba Carvalho Sociedade de Advogados · Votuporanga, SP · Presencial O que você vai fazer Conduzir contencioso cível empresar"
+    },
+    {
+      "why": "sem-cidade",
+      "title": "Analista Jurídico Pleno",
+      "location": "Brazil",
+      "snippet": "Sobre o Grupo Sinop: O Grupo Sinop é um grupo empresarial diversificado com atuação em incorporação imobiliária, urbanismo, participações estratégicas em projet"
+    },
+    {
+      "why": "sem-cidade",
+      "title": "Analista jurídico",
+      "location": "Florianópolis, Santa Catarina, Brazil",
+      "snippet": "Procuramos por pessoas que estejam dispostas a aprender e se desenvolver junto com um time que faz a diferença! Se você assim como nós, é apaixonado por tecnolo"
+    },
+    {
+      "why": "sem-match",
+      "title": "OPERADOR MÁQUINA AUTOMOTIVA III (Pessoa Com Deficiência - PCD)",
+      "location": "Limeira do Oeste, Minas Gerais, Brazil",
+      "snippet": "Somente PCD - Operar motoniveladora para o preparo do solo, reparos, conservação e construção de estradas ( principais e secundárias), atendendo á solicitação d"
+    },
+    {
+      "why": "sem-match",
+      "title": "Anti-Money Laundering Analyst",
+      "location": "Brazil",
+      "snippet": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Anti-Money Laundering Analyst"
+    },
+    {
+      "why": "sem-match",
+      "title": "Analista de Integridade Sr",
+      "location": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "snippet": "Descrição da vaga A área de Compliance da Vibra promove a cultura ética, gerenciando o Canal de Ética e o Canal de Ouvidoria, conduzindo análises de integridade"
+    },
+    {
+      "why": "sem-cidade",
+      "title": "Assistente de Legalização",
+      "location": "Foz do Iguaçu, Paraná, Brazil",
+      "snippet": "A área de legalização é responsável por toda parte societária da empresa, formalização jurídica de uma empresa perante os órgãos públicos, desde o nascimento at"
+    },
+    {
+      "why": "sem-match",
+      "title": "OPERADOR MÁQUINA AUTOMOTIVA II (Pessoa Com Deficiência - PCD)",
+      "location": "Limeira do Oeste, Minas Gerais, Brazil",
+      "snippet": "Somente PCD - Operar o trator ( transbordo) para recolhimento de cana colhida e picada pela máquina colheitadeira, obedecendo aos procedimentos operacionais, no"
+    },
+    {
+      "why": "sem-cidade",
+      "title": "Auxiliar de Legalização",
+      "location": "Contagem, Minas Gerais, Brazil",
+      "snippet": "Escritório de Contabilidade busca profissional Auxiliar de Legalização em Contagem (Centro). Responsabilidades Auxiliar na organização e conferência de document"
+    },
+    {
+      "why": "sem-match",
+      "title": "OPERADOR IRRIGAÇÃO I (Pessoa Com Deficiência - PCD)",
+      "location": "Limeira do Oeste, Minas Gerais, Brazil",
+      "snippet": "Somente PCD - Responsável pelas operações dos pivôs e sistemas de gotejamento, checando funcionalidade.- Conferir níveis de água dos rios, reservatórios e sucçõ"
+    },
+    {
+      "why": "sem-match",
+      "title": "AUXILIAR DE IRRIGAÇÃO (Pessoa Com Deficiência - PCD)",
+      "location": "Limeira do Oeste, Minas Gerais, Brazil",
+      "snippet": "Somente PCD - Responsável em realizar todas as atividades manuais, operacionais e de manutenção dosequipamentos de fertirrigação, e na entressafra auxiliar em c"
+    },
+    {
+      "why": "sem-match",
+      "title": "Analista Jurídico Pleno",
+      "location": "Recife, Pernambuco, Brazil",
+      "snippet": "Empresa de Transporte e Logística busca profissional Analista Jurídico Pleno em Recife. A Agemar é uma empresa especializada em transporte e logística. Oferece "
+    },
+    {
+      "why": "sem-match",
+      "title": "Member of Technical Staff - Legal Research (Remote)",
+      "location": "Brazil",
+      "snippet": "Role : Member of Technical Staff - Legal Research (Remote) Location : Remote (Work from Anywhere) Job Type : Full-Time Payout : $350K - $500K/yr Role Overview: "
+    },
+    {
+      "why": "sem-cidade",
+      "title": "Analista de Formalização de Garantias | AL5 AMAGGI",
+      "location": "Cuiabá, Mato Grosso, Brazil",
+      "snippet": "Quem somos? AL5 AMAGGI, em que AL5 representa a família de acionistas, foi criada com uma visão estratégica voltada para as mudanças na economia brasileira, apr"
+    },
+    {
+      "why": "sem-match",
+      "title": "Project Lead (Remote)",
+      "location": "Brazil",
+      "snippet": "Role : Project Lead (Remote) Location : Remote (Work from Anywhere) Job Type : Full-Time Payout : $400K - $550K/yr Role Overview: We are hiring for one of our c"
+    },
+    {
+      "why": "sem-match",
+      "title": "Ombudsman / Ouvidor",
+      "location": "São Paulo, Brazil",
+      "snippet": "About VelaFi At VelaFi, we're building the future of global financial infrastructure. As a stablecoin-powered platform, we help businesses move money across bor"
+    },
+    {
+      "why": "sem-match",
+      "title": "Analista Jr de Legal e Compliance - São Paulo (SP)",
+      "location": "São Paulo, Brazil",
+      "snippet": "Principais Responsabilidades (mas Não Se Limita A) Comunicação L&C Treinamentos eLearning L&C TPRM e revisão de contratos Suporte ferramentas: eCORE, LEAH, Shar"
+    },
+    {
+      "why": "sem-match",
+      "title": "Advogado(a) Cível e Empresarial",
+      "location": "Votuporanga, São Paulo, Brazil",
+      "snippet": "Advogado(a) Cível e Empresarial Billalba Carvalho Sociedade de Advogados · Votuporanga, SP · Presencial O que você vai fazer Conduzir contencioso cível empresar"
+    },
+    {
+      "why": "sem-match",
+      "title": "OPERADOR MÁQUINA AUTOMOTIVA III (Pessoa Com Deficiência - PCD)",
+      "location": "Limeira do Oeste, Minas Gerais, Brazil",
+      "snippet": "Somente PCD - Operar motoniveladora para o preparo do solo, reparos, conservação e construção de estradas ( principais e secundárias), atendendo á solicitação d"
+    },
+    {
+      "why": "sem-cidade",
+      "title": "Departamento Societário",
+      "location": "Rio do Sul, Santa Catarina, Brazil",
+      "snippet": "Estamos em busca de uma pessoa para atuar no Departamento Societário da Simples Contabilidade Descomplicada , em Rio do Sul/SC. A posição envolve rotinas de abe"
+    },
+    {
+      "why": "sem-match",
+      "title": "OPERADOR IRRIGAÇÃO I (Pessoa Com Deficiência - PCD)",
+      "location": "Limeira do Oeste, Minas Gerais, Brazil",
+      "snippet": "Somente PCD - Responsável pelas operações dos pivôs e sistemas de gotejamento, checando funcionalidade.- Conferir níveis de água dos rios, reservatórios e sucçõ"
+    },
+    {
+      "why": "sem-match",
+      "title": "OPERADOR MÁQUINA AUTOMOTIVA II (Pessoa Com Deficiência - PCD)",
+      "location": "Limeira do Oeste, Minas Gerais, Brazil",
+      "snippet": "Somente PCD - Operar o trator ( transbordo) para recolhimento de cana colhida e picada pela máquina colheitadeira, obedecendo aos procedimentos operacionais, no"
+    },
+    {
+      "why": "sem-match",
+      "title": "AUXILIAR DE IRRIGAÇÃO (Pessoa Com Deficiência - PCD)",
+      "location": "Limeira do Oeste, Minas Gerais, Brazil",
+      "snippet": "Somente PCD - Responsável em realizar todas as atividades manuais, operacionais e de manutenção dosequipamentos de fertirrigação, e na entressafra auxiliar em c"
+    },
+    {
+      "why": "sem-match",
+      "title": "Analista de Verificação",
+      "location": "Goiânia, Goiás, Brazil",
+      "snippet": "Participe do processo seletivo para Analista de Verificação . Atividades Realizar a validação de identidade de clientes por meio da análise de documentos e vide"
+    },
+    {
+      "why": "sem-match",
+      "title": "Anti-Money Laundering Analyst",
+      "location": "Brazil",
+      "snippet": "Launch Your Next Successful Chapter with Veta Virtual! 🚀 💸 Competitive Salary in USD | 🌍 100% Remote | 🪙 Fintech & Cryptocurrency Industry Are you a detail-"
+    },
+    {
+      "why": "sem-cidade",
+      "title": "Analista de Licitações",
+      "location": "Jaboatão dos Guararapes, Pernambuco, Brazil",
+      "snippet": "Estamos contratando Analista de Licitação Presencial | Piedade, Jaboatão dos Guararapes/PE | CLT Procuramos quem já opera licitação pública do lado do licitante"
+    },
+    {
+      "why": "sem-cidade",
+      "title": "ENGENHEIRO DE PROJETOS/ARQUITETO",
+      "location": "Juazeiro do Norte, Ceará, Brazil",
+      "snippet": "Descrição O profissional será responsável pelo desenvolvimento dos projetos arquitetônicos de cada loja , contemplando planta baixa, cortes e identificação dos "
+    },
+    {
+      "why": "sem-cidade",
+      "title": "PROJETISTA ARQUITETA",
+      "location": "Passo Fundo, Rio Grande do Sul, Brazil",
+      "snippet": "Efetivo (CLT) Empresa do segmento de revestimentos e design de interiores busca profissional para atuar no desenvolvimento de projetos e atendimento a clientes."
+    },
+    {
+      "why": "sem-cidade",
+      "title": "Vaga Arquiteto",
+      "location": "Lajeado, Rio Grande do Sul, Brazil",
+      "snippet": "Studio FOS Iluminação, temos vaga para a sede de Lajeado-RS : ARQUITETO JUNIOR Pré requisitos: Formação em Arquitetura; Ter experiência em outros escritórios de"
+    },
+    {
+      "why": "sem-match",
+      "title": "Design de Álbum",
+      "location": "Greater Goiania",
+      "snippet": "Criar peças gráficas para campanhas de marketing digital e offline; Desenvolver layouts para redes sociais, e-mail marketing e website; Auxiliar na criação de i"
+    },
+    {
+      "why": "sem-cidade",
+      "title": "Projetista de Obras",
+      "location": "Rio de Janeiro, Brazil",
+      "snippet": "Requisitos: Nível técnico Noção de AutoCad e acompanhamento de obras ter notebook com AutoCad instalado Show more Show less"
+    },
+    {
+      "why": "sem-cidade",
+      "title": "Vaga Arquiteto",
+      "location": "Lajeado, Rio Grande do Sul, Brazil",
+      "snippet": "Studio FOS Iluminação, temos vaga para a sede de Lajeado-RS : ARQUITETO JUNIOR Pré requisitos: Formação em Arquitetura; Ter experiência em outros escritórios de"
+    },
+    {
+      "why": "sem-match",
+      "title": "OPERADOR MÁQUINA AUTOMOTIVA III (Pessoa Com Deficiência - PCD)",
+      "location": "Limeira do Oeste, Minas Gerais, Brazil",
+      "snippet": "Somente PCD - Operar motoniveladora para o preparo do solo, reparos, conservação e construção de estradas ( principais e secundárias), atendendo á solicitação d"
+    },
+    {
+      "why": "sem-match",
+      "title": "Advogado(a) Cível e Empresarial",
+      "location": "Votuporanga, São Paulo, Brazil",
+      "snippet": "Advogado(a) Cível e Empresarial Billalba Carvalho Sociedade de Advogados · Votuporanga, SP · Presencial O que você vai fazer Conduzir contencioso cível empresar"
+    },
+    {
+      "why": "sem-cidade",
+      "title": "Auxiliar administrativo Atuação em AutoCad",
+      "location": "Brazil",
+      "snippet": "Vaga : Auxiliar de Projetos Local: Av. Palmeira Imperial, 225 – Bosque dos Buritis, Uberlândia/MG Modalidade: Presencial Sobre a Cia do Treinamento Somos a maio"
+    },
+    {
+      "why": "sem-match",
+      "title": "Advogado(a) Cível e Empresarial",
+      "location": "Votuporanga, São Paulo, Brazil",
+      "snippet": "Advogado(a) Cível e Empresarial Billalba Carvalho Sociedade de Advogados · Votuporanga, SP · Presencial O que você vai fazer Conduzir contencioso cível empresar"
+    },
+    {
+      "why": "sem-cidade",
+      "title": "VENDEDOR PROJETISTA",
+      "location": "Porto Alegre, Rio Grande do Sul, Brazil",
+      "snippet": "Atuar como VENDEDOR projetista junto a loja de móveis planejados. Atender aos clientes, levantamento de medições, desenvolvimento de projetos, elaboração de orç"
+    }
+  ]
+}
