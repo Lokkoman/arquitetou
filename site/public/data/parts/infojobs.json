@@ -1,14 +1,33 @@
 {
   "sourceId": "infojobs",
   "name": "InfoJobs",
-  "collectedAt": "2026-09-03T19:11:21.325Z",
-  "durationMs": 99366,
+  "collectedAt": "2026-09-03T23:53:48.516Z",
+  "durationMs": 80539,
   "queriesRun": 125,
   "ok": true,
   "aborted": false,
   "errorCount": 0,
   "errors": [],
   "jobs": [
+    {
+      "id": "ff2e8787a9645cb8",
+      "title": "ARQUITETO #1428",
+      "company": "RHF Talentos São Paulo/ L&S",
+      "location": "São Paulo - SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "InfoJobs",
+      "sourceId": "infojobs",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": null,
+      "matchedKeyword": "arquitetura",
+      "postedAt": "2026-09-03T04:34:00.000Z",
+      "url": "https://www.infojobs.com.br/vaga-de-arquiteto-1428-em-sao-paulo__11985154.aspx",
+      "description": "ARQUITETO #1428 Domínio de ferramentas de renderização e modelagem (como AutoCAD, SketchUp, Blender ou Vectorworks). Noções de orçamento, logística d...",
+      "descriptionSnippet": "ARQUITETO #1428 Domínio de ferramentas de renderização e modelagem (como AutoCAD, SketchUp, Blender ou Vectorworks). Noções de orçamento, logística d...",
+      "collectedAt": "2026-09-03T23:53:48.491Z"
+    },
     {
       "id": "cbd7f6e77a3830f8",
       "title": "ARQUITETO DE PROJETOS",
@@ -26,7 +45,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteto-projetos-em-sao-paulo__11980321.aspx",
       "description": "ARQUITETO(A) DE PROJETOS Local de atuação: Osasco – SP Sobre a posição Estamos em busca de Arquiteto de Projetos para atuar no desenvolvimento, anális...",
       "descriptionSnippet": "ARQUITETO(A) DE PROJETOS Local de atuação: Osasco – SP Sobre a posição Estamos em busca de Arquiteto de Projetos para atuar no desenvolvimento, anális...",
-      "collectedAt": "2026-09-03T19:11:21.306Z"
+      "collectedAt": "2026-09-03T23:53:48.495Z"
     },
     {
       "id": "3199def598854d58",
@@ -45,7 +64,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteto-pdv-sr-em-sao-paulo__11975754.aspx",
       "description": "Formação Acadêmica: Graduação em Arquitetura (preferencialmente) ou Engenharia Civil. Especialização em gestão de projetos é desejável. ? Tempo de Exp...",
       "descriptionSnippet": "Formação Acadêmica: Graduação em Arquitetura (preferencialmente) ou Engenharia Civil. Especialização em gestão de projetos é desejável. ? Tempo de Exp...",
-      "collectedAt": "2026-09-03T19:11:21.307Z"
+      "collectedAt": "2026-09-03T23:53:48.495Z"
     },
     {
       "id": "1043ce86526eacdb",
@@ -64,7 +83,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteto-obras-implantacao-em-sao-paulo__11950717.aspx",
       "description": "Arquiteto Júnior – PJ Remuneração: R$ 3.100,00 PJ Benefício: Vale-Refeição de R$ 31,80 por dia Horário: Segunda a sexta-feira, das 08h às 18h Local de...",
       "descriptionSnippet": "Arquiteto Júnior – PJ Remuneração: R$ 3.100,00 PJ Benefício: Vale-Refeição de R$ 31,80 por dia Horário: Segunda a sexta-feira, das 08h às 18h Local de...",
-      "collectedAt": "2026-09-03T19:11:21.307Z"
+      "collectedAt": "2026-09-03T23:53:48.495Z"
     },
     {
       "id": "5ea9da321cb819a9",
@@ -83,7 +102,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteto-em-sao-paulo__11922010.aspx",
       "description": "Estamos apoiando uma empresa do segmento de Live Marketing e Eventos na busca de um(a) Arquiteto(a) Sênior, que será uma importante referência técnica...",
       "descriptionSnippet": "Estamos apoiando uma empresa do segmento de Live Marketing e Eventos na busca de um(a) Arquiteto(a) Sênior, que será uma importante referência técnica...",
-      "collectedAt": "2026-09-03T19:11:21.308Z"
+      "collectedAt": "2026-09-03T23:53:48.495Z"
     },
     {
       "id": "e76c57434abf5cbd",
@@ -102,7 +121,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteto-interiores-zona-sul-em-sao-paulo__11966028.aspx",
       "description": "Estamos em busca de Arquiteto(a) de Interiores para atuar no desenvolvimento e acompanhamento de projetos de ambientes residenciais e comerciais. Prin...",
       "descriptionSnippet": "Estamos em busca de Arquiteto(a) de Interiores para atuar no desenvolvimento e acompanhamento de projetos de ambientes residenciais e comerciais. Prin...",
-      "collectedAt": "2026-09-03T19:11:21.308Z"
+      "collectedAt": "2026-09-03T23:53:48.495Z"
     },
     {
       "id": "86e28e8cbdd8c9f2",
@@ -121,7 +140,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteto-em-sao-paulo__11580446.aspx",
       "description": "Alinhamento de detalhes do projeto junto ao cliente final, incluindo desenvolvimento de planos de paginação, elaboração de estudo preliminar e compati...",
       "descriptionSnippet": "Alinhamento de detalhes do projeto junto ao cliente final, incluindo desenvolvimento de planos de paginação, elaboração de estudo preliminar e compati...",
-      "collectedAt": "2026-09-03T19:11:21.308Z"
+      "collectedAt": "2026-09-03T23:53:48.495Z"
     },
     {
       "id": "ed3dcab9688590fd",
@@ -140,7 +159,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquitetoa-em-sao-paulo__11960817.aspx",
       "description": "Perfil Profissional – Arquiteto(a) de Obras Buscamos um(a) profissional com experiência em acompanhamento de obras de grande porte, preferencialmente...",
       "descriptionSnippet": "Perfil Profissional – Arquiteto(a) de Obras Buscamos um(a) profissional com experiência em acompanhamento de obras de grande porte, preferencialmente...",
-      "collectedAt": "2026-09-03T19:11:21.309Z"
+      "collectedAt": "2026-09-03T23:53:48.497Z"
     },
     {
       "id": "88461eb77d408869",
@@ -159,7 +178,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquitetoa-projeto-executivo-autocad-c14-em-sao-paulo__11956676.aspx",
       "description": "A Ligajobs está assessorando sólido escritório de Arquitetura e Projetos especializado no segmento de mercado imobiliário na contratação de Arquiteto(...",
       "descriptionSnippet": "A Ligajobs está assessorando sólido escritório de Arquitetura e Projetos especializado no segmento de mercado imobiliário na contratação de Arquiteto(...",
-      "collectedAt": "2026-09-03T19:11:21.309Z"
+      "collectedAt": "2026-09-03T23:53:48.498Z"
     },
     {
       "id": "291011f652ec5f9e",
@@ -178,7 +197,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-engenheiroa-arquitetoa-construtora-zive-em-sao-paulo__11943067.aspx",
       "description": "Estamos procurando mais do que um profissional. Estamos procurando alguém para crescer conosco. Na ZIVE, acreditamos que grandes empresas são const...",
       "descriptionSnippet": "Estamos procurando mais do que um profissional. Estamos procurando alguém para crescer conosco. Na ZIVE, acreditamos que grandes empresas são const...",
-      "collectedAt": "2026-09-03T19:11:21.309Z"
+      "collectedAt": "2026-09-03T23:53:48.498Z"
     },
     {
       "id": "de97f82c3c30b40b",
@@ -197,7 +216,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquitetoa-analista-projeto-em-sao-paulo__11918726.aspx",
       "description": "Arquiteto(a) Analista de Projetos Principais responsabilidades: Desenvolvimento de EVTL, estudos preliminares e anteprojetos; Análise e desenvolviment...",
       "descriptionSnippet": "Arquiteto(a) Analista de Projetos Principais responsabilidades: Desenvolvimento de EVTL, estudos preliminares e anteprojetos; Análise e desenvolviment...",
-      "collectedAt": "2026-09-03T19:11:21.310Z"
+      "collectedAt": "2026-09-03T23:53:48.498Z"
     },
     {
       "id": "e1d5325106449f87",
@@ -216,7 +235,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquitetoa-designer-produto-pleno-em-sao-paulo__11902699.aspx",
       "description": "Arquiteto(a) / Designer de Produto Pleno Buscamos Arquiteto(a) / Designer de Produto Pleno para atuar no desenvolvimento de brinquedos, estruturas e p...",
       "descriptionSnippet": "Arquiteto(a) / Designer de Produto Pleno Buscamos Arquiteto(a) / Designer de Produto Pleno para atuar no desenvolvimento de brinquedos, estruturas e p...",
-      "collectedAt": "2026-09-03T19:11:21.310Z"
+      "collectedAt": "2026-09-03T23:53:48.498Z"
     },
     {
       "id": "e6c79d912bc8fd14",
@@ -235,7 +254,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteto-projetista-em-sao-paulo__11899523.aspx",
       "description": "Estamos buscando um(a) profissional para atuar no desenvolvimento de projetos executivos e detalhamentos, com foco em eficiência operacional e integra...",
       "descriptionSnippet": "Estamos buscando um(a) profissional para atuar no desenvolvimento de projetos executivos e detalhamentos, com foco em eficiência operacional e integra...",
-      "collectedAt": "2026-09-03T19:11:21.310Z"
+      "collectedAt": "2026-09-03T23:53:48.498Z"
     },
     {
       "id": "1d80e6b1faedf712",
@@ -254,7 +273,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteta-em-sao-paulo__11892770.aspx",
       "description": "Vaga: Arquiteta Plena ?? Local: Moema – São Paulo/SP ?? Modalidade: 100% Presencial ?? Contratação: PJ ?? Remuneração: R$ 3.500,00/mês + pagamento equ...",
       "descriptionSnippet": "Vaga: Arquiteta Plena ?? Local: Moema – São Paulo/SP ?? Modalidade: 100% Presencial ?? Contratação: PJ ?? Remuneração: R$ 3.500,00/mês + pagamento equ...",
-      "collectedAt": "2026-09-03T19:11:21.310Z"
+      "collectedAt": "2026-09-03T23:53:48.498Z"
     },
     {
       "id": "04d47eb9cd8e77f1",
@@ -273,7 +292,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteto-em-sao-paulo__11861449.aspx",
       "description": "Buscamos um(a) profissional apaixonado(a) por projetos, com perfil técnico e comercial, para atuar no desenvolvimento de projetos executivos compatibi...",
       "descriptionSnippet": "Buscamos um(a) profissional apaixonado(a) por projetos, com perfil técnico e comercial, para atuar no desenvolvimento de projetos executivos compatibi...",
-      "collectedAt": "2026-09-03T19:11:21.310Z"
+      "collectedAt": "2026-09-03T23:53:48.498Z"
     },
     {
       "id": "879f2e05715ed23f",
@@ -292,7 +311,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteto-em-sao-paulo__11862637.aspx",
       "description": "Principais Atividades Desenvolver projetos de empreendimentos imobiliários em todas as suas fases, com ênfase na fase de Executivo; Assegurar que todo...",
       "descriptionSnippet": "Principais Atividades Desenvolver projetos de empreendimentos imobiliários em todas as suas fases, com ênfase na fase de Executivo; Assegurar que todo...",
-      "collectedAt": "2026-09-03T19:11:21.310Z"
+      "collectedAt": "2026-09-03T23:53:48.498Z"
     },
     {
       "id": "18a36e1543251d19",
@@ -311,7 +330,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteto-vendedor-em-sao-paulo__11784959.aspx",
       "description": "#1159 *VAGA*: Arquiteto vendedor *SALÁRIO*: R$ 2.500 + VT + Variavel (média de ganhos R$10.000) *HORÁRIO*: Segunda a sábado das 9h as 19h – folga aos ...",
       "descriptionSnippet": "#1159 *VAGA*: Arquiteto vendedor *SALÁRIO*: R$ 2.500 + VT + Variavel (média de ganhos R$10.000) *HORÁRIO*: Segunda a sábado das 9h as 19h – folga aos ...",
-      "collectedAt": "2026-09-03T19:11:21.310Z"
+      "collectedAt": "2026-09-03T23:53:48.498Z"
     },
     {
       "id": "8f428a497502df08",
@@ -330,7 +349,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetista-externo-aps-santa-marcelina-edital-2322026-em-sao-paulo__11983720.aspx",
       "description": "Projetista Externo APS Santa Marcelina - Edital 232/2026 Objetivos do Processo Seletivo Captação de Profissionais alinhados aos requisitos e ao perfi...",
       "descriptionSnippet": "Projetista Externo APS Santa Marcelina - Edital 232/2026 Objetivos do Processo Seletivo Captação de Profissionais alinhados aos requisitos e ao perfi...",
-      "collectedAt": "2026-09-03T19:11:21.311Z"
+      "collectedAt": "2026-09-03T23:53:48.499Z"
     },
     {
       "id": "20093da01fc04ca8",
@@ -349,7 +368,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetistagestor-moveis-planejados-em-sao-paulo__11981978.aspx",
       "description": "EXECUTIVO DE PROJETOS DE MÓVEIS PLANEJADOS EM ALPHAVILLE PJ #1424 Gerenciar projetos de desenvolvimento e execução de móveis planejados Coordenar equi...",
       "descriptionSnippet": "EXECUTIVO DE PROJETOS DE MÓVEIS PLANEJADOS EM ALPHAVILLE PJ #1424 Gerenciar projetos de desenvolvimento e execução de móveis planejados Coordenar equi...",
-      "collectedAt": "2026-09-03T19:11:21.311Z"
+      "collectedAt": "2026-09-03T23:53:48.500Z"
     },
     {
       "id": "d4dd7741b3d6f649",
@@ -368,7 +387,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desenhista-projetista-temporario-possibilidade-em-sao-paulo__11980943.aspx",
       "description": "Principais Atividades: Desenvolver projetos de ferramentas de Corte, Dobra e Repuxo, garantindo o atendimento aos requisitos técnicos, produtivos e de...",
       "descriptionSnippet": "Principais Atividades: Desenvolver projetos de ferramentas de Corte, Dobra e Repuxo, garantindo o atendimento aos requisitos técnicos, produtivos e de...",
-      "collectedAt": "2026-09-03T19:11:21.311Z"
+      "collectedAt": "2026-09-03T23:53:48.500Z"
     },
     {
       "id": "31b8847f7b2fda06",
@@ -387,7 +406,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteto-em-sao-paulo__11691969.aspx",
       "description": "Buscamos por arquiteto formado há pelo menos 3 anos e com experiência no mercado na área. Deve ter nível intermediário a avançado de conhecimento dos ...",
       "descriptionSnippet": "Buscamos por arquiteto formado há pelo menos 3 anos e com experiência no mercado na área. Deve ter nível intermediário a avançado de conhecimento dos ...",
-      "collectedAt": "2026-09-03T19:11:21.311Z"
+      "collectedAt": "2026-09-03T23:53:48.500Z"
     },
     {
       "id": "53fc980a9eee004d",
@@ -406,7 +425,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetista-executivo-em-sao-paulo__11769016.aspx",
       "description": "A LCN.Niucor Mobiliário Sob Medida está em busca de um(a) Projetista Executivo para integrar nossa equipe. Procuramos um profissional organizado, deta...",
       "descriptionSnippet": "A LCN.Niucor Mobiliário Sob Medida está em busca de um(a) Projetista Executivo para integrar nossa equipe. Procuramos um profissional organizado, deta...",
-      "collectedAt": "2026-09-03T19:11:21.311Z"
+      "collectedAt": "2026-09-03T23:53:48.500Z"
     },
     {
       "id": "e47c6226ed60721d",
@@ -425,7 +444,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-analista-cartografia-cadastro-territorial-em-sao-paulo__11819259.aspx",
       "description": "Sobre a oportunidade O Studio Samaúma está selecionando profissionais para integrar a equipe técnica de um projeto estratégico de modernização da b...",
       "descriptionSnippet": "Sobre a oportunidade O Studio Samaúma está selecionando profissionais para integrar a equipe técnica de um projeto estratégico de modernização da b...",
-      "collectedAt": "2026-09-03T19:11:21.312Z"
+      "collectedAt": "2026-09-03T23:53:48.500Z"
     },
     {
       "id": "44ac21f27dc65208",
@@ -444,7 +463,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-tecnico-edificacoes-em-pernambuco__11958943.aspx",
       "description": "Procuramos profissional técnico com domínio em AutoCAD para atuar na elaboração e regularização de desenhos técnicos civis e arquitetônicos. O foco da...",
       "descriptionSnippet": "Procuramos profissional técnico com domínio em AutoCAD para atuar na elaboração e regularização de desenhos técnicos civis e arquitetônicos. O foco da...",
-      "collectedAt": "2026-09-03T19:11:21.312Z"
+      "collectedAt": "2026-09-03T23:53:48.501Z"
     },
     {
       "id": "71c04332fdb7ed0e",
@@ -463,7 +482,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-tecnico-documentacao-desenhista-autocad-cftv-cabeamento-em-__11945143.aspx",
       "description": "Buscamos um Técnico de Documentação Desenhista para integrar a equipe de Engenharia e Projetos de uma empresa do segmento de tecnologia, atuando na el...",
       "descriptionSnippet": "Buscamos um Técnico de Documentação Desenhista para integrar a equipe de Engenharia e Projetos de uma empresa do segmento de tecnologia, atuando na el...",
-      "collectedAt": "2026-09-03T19:11:21.312Z"
+      "collectedAt": "2026-09-03T23:53:48.501Z"
     },
     {
       "id": "4a3d041752e4d67f",
@@ -482,7 +501,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-analista-junior-projetos,-bim-engenharia-comercial-pj-em-sao-paulo__11943395.aspx",
       "description": "PRINCIPAIS ATIVIDADES Desenvolver estudos preliminares, plantas, layouts e implantação de residências; Criar modelos BIM, maquetes eletrônicas e ren...",
       "descriptionSnippet": "PRINCIPAIS ATIVIDADES Desenvolver estudos preliminares, plantas, layouts e implantação de residências; Criar modelos BIM, maquetes eletrônicas e ren...",
-      "collectedAt": "2026-09-03T19:11:21.312Z"
+      "collectedAt": "2026-09-03T23:53:48.501Z"
     },
     {
       "id": "52d1439db1dc4526",
@@ -501,7 +520,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-cadista-em-ceara__11932521.aspx",
       "description": "Empresa contrata por prestação de serviços de vetorização em ferramenta Autocad de divisas de lotes e areas edificadas de ortofoto produzida Curso té...",
       "descriptionSnippet": "Empresa contrata por prestação de serviços de vetorização em ferramenta Autocad de divisas de lotes e areas edificadas de ortofoto produzida Curso té...",
-      "collectedAt": "2026-09-03T19:11:21.312Z"
+      "collectedAt": "2026-09-03T23:53:48.501Z"
     },
     {
       "id": "dca33c0d007037a1",
@@ -520,7 +539,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-cadista-em-rio-janeiro__11897970.aspx",
       "description": "Vaga pra estagiário cadista",
       "descriptionSnippet": "Vaga pra estagiário cadista",
-      "collectedAt": "2026-09-03T19:11:21.312Z"
+      "collectedAt": "2026-09-03T23:53:48.501Z"
     },
     {
       "id": "1d81c635d697e79a",
@@ -539,7 +558,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetista-loteamentos-em-__11903442.aspx",
       "description": "PROJETISTA DE LOTEAMENTOS Contratação imediata! Buscamos um profissional com visão técnica e estratégica para atuar no desenvolvimento de projetos de...",
       "descriptionSnippet": "PROJETISTA DE LOTEAMENTOS Contratação imediata! Buscamos um profissional com visão técnica e estratégica para atuar no desenvolvimento de projetos de...",
-      "collectedAt": "2026-09-03T19:11:21.313Z"
+      "collectedAt": "2026-09-03T23:53:48.501Z"
     },
     {
       "id": "679a9fa9be90ee19",
@@ -558,7 +577,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-designer-interiores-pos-venda-em-sao-paulo__11339548.aspx",
       "description": "Estamos em busca de um(a) Designer de Eventos criativo(a) e proativo(a) para integrar nosso time! A pessoa ideal terá olhar atento aos detalhes, sensi...",
       "descriptionSnippet": "Estamos em busca de um(a) Designer de Eventos criativo(a) e proativo(a) para integrar nosso time! A pessoa ideal terá olhar atento aos detalhes, sensi...",
-      "collectedAt": "2026-09-03T19:11:21.313Z"
+      "collectedAt": "2026-09-03T23:53:48.501Z"
     },
     {
       "id": "af3dbd1aaa01f32a",
@@ -577,7 +596,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-designer-interiores-em-sao-paulo__11869358.aspx",
       "description": "A posição envolve o planejamento e execução de projetos de design de interiores. Gerenciar projetos de design de interiores desde a concepção até a f...",
       "descriptionSnippet": "A posição envolve o planejamento e execução de projetos de design de interiores. Gerenciar projetos de design de interiores desde a concepção até a f...",
-      "collectedAt": "2026-09-03T19:11:21.313Z"
+      "collectedAt": "2026-09-03T23:53:48.501Z"
     },
     {
       "id": "985c362ed66eaf58",
@@ -596,7 +615,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desgin-interiores-arquiteta-em-sao-paulo__11857575.aspx",
       "description": "Responsável pelo Atendimento ao cliente na venda - breefing com cliente , reunião de alinhamento de projeto e execução de detalhamento e executivo de ...",
       "descriptionSnippet": "Responsável pelo Atendimento ao cliente na venda - breefing com cliente , reunião de alinhamento de projeto e execução de detalhamento e executivo de ...",
-      "collectedAt": "2026-09-03T19:11:21.313Z"
+      "collectedAt": "2026-09-03T23:53:48.501Z"
     },
     {
       "id": "c5db22e3f2da5eb7",
@@ -615,7 +634,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-designer-interiores-em-sao-paulo__11779333.aspx",
       "description": "Vaga: Designer de Interiores Estamos em busca de um(a) Designer de Interiores para integrar nossa equipe em um escritório com mais de 25 anos de atua...",
       "descriptionSnippet": "Vaga: Designer de Interiores Estamos em busca de um(a) Designer de Interiores para integrar nossa equipe em um escritório com mais de 25 anos de atua...",
-      "collectedAt": "2026-09-03T19:11:21.313Z"
+      "collectedAt": "2026-09-03T23:53:48.501Z"
     },
     {
       "id": "009b5dcba6fa8e50",
@@ -634,7 +653,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-estagio-designer-interiores-em-sao-paulo__11917388.aspx",
       "description": "Oportunidade para atuar como Estagiário(a) de Design de Interiores ou Arquitetura em Alphaville. jornada das 09h às 16h e 1 hora de intervalo. Ativid...",
       "descriptionSnippet": "Oportunidade para atuar como Estagiário(a) de Design de Interiores ou Arquitetura em Alphaville. jornada das 09h às 16h e 1 hora de intervalo. Ativid...",
-      "collectedAt": "2026-09-03T19:11:21.313Z"
+      "collectedAt": "2026-09-03T23:53:48.502Z"
     },
     {
       "id": "668d9f2ad72bddd8",
@@ -653,7 +672,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-estagiario-arquitetura-eou-design-interiores-em-sao-paulo__11845480.aspx",
       "description": "VAGA DE ESTÁGIO – ESTUDANTES DE ARQUITETURA E/OU DESIGN DE INTERIORES Venha desenvolver sua carreira em uma empresa referência no segmento de móveis ...",
       "descriptionSnippet": "VAGA DE ESTÁGIO – ESTUDANTES DE ARQUITETURA E/OU DESIGN DE INTERIORES Venha desenvolver sua carreira em uma empresa referência no segmento de móveis ...",
-      "collectedAt": "2026-09-03T19:11:21.313Z"
+      "collectedAt": "2026-09-03T23:53:48.502Z"
     },
     {
       "id": "88c40698b03782e7",
@@ -672,7 +691,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-vendedor-loja-decoracao-interiores-em-sao-paulo__11936651.aspx",
       "description": "Estamos em busca de uma profissional apaixonada por vendas e por encantar clientes. Missão do Cargo Proporcionar uma experiência de compra diferenciad...",
       "descriptionSnippet": "Estamos em busca de uma profissional apaixonada por vendas e por encantar clientes. Missão do Cargo Proporcionar uma experiência de compra diferenciad...",
-      "collectedAt": "2026-09-03T19:11:21.313Z"
+      "collectedAt": "2026-09-03T23:53:48.502Z"
     },
     {
       "id": "5b40be22b8439d69",
@@ -691,7 +710,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-ajudante-geral-cactos-paisagismo-em-sao-paulo__11889927.aspx",
       "description": "VAGA AJUDANTE GERAL | CACTOS GARDEN CENTER Estamos em busca de um profissional comprometido, proativo e disposto a aprender para fazer parte da no...",
       "descriptionSnippet": "VAGA AJUDANTE GERAL | CACTOS GARDEN CENTER Estamos em busca de um profissional comprometido, proativo e disposto a aprender para fazer parte da no...",
-      "collectedAt": "2026-09-03T19:11:21.313Z"
+      "collectedAt": "2026-09-03T23:53:48.502Z"
     },
     {
       "id": "eafcf1e1aae7e190",
@@ -710,7 +729,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-comprador-cactos-paisagismo-em-sao-paulo__11883767.aspx",
       "description": "A Cactos Garden Center está em busca de um Comprador para integrar nossa equipe! Principais responsabilidades: Realizar a compra de plantas, v...",
       "descriptionSnippet": "A Cactos Garden Center está em busca de um Comprador para integrar nossa equipe! Principais responsabilidades: Realizar a compra de plantas, v...",
-      "collectedAt": "2026-09-03T19:11:21.313Z"
+      "collectedAt": "2026-09-03T23:53:48.502Z"
     },
     {
       "id": "764eb3566b6f833e",
@@ -729,7 +748,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desenhista-cadista-em-sao-paulo__11983229.aspx",
       "description": "A Premium Talents está a procura de um Desenhista Cadista! Principais atividades: Desenvolver projetos de arquitetura utilizando Autocad, Sketchup e V...",
       "descriptionSnippet": "A Premium Talents está a procura de um Desenhista Cadista! Principais atividades: Desenvolver projetos de arquitetura utilizando Autocad, Sketchup e V...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "2c58ad50c8bb26e1",
@@ -748,7 +767,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-cadista-auxiliar-tecnico-em-sao-paulo__11977361.aspx",
       "description": "Vaga para auxiliar técnico em uma empresa de engenharia e consultoria com foco em projetos de licitações. O candidato deverá saber elaborar e atualiza...",
       "descriptionSnippet": "Vaga para auxiliar técnico em uma empresa de engenharia e consultoria com foco em projetos de licitações. O candidato deverá saber elaborar e atualiza...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "9572a8147d839798",
@@ -767,7 +786,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetista-cadista-em-sao-paulo__11947116.aspx",
       "description": "HORÁRIO DE TRABALHO Segunda a quinta-feira das 08:00 ás 18:00 e quinta até as 17:00 Folga de Sábado e Domingo BENEFÍCIOS Depois de 03 meses da experi...",
       "descriptionSnippet": "HORÁRIO DE TRABALHO Segunda a quinta-feira das 08:00 ás 18:00 e quinta até as 17:00 Folga de Sábado e Domingo BENEFÍCIOS Depois de 03 meses da experi...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "572c01afd4e71e27",
@@ -786,7 +805,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desenhista-cadista-projetos-escoramento-andaimes-em-sao-paulo__11954893.aspx",
       "description": "Vaga: Desenhista Cadista ( Projetos de Escoramento e Andaimes) Elaborar desenhos técnicos para projetos de escoramento de LAJE , ANDAIMES e BALANCIN...",
       "descriptionSnippet": "Vaga: Desenhista Cadista ( Projetos de Escoramento e Andaimes) Elaborar desenhos técnicos para projetos de escoramento de LAJE , ANDAIMES e BALANCIN...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "ae5b6bc2a94513a3",
@@ -805,7 +824,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desenhista-cadista-em-sao-paulo__11945519.aspx",
       "description": "vaga de Desenhista Cadista para projetos de escoronamento e andaimes é no regime CLT, com jornada de trabalho de segunda a sexta-feira, das 7h às 17h....",
       "descriptionSnippet": "vaga de Desenhista Cadista para projetos de escoronamento e andaimes é no regime CLT, com jornada de trabalho de segunda a sexta-feira, das 7h às 17h....",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "7e5445df2e57037a",
@@ -824,7 +843,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desenhista-cadista-em-sao-paulo__11927055.aspx",
       "description": "Estamos contratando Desenhista Cadista para integrar nossa equipe de projetos de engenharia. Buscamos um profissional organizado, comprometido e co...",
       "descriptionSnippet": "Estamos contratando Desenhista Cadista para integrar nossa equipe de projetos de engenharia. Buscamos um profissional organizado, comprometido e co...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "ad825f2d2c2d360e",
@@ -843,7 +862,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-cadista-em-sao-paulo__11908753.aspx",
       "description": "Sobre a EQS: https://www.eqsengenharia.com.br/sobre Vaga efetiva CLT: Cadista Cesta Básica - $151,91 ao mês Vale refeição: $21,80 o dia trabalhado Va...",
       "descriptionSnippet": "Sobre a EQS: https://www.eqsengenharia.com.br/sobre Vaga efetiva CLT: Cadista Cesta Básica - $151,91 ao mês Vale refeição: $21,80 o dia trabalhado Va...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "57cb283229ec1785",
@@ -862,7 +881,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desenhista-cadista-em-sao-paulo__11889812.aspx",
       "description": "Desenhista Cadista Somos um escritório de engenharia voltado a elaboração de documentos e projetos técnicos de edificações multipavimentos, comerciai...",
       "descriptionSnippet": "Desenhista Cadista Somos um escritório de engenharia voltado a elaboração de documentos e projetos técnicos de edificações multipavimentos, comerciai...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "0f5c08a81af6e70a",
@@ -881,7 +900,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desenhista-cadista-em-sao-paulo__11885253.aspx",
       "description": "A Transdata Transportes Ltda busca um Desenhista Cadista para atuar em nossa sede. Principais atividades Elaborar e revisar desenhos técnicos em softw...",
       "descriptionSnippet": "A Transdata Transportes Ltda busca um Desenhista Cadista para atuar em nossa sede. Principais atividades Elaborar e revisar desenhos técnicos em softw...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "c44347a53077beaa",
@@ -900,7 +919,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desenhista-cadista-em-sao-paulo__11860781.aspx",
       "description": "DESENHISTA COM CONHECIMENTO EM AUTODESK INVENTOR E CONHECIMENTO DE CONSTRUÇÕES MECÂNICAS",
       "descriptionSnippet": "DESENHISTA COM CONHECIMENTO EM AUTODESK INVENTOR E CONHECIMENTO DE CONSTRUÇÕES MECÂNICAS",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "eb8d2cc7943bf520",
@@ -919,7 +938,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desenhista-cadista-em-sao-paulo__11855480.aspx",
       "description": "conhecimentos em auto cad ,pacote office",
       "descriptionSnippet": "conhecimentos em auto cad ,pacote office",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "69852e5e07521f9f",
@@ -938,7 +957,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetista-cadista-em-sao-paulo__11750845.aspx",
       "description": "Domínio avançado de AutoCAD para desenvolvimento e detalhamento de projetos; Experiência na elaboração e compatibilização de projetos técnicos; Capaci...",
       "descriptionSnippet": "Domínio avançado de AutoCAD para desenvolvimento e detalhamento de projetos; Experiência na elaboração e compatibilização de projetos técnicos; Capaci...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "3234e89dd9662b13",
@@ -957,7 +976,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-cadista-audaces-moda--em-sao-paulo__11712766.aspx",
       "description": "Cadista (Operador(a) de CAD Audaces) Estamos em busca de um(a) cadista (Operador(a) de CAD) para integrar nossa equipe de desenvolvimento de produto...",
       "descriptionSnippet": "Cadista (Operador(a) de CAD Audaces) Estamos em busca de um(a) cadista (Operador(a) de CAD) para integrar nossa equipe de desenvolvimento de produto...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "5c111d52ded8d40d",
@@ -976,7 +995,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-estagiario-projetos-arquitetura-cadista-em-sao-paulo__11836625.aspx",
       "description": "Vaga: Estagiário de Arquitetura / Projetista Estamos em busca de um projetista de Arquitetura / Engenharia, ou cadista, para integrar nossa equipe ...",
       "descriptionSnippet": "Vaga: Estagiário de Arquitetura / Projetista Estamos em busca de um projetista de Arquitetura / Engenharia, ou cadista, para integrar nossa equipe ...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "53e7e2cee9b51420",
@@ -995,7 +1014,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desenhista-cadista-d-em-sao-paulo__11819632.aspx",
       "description": "Leitura de Projetos: Ele lê e entende o que os engenheiros criaram.Desenho Técnico: Ele passa essas informações para o computador em duas dimensões (2...",
       "descriptionSnippet": "Leitura de Projetos: Ele lê e entende o que os engenheiros criaram.Desenho Técnico: Ele passa essas informações para o computador em duas dimensões (2...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "25bf39aef1178fad",
@@ -1014,7 +1033,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetista-cadista-em-sao-paulo__11408170.aspx",
       "description": "Estamos em busca de um profissional organizado, detalhista e comprometido para atuar como projetista, responsável pelo desenvolvimento e acompanhament...",
       "descriptionSnippet": "Estamos em busca de um profissional organizado, detalhista e comprometido para atuar como projetista, responsável pelo desenvolvimento e acompanhament...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "8cb416a9840a0844",
@@ -1033,7 +1052,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desenhista-projetista-em-sao-paulo__11943834.aspx",
       "description": "Responsabilidades e atribuições Desenvolvimento de Desenhos e Projetos: Criar e revisar desenhos técnicos detalhados, com base nas especificações e pa...",
       "descriptionSnippet": "Responsabilidades e atribuições Desenvolvimento de Desenhos e Projetos: Criar e revisar desenhos técnicos detalhados, com base nas especificações e pa...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "518990e09a66d779",
@@ -1052,26 +1071,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-desenhista-projetista-em-sao-paulo__11943385.aspx",
       "description": "Estamos procurando um Projetista de Infraestrutura (Telecom) para reforçar nosso time de projetos. Que tenha experiência em planejamento, desenho, dim...",
       "descriptionSnippet": "Estamos procurando um Projetista de Infraestrutura (Telecom) para reforçar nosso time de projetos. Que tenha experiência em planejamento, desenho, dim...",
-      "collectedAt": "2026-09-03T19:11:21.314Z"
-    },
-    {
-      "id": "4afadade804bfff9",
-      "title": "Desenhista Projetista PL",
-      "company": "REYDEL AUTOMOTIVE BRAZIL INDUSTRIA E COMERCIO DE SISTEMAS AUTOMOTIVOS LTDA.",
-      "location": "Guarulhos - SP",
-      "cityKey": "guarulhos",
-      "cityLabel": "Guarulhos",
-      "source": "InfoJobs",
-      "sourceId": "infojobs",
-      "sourceType": "scraped",
-      "seniority": "pleno",
-      "workplaceType": null,
-      "matchedKeyword": "projetista / cadista",
-      "postedAt": "2026-07-20T01:50:00.000Z",
-      "url": "https://www.infojobs.com.br/vaga-de-desenhista-projetista-pl-em-sao-paulo__11829621.aspx",
-      "description": "Na Motherson, estamos empenhados em impulsionar a sua carreira e em valorizar os talentos a nível global. Incluídos na lista das Melhores Empresas do ...",
-      "descriptionSnippet": "Na Motherson, estamos empenhados em impulsionar a sua carreira e em valorizar os talentos a nível global. Incluídos na lista das Melhores Empresas do ...",
-      "collectedAt": "2026-09-03T19:11:21.315Z"
+      "collectedAt": "2026-09-03T23:53:48.503Z"
     },
     {
       "id": "ebeb2c6a41b54dea",
@@ -1090,7 +1090,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-modelador-bim-em-sao-paulo__11786971.aspx",
       "description": "Estamos com uma nova oportunidade para atuar com Modelagem BIM e Produtos de Engenharia com base em Captura da Realidade. Buscamos um(a) profissional...",
       "descriptionSnippet": "Estamos com uma nova oportunidade para atuar com Modelagem BIM e Produtos de Engenharia com base em Captura da Realidade. Buscamos um(a) profissional...",
-      "collectedAt": "2026-09-03T19:11:21.315Z"
+      "collectedAt": "2026-09-03T23:53:48.504Z"
     },
     {
       "id": "576f52023b5b2ec7",
@@ -1109,7 +1109,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-coordenador-arquitetura-em-sao-paulo__11885956.aspx",
       "description": "Principais Atividades Coordenar o desenvolvimento dos projetos arquitetônicos desde a concepção até a entrega para execução; Planejar e acompanhar cro...",
       "descriptionSnippet": "Principais Atividades Coordenar o desenvolvimento dos projetos arquitetônicos desde a concepção até a entrega para execução; Planejar e acompanhar cro...",
-      "collectedAt": "2026-09-03T19:11:21.316Z"
+      "collectedAt": "2026-09-03T23:53:48.505Z"
     },
     {
       "id": "ea790f82d5df450f",
@@ -1128,7 +1128,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetista-bim-em-sao-paulo__11901724.aspx",
       "description": "Requisitos: · Ensino técnico completo ou superior cursando em Engenharia, Edificações, Mecânica, Elétrica, Telecomunicações ou áreas correlatas...",
       "descriptionSnippet": "Requisitos: · Ensino técnico completo ou superior cursando em Engenharia, Edificações, Mecânica, Elétrica, Telecomunicações ou áreas correlatas...",
-      "collectedAt": "2026-09-03T19:11:21.316Z"
+      "collectedAt": "2026-09-03T23:53:48.505Z"
     },
     {
       "id": "7a1346832538bb6e",
@@ -1147,7 +1147,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-modelador-bim-instalacoes-em-sao-paulo__11696874.aspx",
       "description": "Local: São Paulo SP | Ipiranga (600 m do Metrô Sacomã) Modelo: Presencial | Contratação PJ A empresa atua no desenvolvimento de projetos de insta...",
       "descriptionSnippet": "Local: São Paulo SP | Ipiranga (600 m do Metrô Sacomã) Modelo: Presencial | Contratação PJ A empresa atua no desenvolvimento de projetos de insta...",
-      "collectedAt": "2026-09-03T19:11:21.316Z"
+      "collectedAt": "2026-09-03T23:53:48.505Z"
     },
     {
       "id": "b39890e210adea29",
@@ -1166,7 +1166,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetistaorcamentista-hvac-em-sao-paulo__11970410.aspx",
       "description": "Informações da vaga Cargo: Projetista / Orçamentista HVAC Área: Climatização e Ar-Condicionado Contratação: PJ/CLT Remuneração: A combinar, confor...",
       "descriptionSnippet": "Informações da vaga Cargo: Projetista / Orçamentista HVAC Área: Climatização e Ar-Condicionado Contratação: PJ/CLT Remuneração: A combinar, confor...",
-      "collectedAt": "2026-09-03T19:11:21.316Z"
+      "collectedAt": "2026-09-03T23:53:48.505Z"
     },
     {
       "id": "839b31e297165516",
@@ -1185,7 +1185,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-estagiario-arquitetura-em-sao-paulo__11965250.aspx",
       "description": "Descrição da Vaga Estagiário(a) de Arquitetura O Estúdio Jacarandá busca um(a) Estagiário(a) de Arquitetura para atuar no suporte ao desenvolvi...",
       "descriptionSnippet": "Descrição da Vaga Estagiário(a) de Arquitetura O Estúdio Jacarandá busca um(a) Estagiário(a) de Arquitetura para atuar no suporte ao desenvolvi...",
-      "collectedAt": "2026-09-03T19:11:21.316Z"
+      "collectedAt": "2026-09-03T23:53:48.505Z"
     },
     {
       "id": "da6496ae083b61b6",
@@ -1204,7 +1204,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetista-eng-mecanico-em-sao-paulo__11593096.aspx",
       "description": "Resumo da função Responsável por elaborar, desenvolver e detalhar projetos técnicos, garantindo que atendam às especificações, normas e necessidades ...",
       "descriptionSnippet": "Resumo da função Responsável por elaborar, desenvolver e detalhar projetos técnicos, garantindo que atendam às especificações, normas e necessidades ...",
-      "collectedAt": "2026-09-03T19:11:21.316Z"
+      "collectedAt": "2026-09-03T23:53:48.506Z"
     },
     {
       "id": "9fcd05894d6261af",
@@ -1223,7 +1223,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-arquiteto-anteprojeto-em-sao-paulo__11816751.aspx",
       "description": "?? Arquiteto(a) – Estudo Preliminar e Anteprojeto | Atuação PJ Somos uma consultoria de Recrutamento e Seleção conduzindo este processo para um escrit...",
       "descriptionSnippet": "?? Arquiteto(a) – Estudo Preliminar e Anteprojeto | Atuação PJ Somos uma consultoria de Recrutamento e Seleção conduzindo este processo para um escrit...",
-      "collectedAt": "2026-09-03T19:11:21.317Z"
+      "collectedAt": "2026-09-03T23:53:48.506Z"
     },
     {
       "id": "ec5ee7a0470e2003",
@@ -1242,7 +1242,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-assistente-engenharia-industrial-conhecimento-em-sao-paulo__11935489.aspx",
       "description": "Assistente de Engenharia – Indústria Metalúrgica Estamos em busca de um(a) Assistente de Engenharia para atuar em indústria metalúrgica, prestando sup...",
       "descriptionSnippet": "Assistente de Engenharia – Indústria Metalúrgica Estamos em busca de um(a) Assistente de Engenharia para atuar em indústria metalúrgica, prestando sup...",
-      "collectedAt": "2026-09-03T19:11:21.317Z"
+      "collectedAt": "2026-09-03T23:53:48.506Z"
     },
     {
       "id": "5f8eee0d0475c04d",
@@ -1261,7 +1261,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetista-orcamentista-em-sao-paulo__11914628.aspx",
       "description": "Estamos em busca de um(a) Projetista Orçamentista para atuar no desenvolvimento técnico e orçamentário de projetos de comunicação visual, contribuindo...",
       "descriptionSnippet": "Estamos em busca de um(a) Projetista Orçamentista para atuar no desenvolvimento técnico e orçamentário de projetos de comunicação visual, contribuindo...",
-      "collectedAt": "2026-09-03T19:11:21.317Z"
+      "collectedAt": "2026-09-03T23:53:48.507Z"
     },
     {
       "id": "a6f794ae342a8888",
@@ -1280,7 +1280,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-analista-arquitetura-em-sao-paulo__11885993.aspx",
       "description": "Estamos em busca de um(a) Analista de Arquitetura – Implantação de Franquias para integrar o time de Arquitetura e Expansão. Procuramos um profissiona...",
       "descriptionSnippet": "Estamos em busca de um(a) Analista de Arquitetura – Implantação de Franquias para integrar o time de Arquitetura e Expansão. Procuramos um profissiona...",
-      "collectedAt": "2026-09-03T19:11:21.317Z"
+      "collectedAt": "2026-09-03T23:53:48.507Z"
     },
     {
       "id": "44e4e74bae18e369",
@@ -1299,7 +1299,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-estagiaria-arquitetura-em-sao-paulo__11899676.aspx",
       "description": "O escritório, está em busca de uma estagiária para atuação presencial em nosso escritório em São Paulo - Bairro Ipiranga. Atuamos principalmente com p...",
       "descriptionSnippet": "O escritório, está em busca de uma estagiária para atuação presencial em nosso escritório em São Paulo - Bairro Ipiranga. Atuamos principalmente com p...",
-      "collectedAt": "2026-09-03T19:11:21.317Z"
+      "collectedAt": "2026-09-03T23:53:48.507Z"
     },
     {
       "id": "1a877504f67812ea",
@@ -1318,7 +1318,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetista-d-em-sao-paulo__11853891.aspx",
       "description": "Desenvolver projetos 3D de cenografia, estandes e estruturas para eventos; Criar maquetes virtuais e apresentações visuais de alta qualidade; Desenv...",
       "descriptionSnippet": "Desenvolver projetos 3D de cenografia, estandes e estruturas para eventos; Criar maquetes virtuais e apresentações visuais de alta qualidade; Desenv...",
-      "collectedAt": "2026-09-03T19:11:21.317Z"
+      "collectedAt": "2026-09-03T23:53:48.507Z"
     },
     {
       "id": "78cfa22050ac617b",
@@ -1337,7 +1337,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-vendedor-projetista-loja-moveis-planejados-aricanduva-em-sao-paulo__11854720.aspx",
       "description": "- Atuar em loja de móveis planejados há mais de 50 anos no mercado, empresa é uma das mais tradicionais marcas de móveis planejados de São Paulo; - De...",
       "descriptionSnippet": "- Atuar em loja de móveis planejados há mais de 50 anos no mercado, empresa é uma das mais tradicionais marcas de móveis planejados de São Paulo; - De...",
-      "collectedAt": "2026-09-03T19:11:21.317Z"
+      "collectedAt": "2026-09-03T23:53:48.507Z"
     },
     {
       "id": "f7872d128839b1f5",
@@ -1356,7 +1356,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-estagiario-arquitetura-foco-orcamentos-em-sao-paulo__11713003.aspx",
       "description": "Auxiliar na elaboração de orçamentos e levantamento quantitativo de materiais. Apoiar na cotação de insumos, serviços e contato com fornecedores. Co...",
       "descriptionSnippet": "Auxiliar na elaboração de orçamentos e levantamento quantitativo de materiais. Apoiar na cotação de insumos, serviços e contato com fornecedores. Co...",
-      "collectedAt": "2026-09-03T19:11:21.317Z"
+      "collectedAt": "2026-09-03T23:53:48.507Z"
     },
     {
       "id": "48c61f0a4c153240",
@@ -1375,7 +1375,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-projetista-layout-comercial-mobiliario-3d-sp-em-sao-paulo__11882370.aspx",
       "description": "Vem projetar lojas de verdade com a gente! Você é daqueles que ama ver um projeto saindo do papel e virando loja pronta, cheia de clientes? Então essa...",
       "descriptionSnippet": "Vem projetar lojas de verdade com a gente! Você é daqueles que ama ver um projeto saindo do papel e virando loja pronta, cheia de clientes? Então essa...",
-      "collectedAt": "2026-09-03T19:11:21.317Z"
+      "collectedAt": "2026-09-03T23:53:48.507Z"
     },
     {
       "id": "2e5f43db08eb5ccd",
@@ -1394,7 +1394,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-analista-licenciamentos-em-sao-paulo__11969568.aspx",
       "description": "?? Responsabilidades: Auxiliar nos estudos de viabilidade e triagem de novos pontos de postos de combustível; Organizar e controlar licenças e documen...",
       "descriptionSnippet": "?? Responsabilidades: Auxiliar nos estudos de viabilidade e triagem de novos pontos de postos de combustível; Organizar e controlar licenças e documen...",
-      "collectedAt": "2026-09-03T19:11:21.318Z"
+      "collectedAt": "2026-09-03T23:53:48.507Z"
     },
     {
       "id": "99fd0e151d0df16c",
@@ -1413,7 +1413,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-analista-contratos-licenciamento-em-sao-paulo__11958480.aspx",
       "description": "Fique atento(a) no seu e-mail, um breve questionário será enviado por lá :) Grupo Pillowtex – Zona Criativa O Grupo Pillowtex tem sua origem no setor...",
       "descriptionSnippet": "Fique atento(a) no seu e-mail, um breve questionário será enviado por lá :) Grupo Pillowtex – Zona Criativa O Grupo Pillowtex tem sua origem no setor...",
-      "collectedAt": "2026-09-03T19:11:21.318Z"
+      "collectedAt": "2026-09-03T23:53:48.507Z"
     },
     {
       "id": "04cdcc465172a44b",
@@ -1432,7 +1432,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-especialista-licenciamento-ambiental-em-sao-paulo__11917332.aspx",
       "description": "Estamos buscando um Especialista de Licenciamento Ambiental, profissional que terá um papel estratégico no acompanhamento e na gestão dos processos am...",
       "descriptionSnippet": "Estamos buscando um Especialista de Licenciamento Ambiental, profissional que terá um papel estratégico no acompanhamento e na gestão dos processos am...",
-      "collectedAt": "2026-09-03T19:11:21.318Z"
+      "collectedAt": "2026-09-03T23:53:48.507Z"
     },
     {
       "id": "0d605d1a5301a444",
@@ -1451,7 +1451,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-corretor-imoveis-ou-experiencia-em-sao-paulo__11260877.aspx",
       "description": "A Even more, referência no mercado imobiliário de alto padrão, está em busca de corretores autônomos para atuar na zona sul e oeste de São Paulo, com ...",
       "descriptionSnippet": "A Even more, referência no mercado imobiliário de alto padrão, está em busca de corretores autônomos para atuar na zona sul e oeste de São Paulo, com ...",
-      "collectedAt": "2026-09-03T19:11:21.318Z"
+      "collectedAt": "2026-09-03T23:53:48.507Z"
     },
     {
       "id": "2d44c199753c4aa1",
@@ -1470,7 +1470,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-corretor-imoveis-1211-em-sao-paulo__11734610.aspx",
       "description": "CORRETOR DE IMÓVEIS #1211 Se você tem perfil comercial, gosta de se relacionar com pessoas e busca uma oportunidade com altos ganhos, essa vaga é par...",
       "descriptionSnippet": "CORRETOR DE IMÓVEIS #1211 Se você tem perfil comercial, gosta de se relacionar com pessoas e busca uma oportunidade com altos ganhos, essa vaga é par...",
-      "collectedAt": "2026-09-03T19:11:21.318Z"
+      "collectedAt": "2026-09-03T23:53:48.507Z"
     },
     {
       "id": "600b42e9f26e8623",
@@ -1489,7 +1489,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-corretor-imoveis-ou-experiencia-em-sao-paulo__11944382.aspx",
       "description": "CORRETOR DE IMÓVEIS | HOUSE DE VENDAS HELBOR A sua próxima oportunidade no mercado imobiliário pode estar aqui! A Helbor, uma das principais inc...",
       "descriptionSnippet": "CORRETOR DE IMÓVEIS | HOUSE DE VENDAS HELBOR A sua próxima oportunidade no mercado imobiliário pode estar aqui! A Helbor, uma das principais inc...",
-      "collectedAt": "2026-09-03T19:11:21.318Z"
+      "collectedAt": "2026-09-03T23:53:48.508Z"
     },
     {
       "id": "5c6f6bb4314fed58",
@@ -1508,7 +1508,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-consultora-negocios-imobiliarios-formacao-corretores-imoveis-em-sao-paulo__11913820.aspx",
       "description": "Área profissional: Comercial, Vendas - Corretagem Nível hierárquico: Profissional Autônomo / Parceiro Comercial Número de vagas: 6 Local de trab...",
       "descriptionSnippet": "Área profissional: Comercial, Vendas - Corretagem Nível hierárquico: Profissional Autônomo / Parceiro Comercial Número de vagas: 6 Local de trab...",
-      "collectedAt": "2026-09-03T19:11:21.318Z"
+      "collectedAt": "2026-09-03T23:53:48.508Z"
     },
     {
       "id": "61347b2993850fad",
@@ -1527,7 +1527,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-corretor-imoveis-comece-experiencia-ate-3-comissao-em-sao-paulo__11913703.aspx",
       "description": "Corretor de Imóveis – Sem Experiência | Treinamento + Leads Exclusivos Vila Curuçá Velha – São Paulo/SP Sobre a oportunidade Estamos com 10 vagas abe...",
       "descriptionSnippet": "Corretor de Imóveis – Sem Experiência | Treinamento + Leads Exclusivos Vila Curuçá Velha – São Paulo/SP Sobre a oportunidade Estamos com 10 vagas abe...",
-      "collectedAt": "2026-09-03T19:11:21.318Z"
+      "collectedAt": "2026-09-03T23:53:48.508Z"
     },
     {
       "id": "7387dd593938cf38",
@@ -1546,7 +1546,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-conferenteemissor-contratos-consorcio-imoveis-em-sao-paulo__11881509.aspx",
       "description": "Conferente/Emissor de Contratos – Consórcio de Imóveis e Crédito Imobiliário Descrição do cargo Profissional responsável pela conferência documental, ...",
       "descriptionSnippet": "Conferente/Emissor de Contratos – Consórcio de Imóveis e Crédito Imobiliário Descrição do cargo Profissional responsável pela conferência documental, ...",
-      "collectedAt": "2026-09-03T19:11:21.318Z"
+      "collectedAt": "2026-09-03T23:53:48.508Z"
     },
     {
       "id": "17ddeb1fced51e9e",
@@ -1565,7 +1565,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-corretor-imoveis-em-sao-paulo__11873451.aspx",
       "description": "Corretor(a) de Imóveis Faça parte de uma equipe de alta performance e desenvolva uma carreira de sucesso no mercado imobiliário! Estamos em busca de p...",
       "descriptionSnippet": "Corretor(a) de Imóveis Faça parte de uma equipe de alta performance e desenvolva uma carreira de sucesso no mercado imobiliário! Estamos em busca de p...",
-      "collectedAt": "2026-09-03T19:11:21.318Z"
+      "collectedAt": "2026-09-03T23:53:48.508Z"
     },
     {
       "id": "20d5dedf0c6ce9f6",
@@ -1584,7 +1584,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-corretor-imoveis-vendalocacao-em-sao-paulo__11793876.aspx",
       "description": "Realizar a prospecção e captação de novos clientes e imóveis. Apresentar imóveis aos clientes, destacando seus diferenciais e benefícios. Negociar pro...",
       "descriptionSnippet": "Realizar a prospecção e captação de novos clientes e imóveis. Apresentar imóveis aos clientes, destacando seus diferenciais e benefícios. Negociar pro...",
-      "collectedAt": "2026-09-03T19:11:21.318Z"
+      "collectedAt": "2026-09-03T23:53:48.508Z"
     },
     {
       "id": "6326edbd251e25e3",
@@ -1603,7 +1603,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-tecnico-edificacoes-em-sao-paulo__11908349.aspx",
       "description": "Apoio às atividades técnicas de regularização fundiária Realização de vistorias técnicas em campo e levantamento das condições físicas dos núcleos inf...",
       "descriptionSnippet": "Apoio às atividades técnicas de regularização fundiária Realização de vistorias técnicas em campo e levantamento das condições físicas dos núcleos inf...",
-      "collectedAt": "2026-09-03T19:11:21.318Z"
+      "collectedAt": "2026-09-03T23:53:48.508Z"
     },
     {
       "id": "26e79f942b600997",
@@ -1622,7 +1622,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-tecseguranca-construcao-civil-em-sao-paulo__11676166.aspx",
       "description": "Oportunidade: Estamos buscando um Técnico de Segurança para atuar em nossas obras de construção civil MCMV. A posição é essencial para garantir a segu...",
       "descriptionSnippet": "Oportunidade: Estamos buscando um Técnico de Segurança para atuar em nossas obras de construção civil MCMV. A posição é essencial para garantir a segu...",
-      "collectedAt": "2026-09-03T19:11:21.319Z"
+      "collectedAt": "2026-09-03T23:53:48.509Z"
     },
     {
       "id": "3e9b0154e7971c4d",
@@ -1641,7 +1641,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-oficial-manutencao-predial-em-sao-paulo__11967751.aspx",
       "description": "Serviços de manutenção predial; Manter a organização e em todos os ambientes de área comum da empresa; Inspecionar extintores mensalmente verificando ...",
       "descriptionSnippet": "Serviços de manutenção predial; Manter a organização e em todos os ambientes de área comum da empresa; Inspecionar extintores mensalmente verificando ...",
-      "collectedAt": "2026-09-03T19:11:21.320Z"
+      "collectedAt": "2026-09-03T23:53:48.509Z"
     },
     {
       "id": "966a5f05fb71658c",
@@ -1660,7 +1660,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-mantenedor-predial-jr-em-sao-paulo__11805777.aspx",
       "description": "Atendimentos corretivos, preventivos e AVCB",
       "descriptionSnippet": "Atendimentos corretivos, preventivos e AVCB",
-      "collectedAt": "2026-09-03T19:11:21.320Z"
+      "collectedAt": "2026-09-03T23:53:48.510Z"
     },
     {
       "id": "3f3387bb665457ac",
@@ -1679,7 +1679,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-engenheiroa-edificacoes-experiencia-operacao-alimentacao-em-sao-paulo__11949893.aspx",
       "description": "Engenheiro(a) de Edificações | Expansão de Franquias ?? Local: São Paulo ?? Regime de contratação: PJ ?? Salário: A combinar ?? Necessário veículo pr...",
       "descriptionSnippet": "Engenheiro(a) de Edificações | Expansão de Franquias ?? Local: São Paulo ?? Regime de contratação: PJ ?? Salário: A combinar ?? Necessário veículo pr...",
-      "collectedAt": "2026-09-03T19:11:21.320Z"
+      "collectedAt": "2026-09-03T23:53:48.510Z"
     },
     {
       "id": "84a05d3dbd0ac854",
@@ -1698,7 +1698,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-engenheiro-edificacoes-em-sao-paulo__11912287.aspx",
       "description": "Descrição de Cargo – Engenheiro(a) de Edificações | Expansão de Franquias Missão do Cargo Planejar, coordenar e executar os projetos de expansão da r...",
       "descriptionSnippet": "Descrição de Cargo – Engenheiro(a) de Edificações | Expansão de Franquias Missão do Cargo Planejar, coordenar e executar os projetos de expansão da r...",
-      "collectedAt": "2026-09-03T19:11:21.321Z"
+      "collectedAt": "2026-09-03T23:53:48.510Z"
     },
     {
       "id": "e1246bb89d1790c6",
@@ -1717,7 +1717,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-orcamentista-senior-construcao-civil-em-sao-paulo__11874514.aspx",
       "description": "Vaga: Orçamentista Sênior – Construção Civil | São Bernardo do Campo/SP Estamos em busca de um(a) Orçamentista Sênior para atuar em empresa do segment...",
       "descriptionSnippet": "Vaga: Orçamentista Sênior – Construção Civil | São Bernardo do Campo/SP Estamos em busca de um(a) Orçamentista Sênior para atuar em empresa do segment...",
-      "collectedAt": "2026-09-03T19:11:21.321Z"
+      "collectedAt": "2026-09-03T23:53:48.511Z"
     },
     {
       "id": "6a94adbb08766b8f",
@@ -1736,7 +1736,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-planejador-manutencao-predial-guarulhos-em-sao-paulo__11956466.aspx",
       "description": "Na Cushman & Wakefield, somos movidos por transformar espaços em experiências de alto valor para pessoas e empresas. Com presença global em mais de 60...",
       "descriptionSnippet": "Na Cushman & Wakefield, somos movidos por transformar espaços em experiências de alto valor para pessoas e empresas. Com presença global em mais de 60...",
-      "collectedAt": "2026-09-03T19:11:21.321Z"
+      "collectedAt": "2026-09-03T23:53:48.511Z"
     },
     {
       "id": "3795314b14c5553f",
@@ -1755,7 +1755,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-agente-externo-mercado-imoveis-comercial-em-sao-paulo__11759468.aspx",
       "description": "Buscamos profissional para atuar em São Paulo e Região Metropolitana, com disponibilidade para viagens a outros Estados, que será responsável por fort...",
       "descriptionSnippet": "Buscamos profissional para atuar em São Paulo e Região Metropolitana, com disponibilidade para viagens a outros Estados, que será responsável por fort...",
-      "collectedAt": "2026-09-03T19:11:21.321Z"
+      "collectedAt": "2026-09-03T23:53:48.511Z"
     },
     {
       "id": "5aca5dbd22de6e9c",
@@ -1774,7 +1774,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-analista-comercial-externo-imoveis-em-sao-paulo__11832608.aspx",
       "description": "Buscamos um(a) profissional dinâmico(a) e ativo(a), para atuar diretamente em visitas externas, levantamento de informações e apoio comercial aos imóv...",
       "descriptionSnippet": "Buscamos um(a) profissional dinâmico(a) e ativo(a), para atuar diretamente em visitas externas, levantamento de informações e apoio comercial aos imóv...",
-      "collectedAt": "2026-09-03T19:11:21.321Z"
+      "collectedAt": "2026-09-03T23:53:48.511Z"
     },
     {
       "id": "e572497e19672f18",
@@ -1793,7 +1793,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-auxiliar-manutencao-civil-manutencao-predial--em-sao-paulo__11849244.aspx",
       "description": "Na Cushman & Wakefield, somos movidos por transformar espaços em experiências de alto valor para pessoas e empresas. Com presença global em mais de 60...",
       "descriptionSnippet": "Na Cushman & Wakefield, somos movidos por transformar espaços em experiências de alto valor para pessoas e empresas. Com presença global em mais de 60...",
-      "collectedAt": "2026-09-03T19:11:21.321Z"
+      "collectedAt": "2026-09-03T23:53:48.511Z"
     },
     {
       "id": "2a4ff80fbb67d368",
@@ -1812,7 +1812,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-executivo-imoveis-luxo-em-sao-paulo__11928545.aspx",
       "description": "Funções Gerenciar e acompanhar negociações de imóveis de alto padrão Coordenar visitas e apresentações de propriedades Desenvolver e manter relacionam...",
       "descriptionSnippet": "Funções Gerenciar e acompanhar negociações de imóveis de alto padrão Coordenar visitas e apresentações de propriedades Desenvolver e manter relacionam...",
-      "collectedAt": "2026-09-03T19:11:21.322Z"
+      "collectedAt": "2026-09-03T23:53:48.512Z"
     },
     {
       "id": "48dc18eb0a4e36e8",
@@ -1831,7 +1831,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-oficial-manutencao-predial-em-sao-paulo__11965354.aspx",
       "description": "Realiza manutenção corretiva e preventiva e inspeção de máquinas e equipamentos e identifica necessidades de reparo para preservar as condições de fun...",
       "descriptionSnippet": "Realiza manutenção corretiva e preventiva e inspeção de máquinas e equipamentos e identifica necessidades de reparo para preservar as condições de fun...",
-      "collectedAt": "2026-09-03T19:11:21.322Z"
+      "collectedAt": "2026-09-03T23:53:48.512Z"
     },
     {
       "id": "afbc9b25ac0c7aad",
@@ -1850,7 +1850,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-auxiliar-manutencao-predial-em-sao-paulo__11958090.aspx",
       "description": "VAGA: Auxiliar de Manutenção Predial Local: São Paulo – Zona Leste Regime: CLT Empresa: RST Serviços Terceirizados Atividades / Responsabilidades: O...",
       "descriptionSnippet": "VAGA: Auxiliar de Manutenção Predial Local: São Paulo – Zona Leste Regime: CLT Empresa: RST Serviços Terceirizados Atividades / Responsabilidades: O...",
-      "collectedAt": "2026-09-03T19:11:21.322Z"
+      "collectedAt": "2026-09-03T23:53:48.512Z"
     },
     {
       "id": "1af05a213316d91b",
@@ -1869,7 +1869,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-auxiliar-manutencao-predial-em-sao-paulo__11947681.aspx",
       "description": "Horário: 14h00 às 22h10, de segunda a sábado Escala presencial Regime CLT Principais Responsabilidades: Auxiliar na execução de serviços de manutenç...",
       "descriptionSnippet": "Horário: 14h00 às 22h10, de segunda a sábado Escala presencial Regime CLT Principais Responsabilidades: Auxiliar na execução de serviços de manutenç...",
-      "collectedAt": "2026-09-03T19:11:21.322Z"
+      "collectedAt": "2026-09-03T23:53:48.512Z"
     },
     {
       "id": "491a919628ebcd87",
@@ -1888,7 +1888,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-eletricista-predial-em-sao-paulo__11927367.aspx",
       "description": "CONDOMINIO PARQUE DAS FLORES - MANUTENÇÃO PREDIAL Região: Estrada Pimentas-São Miguel - Guarulhos/SP - CEP 07210-380 ?? Atividades Exercidas: • Repa...",
       "descriptionSnippet": "CONDOMINIO PARQUE DAS FLORES - MANUTENÇÃO PREDIAL Região: Estrada Pimentas-São Miguel - Guarulhos/SP - CEP 07210-380 ?? Atividades Exercidas: • Repa...",
-      "collectedAt": "2026-09-03T19:11:21.322Z"
+      "collectedAt": "2026-09-03T23:53:48.512Z"
     },
     {
       "id": "0a1e21cdccb938c8",
@@ -1907,7 +1907,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-tecnico-manutencao-predial-em-sao-paulo__11943090.aspx",
       "description": "Técnico(a) de Manutenção Predial Procuramos um profissional com experiência em manutenção predial, elétrica, hidráulica e Facilities, perfil técnico...",
       "descriptionSnippet": "Técnico(a) de Manutenção Predial Procuramos um profissional com experiência em manutenção predial, elétrica, hidráulica e Facilities, perfil técnico...",
-      "collectedAt": "2026-09-03T19:11:21.323Z"
+      "collectedAt": "2026-09-03T23:53:48.513Z"
     },
     {
       "id": "9430d3e7f791d24c",
@@ -1926,7 +1926,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-professor-doutor-mestrado-doutorado-arquitetura-em-sao-paulo__11933042.aspx",
       "description": "Professor(a) Doutor - Mestrado e Doutorado em Arquitetura e Urbanismo - São Judas - Mooca Essa posição é para atuar na USJT, que faz parte do Ecossist...",
       "descriptionSnippet": "Professor(a) Doutor - Mestrado e Doutorado em Arquitetura e Urbanismo - São Judas - Mooca Essa posição é para atuar na USJT, que faz parte do Ecossist...",
-      "collectedAt": "2026-09-03T19:11:21.323Z"
+      "collectedAt": "2026-09-03T23:53:48.513Z"
     },
     {
       "id": "9978b901e5a8aa88",
@@ -1945,7 +1945,7 @@
       "url": "https://www.infojobs.com.br/vaga-de-estudante-arquitetura-urbanismo-engenharia-civil-em-sao-paulo__11863219.aspx",
       "description": "O que oferecemos: ?????? Centro Médico SECONCI; ?? Seguro de vida em grupo; ?? Vale-transporte; ??? Vale-refeição; ???O Clube de descontos Alelo; ?? P...",
       "descriptionSnippet": "O que oferecemos: ?????? Centro Médico SECONCI; ?? Seguro de vida em grupo; ?? Vale-transporte; ??? Vale-refeição; ???O Clube de descontos Alelo; ?? P...",
-      "collectedAt": "2026-09-03T19:11:21.323Z"
+      "collectedAt": "2026-09-03T23:53:48.514Z"
     },
     {
       "id": "7bd031bd5882861e",
@@ -1964,7 +1964,26 @@
       "url": "https://www.infojobs.com.br/vaga-de-estagio-arquiteura-urbanismo-em-sao-paulo__11848858.aspx",
       "description": "??? OPORTUNIDADE DE ESTÁGIO – ARQUITETURA E URBANISMO?? ?? Centro – São Paulo/SP O Banco do Brasil está com uma excelente oportunidade para estudantes...",
       "descriptionSnippet": "??? OPORTUNIDADE DE ESTÁGIO – ARQUITETURA E URBANISMO?? ?? Centro – São Paulo/SP O Banco do Brasil está com uma excelente oportunidade para estudantes...",
-      "collectedAt": "2026-09-03T19:11:21.323Z"
+      "collectedAt": "2026-09-03T23:53:48.514Z"
+    },
+    {
+      "id": "11bf920765208573",
+      "title": "Gerente Predial - Zona Sul",
+      "company": "RSA SERVIÇOS",
+      "location": "São Paulo - SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "InfoJobs",
+      "sourceId": "infojobs",
+      "sourceType": "scraped",
+      "seniority": "coordenacao",
+      "workplaceType": null,
+      "matchedKeyword": "a revisar",
+      "postedAt": "2026-09-03T04:57:00.000Z",
+      "url": "https://www.infojobs.com.br/vaga-de-gerente-predial-zona-sul-em-sao-paulo__11985310.aspx",
+      "description": "Descrição de Cargo — Gerente Predial Buscamos um Gerente Predial para atuar na gestão completa de condomínios residenciais, sendo responsável por gara...",
+      "descriptionSnippet": "Descrição de Cargo — Gerente Predial Buscamos um Gerente Predial para atuar na gestão completa de condomínios residenciais, sendo responsável por gara...",
+      "collectedAt": "2026-09-03T23:53:48.515Z"
     }
   ],
   "verdict": "ok"
