@@ -1,8 +1,8 @@
 {
   "sourceId": "empregos",
   "name": "Empregos.com.br",
-  "collectedAt": "2026-09-04T21:20:13.738Z",
-  "durationMs": 158856,
+  "collectedAt": "2026-09-04T23:49:35.798Z",
+  "durationMs": 142636,
   "queriesRun": 52,
   "ok": true,
   "aborted": false,
@@ -22,11 +22,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-09-03T21:17:36.734Z",
+      "postedAt": "2026-09-03T23:47:14.945Z",
       "url": "https://www.empregos.com.br/vaga/11810227/arquiteto-em-sao-paulo-sp",
       "description": "ARQUITETO #1428 Domínio de ferramentas de renderização e modelagem (como AutoCAD, SketchUp, Blender ou Vectorworks). Noções de orçamento, logística de montagem e segurança de materiais para espaços efêmeros Criação , Detalhamento , Acompanhamento na fabricação e montagem , Orçamento , Planejamento e Alinhamento com Equipes Ter trabalhado em Empresas ligadas a área de Eventos , Feiras , Montadoras e afins",
       "descriptionSnippet": "ARQUITETO #1428 Domínio de ferramentas de renderização e modelagem (como AutoCAD, SketchUp, Blender ou Vectorworks). Noções de orçamento, logística de montagem e segurança de materiais para espaços efêmeros Criação , Detalhamento , Acompanh…",
-      "collectedAt": "2026-09-04T21:20:13.715Z"
+      "collectedAt": "2026-09-04T23:49:35.777Z"
     },
     {
       "id": "e4b07a2324720068",
@@ -41,11 +41,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-09-02T21:17:36.737Z",
+      "postedAt": "2026-09-02T23:47:14.948Z",
       "url": "https://www.empregos.com.br/vaga/11804926/vaga-de-arquiteto-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-04T21:20:13.719Z"
+      "collectedAt": "2026-09-04T23:49:35.781Z"
     },
     {
       "id": "baa7e81dff85f02a",
@@ -60,11 +60,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-08-31T21:17:36.740Z",
+      "postedAt": "2026-08-31T23:47:14.950Z",
       "url": "https://www.empregos.com.br/vaga/11799935/arquiteto-de-solucao-corporativo-em-sao-paulo-sp",
       "description": "Profissional para atuar com o papel de Arquiteto de Negócios e Solução dentro da jornada de tecnologia:1. Entendimento das demandas planejadas e priorizadas por negócio: Objetivos, Requisitos, Dores, Planejamento, Expectativas 2. Mapeamento AS IS contemplando os artefatos Fluxo de Valor, Mapa de Capacidades, Domínio Funcional 3. Condução e organização das discussões de solução junto a outras arquiteturas de domínio4. Avaliação de Building Blocks5. Construção dos artefatos de visão alto nível de arquitetura, contexto e container6. Apresentação de solução em fórum de arquitetura",
       "descriptionSnippet": "Profissional para atuar com o papel de Arquiteto de Negócios e Solução dentro da jornada de tecnologia:1. Entendimento das demandas planejadas e priorizadas por negócio: Objetivos, Requisitos, Dores, Planejamento, Expectativas 2. Mapeamento…",
-      "collectedAt": "2026-09-04T21:20:13.719Z"
+      "collectedAt": "2026-09-04T23:49:35.781Z"
     },
     {
       "id": "0f80ce7fc06c8952",
@@ -79,11 +79,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-08-30T21:17:36.741Z",
+      "postedAt": "2026-08-30T23:47:14.951Z",
       "url": "https://www.empregos.com.br/vaga/11799462/vaga-de-arquiteto-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-04T21:20:13.720Z"
+      "collectedAt": "2026-09-04T23:49:35.781Z"
     },
     {
       "id": "ce9bb2b00d2fe428",
@@ -98,11 +98,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "urbanismo",
-      "postedAt": "2026-07-29T21:17:45.359Z",
+      "postedAt": "2026-07-29T23:47:22.938Z",
       "url": "https://www.empregos.com.br/vaga/11701536/estudante-de-arquitetura-e-urbanismo-ou-engenharia-civil-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-04T21:20:13.724Z"
+      "collectedAt": "2026-09-04T23:49:35.785Z"
     },
     {
       "id": "dd6e041c48cb37cb",
@@ -117,11 +117,11 @@
       "seniority": "estagio",
       "workplaceType": null,
       "matchedKeyword": "urbanismo",
-      "postedAt": "2026-07-23T21:17:45.360Z",
+      "postedAt": "2026-07-23T23:47:22.938Z",
       "url": "https://www.empregos.com.br/vaga/11671560/estagio-arquitetura-e-urbanismo-84557-em-sao-paulo-sp",
       "description": "...r e manter um bom relacionamento com os órgãos reguladores, sempre procurando defender os interesses dos clientes de forma clara e objetiva.Estudante de Arquitetura e Urbanismo em fase avançada de curso.Conhecimento prático em AutoCAD, Revit ou SketchUp.Capacidade de comunicação escrita e verbal para apresentação de projetos.Disponibilidade para trabalhar em horário comercial e participar de visitas de campo.Cursando Arquitetura e Urbanismo, 4º ao 8º período;Conhecimento intermediário em pacote Office e AutoCadConsultoria imobiliária, em parceria com a Fundação Mudes, busca estudantes de ARQUITETURA E URBANISMO",
       "descriptionSnippet": "...r e manter um bom relacionamento com os órgãos reguladores, sempre procurando defender os interesses dos clientes de forma clara e objetiva.Estudante de Arquitetura e Urbanismo em fase avançada de curso.Conhecimento prático em AutoCAD, R…",
-      "collectedAt": "2026-09-04T21:20:13.724Z"
+      "collectedAt": "2026-09-04T23:49:35.785Z"
     },
     {
       "id": "8984167f9cc59e04",
@@ -136,11 +136,11 @@
       "seniority": "estagio",
       "workplaceType": null,
       "matchedKeyword": "urbanismo",
-      "postedAt": "2026-08-24T21:17:45.362Z",
+      "postedAt": "2026-08-24T23:47:22.940Z",
       "url": "https://www.empregos.com.br/vaga/11782083/estagio-em-arquitetura-e-urbanismo-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-04T21:20:13.724Z"
+      "collectedAt": "2026-09-04T23:49:35.785Z"
     },
     {
       "id": "bfe1ac2ec4439d47",
@@ -155,11 +155,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "aprovação de projetos",
-      "postedAt": "2026-08-27T21:18:06.934Z",
+      "postedAt": "2026-08-27T23:47:41.888Z",
       "url": "https://www.empregos.com.br/vaga/11791367/pessoa-analista-de-saneamento-aprovacao-de-projetos-de-infraestrutura-em-sao-paulo-sp",
       "description": "...a história! Sua missão na Cury:_Garantir que as demandas do departamento de Infraestrutura tenham planejamento, detalhamento, estimativa de custos, cronograma e desenvolvimento de estudos e projetos executivos de redes de abastecimento de água e de coleta de esgoto (internas e externas dos empreendimentos da empresa). Participar de reuniões e elaborar relatórios técnicos da área._ - Acompanhar aprovações de projetos de infraestrutura junto aos órgãos públicos. - Participar de reuniões para definição e compatibilização dos projetos com outras disciplinas. - Realizar visita a Campo (novas áreas, obras e concessionária responsável pela aprovação) - Análise de projetos de infraestrutura, redes de drenagem, água, esgoto, iluminação, sinalização, pavimentação, laudo hidrológico. - Preparação e acompanhamento de documentos para protocolos de projetos, aprovação de projetos de drenagem, água, esgoto, viabilidade de gás e energia elétrica e licenças nos órgãos de aprovação. - Visita a terrenos, concessionárias e órgãos públicos para desenvolvimento de prospecção de infraestrutura de novas áreas. - Desenvolvimento de apresentação em Powerpoint para comitês e reuniões. - Solicitação de cadastros e diretrizes de redes de água e esgoto junto as concessionárias. - Contratação e acompanhamento de serviços terceirizados como topografia, laudos e projetos. - Controlar prazos, despesas e custos desde a aquisição do terreno, obra e pós obra. Requisitos e qualificações - Formação técnica em saneamento(Tecnólogo), graduação em Engenharia Civil ou arquitetura; - Experiência com projetos sanitários de redes de abastecimento de água, coleta de esgoto e águas pluviais; - Vivências anteriores em construtoras, incorporadoras ou loteadoras; - Experiência no processo de aprovações de projetos em órgãos públicos; - Conhecimento em Autocad, Civil 3D avançados; - Pacote Office avançado. Informações adicionais Trabalhando aqui, você terá: Saúde - Assistência Médica ...",
       "descriptionSnippet": "...a história! Sua missão na Cury:_Garantir que as demandas do departamento de Infraestrutura tenham planejamento, detalhamento, estimativa de custos, cronograma e desenvolvimento de estudos e projetos executivos de redes de abastecimento d…",
-      "collectedAt": "2026-09-04T21:20:13.727Z"
+      "collectedAt": "2026-09-04T23:49:35.788Z"
     },
     {
       "id": "d5bf6e5b709a6ce4",
@@ -174,11 +174,11 @@
       "seniority": "nao_informado",
       "workplaceType": "remote",
       "matchedKeyword": "a revisar",
-      "postedAt": "2026-08-08T21:18:43.420Z",
+      "postedAt": "2026-08-06T23:48:16.294Z",
       "url": "https://www.empregos.com.br/vaga/11731336/engenheiro-avaliador-de-imoveis-em-sao-paulo-sp",
       "description": "Elaboração completa de laudos de avaliação de Imóveis de diferentes complexidades;Correção de pesquisas e homogeneização;Elaboração de laudos de análise de viabilidade de empreendimentos imobiliários;Elaboração de laudos de medição de obra;Conferência das informações levantadas pela equipe de campo.Experiência em avaliação de imóveis utilizando diferentes metodologias.Superior completo em Engenharia Civil;Estrutura de trabalho homeoffice;Entre em contato pelo nosso Whatsapp: 551150393858Nosso cliente contratante é uma empresa do segmento de gestão patrimonial e engenharia de avaliações.",
       "descriptionSnippet": "Elaboração completa de laudos de avaliação de Imóveis de diferentes complexidades;Correção de pesquisas e homogeneização;Elaboração de laudos de análise de viabilidade de empreendimentos imobiliários;Elaboração de laudos de medição de obra;…",
-      "collectedAt": "2026-09-04T21:20:13.731Z"
+      "collectedAt": "2026-09-04T23:49:35.791Z"
     },
     {
       "id": "7129b71ddeeec9c8",
@@ -193,11 +193,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "a revisar",
-      "postedAt": "2026-07-23T21:18:49.020Z",
+      "postedAt": "2026-07-23T23:48:21.590Z",
       "url": "https://www.empregos.com.br/vaga/11668888/inspecao-predial-em-sao-paulo-sp",
       "description": "...; Inovação - SOMOS MOVIDOS POR INOVAÇÃO E A MUDANÇA É CONSTANTE; Cooperação - JUNTOS MELHORAMOS E CRESCEMOS SEMPRE. Estamos buscando engenheiros com experiência em inspeção predial para trabalhar em parceria conosco em demandas pontuais. Pré-requisitos: Superior completo em Engenharia Civil; Especialização em Engenharia diagnóstica e perícia.CNPJ ou MEI aberto para ...",
       "descriptionSnippet": "...; Inovação - SOMOS MOVIDOS POR INOVAÇÃO E A MUDANÇA É CONSTANTE; Cooperação - JUNTOS MELHORAMOS E CRESCEMOS SEMPRE. Estamos buscando engenheiros com experiência em inspeção predial para trabalhar em parceria conosco em demandas pontuais.…",
-      "collectedAt": "2026-09-04T21:20:13.731Z"
+      "collectedAt": "2026-09-04T23:49:35.791Z"
     },
     {
       "id": "194a384fa9ee6b82",
@@ -212,11 +212,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "a revisar",
-      "postedAt": "2026-09-03T21:18:51.733Z",
+      "postedAt": "2026-09-03T23:48:24.285Z",
       "url": "https://www.empregos.com.br/vaga/11809022/clone-especialista-em-seguros-para-construcao-civil-em-sao-paulo-sp",
       "description": "Estamos em busca de um(a) profissional com sólida experiência em seguros corporativos voltados à construção civil, com forte atuação em análise técnica de apólices, gerenciamento de riscos e suporte estratégico às operações de engenharia e contratos. Buscamos alguém com ...",
       "descriptionSnippet": "Estamos em busca de um(a) profissional com sólida experiência em seguros corporativos voltados à construção civil, com forte atuação em análise técnica de apólices, gerenciamento de riscos e suporte estratégico às operações de engenharia e…",
-      "collectedAt": "2026-09-04T21:20:13.732Z"
+      "collectedAt": "2026-09-04T23:49:35.792Z"
     },
     {
       "id": "b4ac6eb4af7d7dcb",
@@ -231,11 +231,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "a revisar",
-      "postedAt": "2026-08-31T21:18:51.736Z",
+      "postedAt": "2026-08-31T23:48:24.287Z",
       "url": "https://www.empregos.com.br/vaga/11801408/tecnico-de-seguranca-do-trabalho-construcao-civil-em-sao-paulo-sp",
       "description": "Possuir experiência como Técnico de Segurança do Trabalho, especialmente em obras de construção civil. Possuir registro profissional e documentação necessária para exercer a função. Experiência com DDS, inspeções de segurança, liberações de atividades e acompanhamento de equipes ...",
       "descriptionSnippet": "Possuir experiência como Técnico de Segurança do Trabalho, especialmente em obras de construção civil. Possuir registro profissional e documentação necessária para exercer a função. Experiência com DDS, inspeções de segurança, liberações de…",
-      "collectedAt": "2026-09-04T21:20:13.732Z"
+      "collectedAt": "2026-09-04T23:49:35.792Z"
     },
     {
       "id": "aad68f978b3a63b3",
@@ -250,11 +250,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "projetista / cadista",
-      "postedAt": "2026-08-29T21:19:08.020Z",
+      "postedAt": "2026-08-29T23:48:43.471Z",
       "url": "https://www.empregos.com.br/vaga/11798599/pessoa-analista-projetista-de-saneamento-redes-de-aguas-pluviais-em-sao-paulo-sp",
       "description": "...a história! Sua missão na Cury:_Garantir que as demandas do departamento de Infraestrutura tenham planejamento, detalhamento, estimativa de custos, cronograma e desenvolvimento de estudos e projetos executivos de redes de abastecimento de água e de coleta de esgoto (internas e externas dos empreendimentos da empresa). Participar de reuniões e elaborar relatórios técnicos da área._ - Elaboração de estudos e projetos executivos de redes de abastecimento de água e de coleta de esgoto (internas e externas dos empreendimentos da empresa), - Acompanhar aprovações junto aos órgãos públicos, - Participar de reuniões com a equipe de Projetos para definição e compatibilização dos projetos com outras disciplinas. - Realizar visita a Campo (novas áreas, obras e concessionária responsável pela aprovação) Requisitos e qualificações - Formação técnica em saneamento(Tecnólogo) ou graduação em Engenharia Civil; - Experiência com projetos sanitários de redes de águas pluviais; - Vivências anteriores em construtoras, incorporadoras ou loteadoras; - Experiência no processo de aprovações de projetos em órgãos públicos, preferencialmente em SIURB; - Conhecimento em Autocad Civil 3D avançados; - Pacote Office avançado. Informações adicionais Trabalhando aqui, você terá: Saúde ...",
       "descriptionSnippet": "...a história! Sua missão na Cury:_Garantir que as demandas do departamento de Infraestrutura tenham planejamento, detalhamento, estimativa de custos, cronograma e desenvolvimento de estudos e projetos executivos de redes de abastecimento d…",
-      "collectedAt": "2026-09-04T21:20:13.734Z"
+      "collectedAt": "2026-09-04T23:49:35.794Z"
     },
     {
       "id": "69b99501fde2c29b",
@@ -269,11 +269,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "paisagismo",
-      "postedAt": "2026-07-29T21:19:11.338Z",
+      "postedAt": "2026-07-29T23:48:46.013Z",
       "url": "https://www.empregos.com.br/vaga/11697751/vendedor-de-prestacao-de-servicos-paisagismo-em-osasco-sp",
       "description": "Candidatos(as) com experiência em vendas de prestação de serviços de paisagismo. Venda interna e externa De fácil acesso a região da Zona Oeste de SP Salário fixo de 2.000,00 + Comissões + VT + VR ...",
       "descriptionSnippet": "Candidatos(as) com experiência em vendas de prestação de serviços de paisagismo. Venda interna e externa De fácil acesso a região da Zona Oeste de SP Salário fixo de 2.000,00 + Comissões + VT + VR ...",
-      "collectedAt": "2026-09-04T21:20:13.734Z"
+      "collectedAt": "2026-09-04T23:49:35.794Z"
     },
     {
       "id": "fa812fc5917cdaf9",
@@ -288,11 +288,11 @@
       "seniority": "senior",
       "workplaceType": "hybrid",
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-07-13T21:19:13.988Z",
+      "postedAt": "2026-07-13T23:48:48.704Z",
       "url": "https://www.empregos.com.br/vaga/11627532/senior-solution-data-analytics-architect-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-04T21:20:13.734Z"
+      "collectedAt": "2026-09-04T23:49:35.794Z"
     },
     {
       "id": "82c5c7146d546993",
@@ -307,11 +307,11 @@
       "seniority": "estagio",
       "workplaceType": null,
       "matchedKeyword": "Revit",
-      "postedAt": "2026-07-22T21:19:16.643Z",
+      "postedAt": "2026-07-22T23:48:51.249Z",
       "url": "https://www.empregos.com.br/vaga/11665659/estagio-em-interiores-revit-em-sao-paulo-sp",
       "description": "...e Urbanismo.Conhecimento básico a intermediário em Revit.Conhecimento básico a intermediário em Pacote Office.Proatividade e interesse em aprender.Boa comunicação e trabalho em equipe.Escritório de arquitetura e interiores.",
       "descriptionSnippet": "...e Urbanismo.Conhecimento básico a intermediário em Revit.Conhecimento básico a intermediário em Pacote Office.Proatividade e interesse em aprender.Boa comunicação e trabalho em equipe.Escritório de arquitetura e interiores.",
-      "collectedAt": "2026-09-04T21:20:13.734Z"
+      "collectedAt": "2026-09-04T23:49:35.794Z"
     },
     {
       "id": "cc58baad2f28de6e",
@@ -326,11 +326,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "a revisar",
-      "postedAt": "2026-08-12T21:19:28.646Z",
+      "postedAt": "2026-08-12T23:49:01.547Z",
       "url": "https://www.empregos.com.br/vaga/11751947/fiscal-de-manutencao-predial-em-sao-paulo-sp",
       "description": "...a e Interpretação de Projetos Técnicos: Analisar plantas baixas, diagramas e projetos complementares para orientar intervenções de manutenção e reparos estruturais. Verificar a conformidade do As-Built com a realidade física da edificação, utilizando noções de AutoCAD ou ferramentas de visualização de projetos para consulta de medidas e layouts quando necessário. ...",
       "descriptionSnippet": "...a e Interpretação de Projetos Técnicos: Analisar plantas baixas, diagramas e projetos complementares para orientar intervenções de manutenção e reparos estruturais. Verificar a conformidade do As-Built com a realidade física da edificaçã…",
-      "collectedAt": "2026-09-04T21:20:13.736Z"
+      "collectedAt": "2026-09-04T23:49:35.796Z"
     },
     {
       "id": "6237fdea73f07f16",
@@ -345,11 +345,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "projetista / cadista",
-      "postedAt": "2026-07-31T21:19:31.297Z",
+      "postedAt": "2026-07-31T23:49:04.543Z",
       "url": "https://www.empregos.com.br/vaga/11710307/vendedora-projetista-moveis-planejados-em-barueri-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-04T21:20:13.736Z"
+      "collectedAt": "2026-09-04T23:49:35.796Z"
     },
     {
       "id": "fb9cd992e325ab6b",
@@ -364,11 +364,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "projetista / cadista",
-      "postedAt": "2026-07-31T21:19:34.210Z",
+      "postedAt": "2026-07-31T23:49:07.078Z",
       "url": "https://www.empregos.com.br/vaga/11710305/vendedor-a-projetista-loja-de-moveis-planejados-aricanduva-em-sao-paulo-sp",
       "description": "...á mais de 50 anos no mercado, empresa é uma das mais tradicionais marcas de móveis planejados de São Paulo; - Desenvolver os projetos, a renderização, apresentação ao cliente, medição, projeto executivo e projeto de montagem. - Realizar atendimento de arquitetos, designers e clientes finais, acompanhando do começo ao fim; ...",
       "descriptionSnippet": "...á mais de 50 anos no mercado, empresa é uma das mais tradicionais marcas de móveis planejados de São Paulo; - Desenvolver os projetos, a renderização, apresentação ao cliente, medição, projeto executivo e projeto de montagem. - Realizar…",
-      "collectedAt": "2026-09-04T21:20:13.736Z"
+      "collectedAt": "2026-09-04T23:49:35.796Z"
     },
     {
       "id": "ef806f4e3f6f78bd",
@@ -383,11 +383,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "projetista / cadista",
-      "postedAt": "2026-07-31T21:19:37.097Z",
+      "postedAt": "2026-07-29T23:49:10.458Z",
       "url": "https://www.empregos.com.br/vaga/11697649/projetista-3d-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-04T21:20:13.737Z"
+      "collectedAt": "2026-09-04T23:49:35.796Z"
     },
     {
       "id": "44664aff21c8927e",
@@ -402,11 +402,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "projetista / cadista",
-      "postedAt": "2026-09-03T21:19:40.210Z",
+      "postedAt": "2026-09-03T23:49:13.001Z",
       "url": "https://www.empregos.com.br/vaga/11810303/projetistagestor-de-moveis-planejados-em-barueri-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-04T21:20:13.737Z"
+      "collectedAt": "2026-09-04T23:49:35.796Z"
     },
     {
       "id": "46ee0cf47298f774",
@@ -421,11 +421,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "projetista / cadista",
-      "postedAt": "2026-07-16T21:19:43.211Z",
+      "postedAt": "2026-07-16T23:49:15.534Z",
       "url": "https://www.empregos.com.br/vaga/11649812/cadista-2d-em-sao-paulo-sp",
       "description": "O cadista 2D transforma ideias de engenheiros e arquitetos em desenhos técnicos no computador. Ele usa programas como o AutoCAD para desenhar plantas precisas e detalhadas e desenhos técnicos mecânicos em metalúrgicas. Ele adiciona medidas e segue regras de desenho. Ele também corrige e atualiza os projetos conforme as obras avançam.",
       "descriptionSnippet": "O cadista 2D transforma ideias de engenheiros e arquitetos em desenhos técnicos no computador. Ele usa programas como o AutoCAD para desenhar plantas precisas e detalhadas e desenhos técnicos mecânicos em metalúrgicas. Ele adiciona medidas…",
-      "collectedAt": "2026-09-04T21:20:13.737Z"
+      "collectedAt": "2026-09-04T23:49:35.797Z"
     },
     {
       "id": "287618a804f93d00",
@@ -440,11 +440,11 @@
       "seniority": "junior",
       "workplaceType": null,
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-08-28T21:19:46.581Z",
+      "postedAt": "2026-08-28T23:49:18.105Z",
       "url": "https://www.empregos.com.br/vaga/11796673/assistente-de-arquitetura-junior-desenhista-tecnico-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-04T21:20:13.737Z"
+      "collectedAt": "2026-09-04T23:49:35.797Z"
     }
   ],
   "verdict": "ok"

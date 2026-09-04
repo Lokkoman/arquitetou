@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 212
+      "n": 213
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 267
+      "n": 272
     },
     {
       "label": "Cadista",
@@ -22,7 +22,7 @@
     },
     {
       "label": "Designer de Interiores",
-      "n": 35
+      "n": 36
     },
     {
       "label": "Modelador BIM",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Analista",
-      "n": 56
+      "n": 58
     },
     {
       "label": "Assistente / Auxiliar",
@@ -68,7 +68,7 @@
     },
     {
       "label": "Projeto executivo",
-      "n": 8
+      "n": 9
     },
     {
       "label": "Projeto legal / aprovação",
