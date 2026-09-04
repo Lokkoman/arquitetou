@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T14:10:25.547Z",
+  "generatedAt": "2026-09-04T19:01:21.513Z",
   "ok": true,
   "alerts": [],
   "needsReprocess": [],
@@ -7,26 +7,26 @@
     "bne": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 123,
-      "baselineMedian": 124,
+      "jobsFound": 121,
+      "baselineMedian": 123.5,
       "errorCount": 0,
       "queriesRun": 54,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 116856,
-      "lastRunAt": "2026-09-04T14:05:31.087Z"
+      "durationMs": 120056,
+      "lastRunAt": "2026-09-04T18:54:22.471Z"
     },
     "catho": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 547,
-      "baselineMedian": 545.5,
+      "jobsFound": 554,
+      "baselineMedian": 546.5,
       "errorCount": 0,
-      "queriesRun": 502,
+      "queriesRun": 503,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 278165,
-      "lastRunAt": "2026-09-04T14:08:12.501Z"
+      "durationMs": 288358,
+      "lastRunAt": "2026-09-04T18:57:10.494Z"
     },
     "empregos": {
       "verdict": "ok",
@@ -37,8 +37,8 @@
       "queriesRun": 52,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 143678,
-      "lastRunAt": "2026-09-04T14:05:56.752Z"
+      "durationMs": 141624,
+      "lastRunAt": "2026-09-04T18:54:46.415Z"
     },
     "gupy-portal": {
       "verdict": "ok",
@@ -49,8 +49,8 @@
       "queriesRun": 252,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 20736,
-      "lastRunAt": "2026-09-04T14:03:54.995Z"
+      "durationMs": 5014,
+      "lastRunAt": "2026-09-04T18:52:25.639Z"
     },
     "infojobs": {
       "verdict": "ok",
@@ -61,20 +61,20 @@
       "queriesRun": 125,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 81482,
-      "lastRunAt": "2026-09-04T14:04:55.581Z"
+      "durationMs": 79777,
+      "lastRunAt": "2026-09-04T18:53:41.189Z"
     },
     "linkedin": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 107,
-      "baselineMedian": 121,
-      "errorCount": 53,
-      "queriesRun": 375,
-      "errorRate": 0.141,
+      "jobsFound": 123,
+      "baselineMedian": 119.5,
+      "errorCount": 1,
+      "queriesRun": 522,
+      "errorRate": 0.002,
       "dominantError": "HTTP 429",
-      "durationMs": 395365,
-      "lastRunAt": "2026-09-04T14:10:08.825Z"
+      "durationMs": 524167,
+      "lastRunAt": "2026-09-04T19:01:06.475Z"
     },
     "vagas-com": {
       "verdict": "ok",
