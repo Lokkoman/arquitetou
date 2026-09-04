@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T11:57:17.075Z",
+  "generatedAt": "2026-09-04T11:58:35.178Z",
   "note": "Gemini falhou: Gemini HTTP 429: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-lim",
   "candidates": [
     {
@@ -14,19 +14,29 @@
       "adopted": false,
       "probe": {
         "url": "https://www.empregos.com.br/vagas/arquiteto",
-        "checkedAt": "2026-08-27T03:21:21.772Z",
+        "checkedAt": "2026-09-04T11:58:32.684Z",
         "robots": {
           "status": 200,
           "protected": false,
           "disallowAll": false,
           "note": null
         },
-        "status": 502,
-        "ms": 121,
-        "verdict": "inacessivel",
-        "notes": [
-          "HTTP 502"
-        ]
+        "status": 200,
+        "ms": 1054,
+        "signals": {
+          "contentType": "text/html;charset=utf-8",
+          "htmlBytes": 494952,
+          "textChars": 49740,
+          "scriptSrcCount": 1,
+          "listingHits": 184,
+          "isJson": false,
+          "hasJobPosting": false,
+          "hasEmbeddedJson": true,
+          "antibot": false,
+          "looksSpa": false
+        },
+        "verdict": "estruturado",
+        "notes": []
       },
       "robotsProtected": false
     },
@@ -42,7 +52,7 @@
       "adopted": false,
       "probe": {
         "url": "https://www.trabalhabrasil.com.br/vagas-de-emprego/arquiteto",
-        "checkedAt": "2026-08-27T03:20:53.954Z",
+        "checkedAt": "2026-09-04T11:58:33.749Z",
         "robots": {
           "status": 200,
           "protected": false,
@@ -50,11 +60,11 @@
           "note": null
         },
         "status": 200,
-        "ms": 868,
+        "ms": 1418,
         "signals": {
           "contentType": "text/html; charset=utf-8",
-          "htmlBytes": 369012,
-          "textChars": 4247,
+          "htmlBytes": 369441,
+          "textChars": 4222,
           "scriptSrcCount": 12,
           "listingHits": 31,
           "isJson": false,
