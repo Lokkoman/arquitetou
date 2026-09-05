@@ -1,4 +1,4 @@
-# Candidatos de fontes — 2026-09-04
+# Candidatos de fontes — 2026-09-05
 
 > Gemini falhou: Gemini HTTP 429: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-lim
 
