@@ -7,10 +7,10 @@
       "aborted": false,
       "jobsFound": 7,
       "queriesRun": 252,
-      "durationMs": 21582,
+      "durationMs": 20727,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-08T23:54:30.443Z",
+      "lastRunAt": "2026-09-09T05:46:36.003Z",
       "note": "Coletado em workflow próprio."
     },
     "vagas-com": {
@@ -31,12 +31,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 111,
+      "jobsFound": 112,
       "queriesRun": 125,
-      "durationMs": 89826,
+      "durationMs": 100945,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-08T23:55:36.672Z",
+      "lastRunAt": "2026-09-09T05:47:55.577Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
@@ -44,12 +44,14 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 126,
+      "jobsFound": 125,
       "queriesRun": 54,
-      "durationMs": 116541,
-      "errors": [],
-      "errorCount": 0,
-      "lastRunAt": "2026-09-08T23:56:04.624Z",
+      "durationMs": 92024,
+      "errors": [
+        "arquiteto-urbanista/nacional: HTTP 500"
+      ],
+      "errorCount": 1,
+      "lastRunAt": "2026-09-09T05:47:46.823Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -57,12 +59,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 105,
+      "jobsFound": 100,
       "queriesRun": 524,
-      "durationMs": 524870,
+      "durationMs": 528769,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-09T00:02:53.380Z",
+      "lastRunAt": "2026-09-09T05:55:01.668Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -70,12 +72,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 546,
-      "queriesRun": 502,
-      "durationMs": 290580,
+      "jobsFound": 542,
+      "queriesRun": 490,
+      "durationMs": 261048,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-08T23:58:59.099Z",
+      "lastRunAt": "2026-09-09T05:50:34.432Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -83,12 +85,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 24,
+      "jobsFound": 25,
       "queriesRun": 52,
-      "durationMs": 156159,
+      "durationMs": 146126,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-08T23:56:42.966Z",
+      "lastRunAt": "2026-09-09T05:48:41.964Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -100,16 +102,16 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-09-09T00:05:24.397Z",
-  "startedAt": "2026-09-09T00:03:08.613Z",
-  "finishedAt": "2026-09-09T00:05:24.397Z",
+  "lastRun": "2026-09-09T05:57:58.026Z",
+  "startedAt": "2026-09-09T05:55:17.874Z",
+  "finishedAt": "2026-09-09T05:57:58.026Z",
   "linkedin": null,
   "ai": {
     "model": null,
     "enriched": 200,
-    "dropped": 82,
-    "cached": 927,
+    "dropped": 80,
+    "cached": 931,
     "ok": true,
-    "note": "113 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
+    "note": "108 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
   }
 }
