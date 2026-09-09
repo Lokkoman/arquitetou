@@ -42,7 +42,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 147
+      "n": 148
     },
     {
       "label": "Técnico em Edificações",
@@ -54,7 +54,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 18
+      "n": 19
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -146,7 +146,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 63
+      "n": 65
     },
     {
       "label": "SketchUp",
@@ -158,11 +158,11 @@
     },
     {
       "label": "Revit",
-      "n": 26
+      "n": 27
     },
     {
       "label": "BIM",
-      "n": 32
+      "n": 33
     }
   ]
 }
