@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 218
+      "n": 220
     },
     {
       "label": "Urbanista",
@@ -10,15 +10,15 @@
     },
     {
       "label": "Projetista",
-      "n": 298
+      "n": 300
     },
     {
       "label": "Cadista",
-      "n": 57
+      "n": 58
     },
     {
       "label": "Desenhista",
-      "n": 98
+      "n": 99
     },
     {
       "label": "Designer de Interiores",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Analista",
-      "n": 67
+      "n": 69
     },
     {
       "label": "Assistente / Auxiliar",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Fiscal / Mestre de Obras",
-      "n": 1
+      "n": 2
     }
   ],
   "scope": [
@@ -80,7 +80,7 @@
     },
     {
       "label": "Licenciamento",
-      "n": 6
+      "n": 7
     },
     {
       "label": "Habite-se / alvará / AVCB",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 17
+      "n": 18
     },
     {
       "label": "Levantamento / as built",
@@ -146,7 +146,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 67
+      "n": 68
     },
     {
       "label": "SketchUp",
