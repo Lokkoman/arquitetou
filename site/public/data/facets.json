@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 217
+      "n": 218
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 294
+      "n": 298
     },
     {
       "label": "Cadista",
@@ -22,7 +22,7 @@
     },
     {
       "label": "Designer de Interiores",
-      "n": 36
+      "n": 37
     },
     {
       "label": "Modelador BIM",
@@ -38,11 +38,11 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 60
+      "n": 61
     },
     {
       "label": "Estagiário",
-      "n": 152
+      "n": 155
     },
     {
       "label": "Técnico em Edificações",
@@ -96,7 +96,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 16
+      "n": 17
     },
     {
       "label": "Orçamento / quantitativos",
