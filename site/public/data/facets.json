@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 289
+      "n": 294
     },
     {
       "label": "Cadista",
@@ -34,23 +34,23 @@
     },
     {
       "label": "Analista",
-      "n": 65
+      "n": 67
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 59
+      "n": 60
     },
     {
       "label": "Estagiário",
-      "n": 150
+      "n": 152
     },
     {
       "label": "Técnico em Edificações",
-      "n": 40
+      "n": 41
     },
     {
       "label": "Orçamentista",
-      "n": 13
+      "n": 14
     },
     {
       "label": "Consultor / Especialista",
@@ -64,7 +64,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 8
+      "n": 9
     },
     {
       "label": "Projeto executivo",
@@ -80,7 +80,7 @@
     },
     {
       "label": "Licenciamento",
-      "n": 5
+      "n": 6
     },
     {
       "label": "Habite-se / alvará / AVCB",
