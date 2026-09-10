@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 216
+      "n": 217
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 288
+      "n": 289
     },
     {
       "label": "Cadista",
@@ -34,11 +34,11 @@
     },
     {
       "label": "Analista",
-      "n": 63
+      "n": 65
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 56
+      "n": 59
     },
     {
       "label": "Estagiário",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 39
+      "n": 40
     },
     {
       "label": "Orçamentista",
@@ -72,7 +72,7 @@
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 8
+      "n": 9
     },
     {
       "label": "Legalização / regularização",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 16
+      "n": 17
     },
     {
       "label": "Levantamento / as built",
@@ -104,7 +104,7 @@
     },
     {
       "label": "Laudo / perícia / vistoria",
-      "n": 3
+      "n": 4
     },
     {
       "label": "Avaliação de imóveis",
@@ -120,7 +120,7 @@
     },
     {
       "label": "Interiores",
-      "n": 53
+      "n": 51
     },
     {
       "label": "Paisagismo",
@@ -146,11 +146,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 66
+      "n": 67
     },
     {
       "label": "SketchUp",
-      "n": 24
+      "n": 23
     },
     {
       "label": "ArchiCAD",
@@ -162,7 +162,7 @@
     },
     {
       "label": "BIM",
-      "n": 34
+      "n": 35
     }
   ]
 }
