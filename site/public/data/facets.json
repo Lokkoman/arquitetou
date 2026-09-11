@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 223
+      "n": 224
     },
     {
       "label": "Urbanista",
@@ -14,11 +14,11 @@
     },
     {
       "label": "Cadista",
-      "n": 59
+      "n": 58
     },
     {
       "label": "Desenhista",
-      "n": 99
+      "n": 100
     },
     {
       "label": "Designer de Interiores",
@@ -34,11 +34,11 @@
     },
     {
       "label": "Analista",
-      "n": 69
+      "n": 70
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 62
+      "n": 63
     },
     {
       "label": "Estagiário",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 17
+      "n": 19
     },
     {
       "label": "Levantamento / as built",
@@ -146,7 +146,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 67
+      "n": 68
     },
     {
       "label": "SketchUp",
