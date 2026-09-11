@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 222
+      "n": 223
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 303
+      "n": 301
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 100
+      "n": 99
     },
     {
       "label": "Designer de Interiores",
@@ -64,7 +64,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 8
+      "n": 9
     },
     {
       "label": "Projeto executivo",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 18
+      "n": 17
     },
     {
       "label": "Levantamento / as built",
@@ -104,7 +104,7 @@
     },
     {
       "label": "Laudo / perícia / vistoria",
-      "n": 3
+      "n": 4
     },
     {
       "label": "Avaliação de imóveis",
@@ -146,7 +146,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 68
+      "n": 67
     },
     {
       "label": "SketchUp",
