@@ -14,11 +14,11 @@
     },
     {
       "label": "Cadista",
-      "n": 58
+      "n": 57
     },
     {
       "label": "Desenhista",
-      "n": 101
+      "n": 100
     },
     {
       "label": "Designer de Interiores",
@@ -96,7 +96,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 23
+      "n": 22
     },
     {
       "label": "Orçamento / quantitativos",
@@ -146,7 +146,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 69
+      "n": 70
     },
     {
       "label": "SketchUp",
