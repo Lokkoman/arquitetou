@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 226
+      "n": 227
     },
     {
       "label": "Urbanista",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Analista",
-      "n": 71
+      "n": 72
     },
     {
       "label": "Assistente / Auxiliar",
@@ -64,11 +64,11 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 10
+      "n": 9
     },
     {
       "label": "Projeto executivo",
-      "n": 12
+      "n": 13
     },
     {
       "label": "Projeto legal / aprovação",
