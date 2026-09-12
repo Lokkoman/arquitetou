@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 225
+      "n": 226
     },
     {
       "label": "Urbanista",
@@ -30,11 +30,11 @@
     },
     {
       "label": "Coordenador de Projetos",
-      "n": 3
+      "n": 5
     },
     {
       "label": "Analista",
-      "n": 70
+      "n": 71
     },
     {
       "label": "Assistente / Auxiliar",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 42
+      "n": 44
     },
     {
       "label": "Orçamentista",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 21
+      "n": 20
     },
     {
       "label": "Levantamento / as built",
@@ -96,7 +96,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 19
+      "n": 21
     },
     {
       "label": "Orçamento / quantitativos",

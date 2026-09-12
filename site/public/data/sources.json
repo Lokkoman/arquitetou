@@ -7,10 +7,10 @@
       "aborted": false,
       "jobsFound": 8,
       "queriesRun": 252,
-      "durationMs": 17132,
+      "durationMs": 21885,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-11T19:01:29.085Z",
+      "lastRunAt": "2026-09-11T23:56:01.285Z",
       "note": "Coletado em workflow próprio."
     },
     "vagas-com": {
@@ -31,12 +31,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 104,
+      "jobsFound": 105,
       "queriesRun": 125,
-      "durationMs": 79036,
+      "durationMs": 95029,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-11T19:02:29.594Z",
+      "lastRunAt": "2026-09-11T23:57:13.108Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
@@ -46,10 +46,10 @@
       "aborted": false,
       "jobsFound": 125,
       "queriesRun": 54,
-      "durationMs": 121211,
+      "durationMs": 103732,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-11T19:03:13.759Z",
+      "lastRunAt": "2026-09-11T23:57:21.339Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -57,12 +57,27 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 86,
-      "queriesRun": 524,
-      "durationMs": 508619,
-      "errors": [],
-      "errorCount": 0,
-      "lastRunAt": "2026-09-11T19:09:41.034Z",
+      "jobsFound": 84,
+      "queriesRun": 487,
+      "durationMs": 475173,
+      "errors": [
+        "arquiteto/sao_paulo start=25: HTTP 429",
+        "regularização/sao_paulo start=75: HTTP 429",
+        "ArchiCAD/sao_paulo start=0: HTTP 429",
+        "regularização/osasco start=25: HTTP 429",
+        "restauro/osasco start=25: HTTP 429",
+        "compatibilização de projetos/osasco start=50: HTTP 429",
+        "paisagismo/osasco start=75: HTTP 429",
+        "projetista/guarulhos start=50: HTTP 429",
+        "AutoCAD/guarulhos start=0: HTTP 429",
+        "ArchiCAD/guarulhos start=0: HTTP 429",
+        "Revit/guarulhos start=50: HTTP 429",
+        "arquiteto/barueri start=0: HTTP 429",
+        "plano diretor/barueri start=25: HTTP 429",
+        "licenciamento/barueri start=75: HTTP 429"
+      ],
+      "errorCount": 14,
+      "lastRunAt": "2026-09-12T00:03:34.383Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -72,10 +87,10 @@
       "aborted": false,
       "jobsFound": 543,
       "queriesRun": 486,
-      "durationMs": 286674,
+      "durationMs": 253326,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-11T19:05:59.079Z",
+      "lastRunAt": "2026-09-11T23:59:50.863Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -83,12 +98,14 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 22,
-      "queriesRun": 52,
-      "durationMs": 146394,
-      "errors": [],
-      "errorCount": 0,
-      "lastRunAt": "2026-09-11T19:03:38.267Z",
+      "jobsFound": 19,
+      "queriesRun": 51,
+      "durationMs": 154447,
+      "errors": [
+        "urbanismo/p1: This operation was aborted"
+      ],
+      "errorCount": 1,
+      "lastRunAt": "2026-09-11T23:58:22.904Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -100,16 +117,16 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-09-11T19:12:35.205Z",
-  "startedAt": "2026-09-11T19:09:58.731Z",
-  "finishedAt": "2026-09-11T19:12:35.205Z",
+  "lastRun": "2026-09-12T00:06:02.522Z",
+  "startedAt": "2026-09-12T00:03:51.111Z",
+  "finishedAt": "2026-09-12T00:06:02.522Z",
   "linkedin": null,
   "ai": {
     "model": null,
     "enriched": 200,
-    "dropped": 49,
-    "cached": 993,
+    "dropped": 56,
+    "cached": 1000,
     "ok": true,
-    "note": "81 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
+    "note": "83 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
   }
 }
