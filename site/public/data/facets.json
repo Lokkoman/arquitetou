@@ -10,15 +10,15 @@
     },
     {
       "label": "Projetista",
-      "n": 304
+      "n": 306
     },
     {
       "label": "Cadista",
-      "n": 57
+      "n": 58
     },
     {
       "label": "Desenhista",
-      "n": 100
+      "n": 102
     },
     {
       "label": "Designer de Interiores",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 156
+      "n": 157
     },
     {
       "label": "Técnico em Edificações",
@@ -96,7 +96,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 22
+      "n": 23
     },
     {
       "label": "Orçamento / quantitativos",
@@ -146,7 +146,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 70
+      "n": 68
     },
     {
       "label": "SketchUp",
