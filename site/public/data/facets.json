@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 227
+      "n": 226
     },
     {
       "label": "Urbanista",
@@ -104,7 +104,7 @@
     },
     {
       "label": "Laudo / perícia / vistoria",
-      "n": 6
+      "n": 5
     },
     {
       "label": "Avaliação de imóveis",
@@ -146,11 +146,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 70
+      "n": 68
     },
     {
       "label": "SketchUp",
-      "n": 25
+      "n": 24
     },
     {
       "label": "ArchiCAD",
