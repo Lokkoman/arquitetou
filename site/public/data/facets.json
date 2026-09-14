@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 227
+      "n": 232
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 305
+      "n": 307
     },
     {
       "label": "Cadista",
@@ -22,7 +22,7 @@
     },
     {
       "label": "Designer de Interiores",
-      "n": 37
+      "n": 38
     },
     {
       "label": "Modelador BIM",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 158
+      "n": 159
     },
     {
       "label": "Técnico em Edificações",
@@ -64,7 +64,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 9
+      "n": 10
     },
     {
       "label": "Projeto executivo",
@@ -72,7 +72,7 @@
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 10
+      "n": 9
     },
     {
       "label": "Legalização / regularização",
@@ -84,11 +84,11 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 8
+      "n": 7
     },
     {
       "label": "Compatibilização",
-      "n": 20
+      "n": 19
     },
     {
       "label": "Levantamento / as built",
@@ -104,7 +104,7 @@
     },
     {
       "label": "Laudo / perícia / vistoria",
-      "n": 5
+      "n": 6
     },
     {
       "label": "Avaliação de imóveis",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 3
+      "n": 4
     },
     {
       "label": "Loteamento / parcelamento",
@@ -136,7 +136,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 3
+      "n": 6
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -146,23 +146,23 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 69
+      "n": 70
     },
     {
       "label": "SketchUp",
-      "n": 26
-    },
-    {
-      "label": "ArchiCAD",
-      "n": 6
-    },
-    {
-      "label": "Revit",
       "n": 28
     },
     {
+      "label": "ArchiCAD",
+      "n": 7
+    },
+    {
+      "label": "Revit",
+      "n": 29
+    },
+    {
       "label": "BIM",
-      "n": 36
+      "n": 42
     }
   ]
 }
