@@ -7,10 +7,10 @@
       "aborted": false,
       "jobsFound": 7,
       "queriesRun": 252,
-      "durationMs": 17991,
+      "durationMs": 8798,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-15T05:55:46.848Z",
+      "lastRunAt": "2026-09-15T14:40:56.379Z",
       "note": "Coletado em workflow próprio."
     },
     "vagas-com": {
@@ -33,23 +33,44 @@
       "aborted": false,
       "jobsFound": 114,
       "queriesRun": 125,
-      "durationMs": 85452,
+      "durationMs": 84918,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-15T05:56:51.970Z",
+      "lastRunAt": "2026-09-15T14:42:11.110Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
       "name": "BNE",
       "ok": true,
-      "verdict": "ok",
+      "verdict": "degraded",
       "aborted": false,
-      "jobsFound": 124,
+      "jobsFound": 48,
       "queriesRun": 54,
-      "durationMs": 100348,
-      "errors": [],
-      "errorCount": 0,
-      "lastRunAt": "2026-09-15T05:57:08.341Z",
+      "durationMs": 16945,
+      "errors": [
+        "projetista/sao-paulo: HTTP 403",
+        "desenhista/sao-paulo: HTTP 403",
+        "desenhista-projetista/sao-paulo: HTTP 403",
+        "coordenador-de-projetos/sao-paulo: HTTP 403",
+        "arquiteto/osasco: HTTP 403",
+        "urbanista/osasco: HTTP 403",
+        "arquiteto-urbanista/osasco: HTTP 403",
+        "arquiteto-de-interiores/osasco: HTTP 403",
+        "designer-de-interiores/osasco: HTTP 403",
+        "projetista/osasco: HTTP 403",
+        "disjuntor: 10 erros seguidos — passada abortada em \"projetista/osasco\"",
+        "arquiteto/nacional: HTTP 403",
+        "urbanista/nacional: HTTP 403",
+        "arquiteto-urbanista/nacional: HTTP 403",
+        "arquiteto-de-interiores/nacional: HTTP 403",
+        "designer-de-interiores/nacional: HTTP 403",
+        "projetista/nacional: HTTP 403",
+        "desenhista/nacional: HTTP 403",
+        "desenhista-projetista/nacional: HTTP 403",
+        "coordenador-de-projetos/nacional: HTTP 403"
+      ],
+      "errorCount": 20,
+      "lastRunAt": "2026-09-15T14:41:04.730Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -57,12 +78,14 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 74,
-      "queriesRun": 524,
-      "durationMs": 514353,
-      "errors": [],
-      "errorCount": 0,
-      "lastRunAt": "2026-09-15T06:04:01.928Z",
+      "jobsFound": 82,
+      "queriesRun": 522,
+      "durationMs": 579751,
+      "errors": [
+        "projetista/taboao start=50: This operation was aborted"
+      ],
+      "errorCount": 1,
+      "lastRunAt": "2026-09-15T14:50:39.299Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -70,12 +93,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 540,
+      "jobsFound": 536,
       "queriesRun": 485,
-      "durationMs": 261644,
+      "durationMs": 252124,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-15T05:59:48.101Z",
+      "lastRunAt": "2026-09-15T14:44:58.514Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -83,12 +106,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 25,
+      "jobsFound": 31,
       "queriesRun": 52,
-      "durationMs": 150889,
+      "durationMs": 161623,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-15T05:57:58.681Z",
+      "lastRunAt": "2026-09-15T14:43:29.169Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -100,16 +123,16 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-09-15T06:07:52.764Z",
-  "startedAt": "2026-09-15T06:04:16.627Z",
-  "finishedAt": "2026-09-15T06:07:52.764Z",
+  "lastRun": "2026-09-15T14:58:11.796Z",
+  "startedAt": "2026-09-15T14:50:55.797Z",
+  "finishedAt": "2026-09-15T14:58:11.796Z",
   "linkedin": null,
   "ai": {
     "model": null,
-    "enriched": 188,
-    "dropped": 65,
-    "cached": 1035,
-    "ok": false,
-    "note": "12 vaga(s) sem classificação nesta rodada; 86 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
+    "enriched": 200,
+    "dropped": 57,
+    "cached": 996,
+    "ok": true,
+    "note": "68 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
   }
 }

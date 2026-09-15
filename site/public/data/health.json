@@ -1,44 +1,51 @@
 {
-  "generatedAt": "2026-09-15T06:04:16.565Z",
-  "ok": true,
-  "alerts": [],
-  "needsReprocess": [],
+  "generatedAt": "2026-09-15T14:50:55.724Z",
+  "ok": false,
+  "alerts": [
+    "bne: DEGRADED — erro em 37% das consultas; 61% abaixo da mediana (124.5)"
+  ],
+  "needsReprocess": [
+    "bne"
+  ],
   "sources": {
     "bne": {
-      "verdict": "ok",
-      "reasons": [],
-      "jobsFound": 124,
-      "baselineMedian": 125,
-      "errorCount": 0,
+      "verdict": "degraded",
+      "reasons": [
+        "erro em 37% das consultas",
+        "61% abaixo da mediana (124.5)"
+      ],
+      "jobsFound": 48,
+      "baselineMedian": 124.5,
+      "errorCount": 20,
       "queriesRun": 54,
-      "errorRate": 0,
-      "dominantError": null,
-      "durationMs": 100348,
-      "lastRunAt": "2026-09-15T05:57:08.341Z"
+      "errorRate": 0.37,
+      "dominantError": "HTTP 403",
+      "durationMs": 16945,
+      "lastRunAt": "2026-09-15T14:41:04.730Z"
     },
     "catho": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 540,
-      "baselineMedian": 535.5,
+      "jobsFound": 536,
+      "baselineMedian": 536,
       "errorCount": 0,
       "queriesRun": 485,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 261644,
-      "lastRunAt": "2026-09-15T05:59:48.101Z"
+      "durationMs": 252124,
+      "lastRunAt": "2026-09-15T14:44:58.514Z"
     },
     "empregos": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 25,
+      "jobsFound": 31,
       "baselineMedian": 24,
       "errorCount": 0,
       "queriesRun": 52,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 150889,
-      "lastRunAt": "2026-09-15T05:57:58.681Z"
+      "durationMs": 161623,
+      "lastRunAt": "2026-09-15T14:43:29.169Z"
     },
     "gupy-portal": {
       "verdict": "ok",
@@ -49,8 +56,8 @@
       "queriesRun": 252,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 17991,
-      "lastRunAt": "2026-09-15T05:55:46.848Z"
+      "durationMs": 8798,
+      "lastRunAt": "2026-09-15T14:40:56.379Z"
     },
     "infojobs": {
       "verdict": "ok",
@@ -61,20 +68,20 @@
       "queriesRun": 125,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 85452,
-      "lastRunAt": "2026-09-15T05:56:51.970Z"
+      "durationMs": 84918,
+      "lastRunAt": "2026-09-15T14:42:11.110Z"
     },
     "linkedin": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 74,
+      "jobsFound": 82,
       "baselineMedian": 80,
-      "errorCount": 0,
-      "queriesRun": 524,
-      "errorRate": 0,
-      "dominantError": null,
-      "durationMs": 514353,
-      "lastRunAt": "2026-09-15T06:04:01.928Z"
+      "errorCount": 1,
+      "queriesRun": 522,
+      "errorRate": 0.002,
+      "dominantError": "abort",
+      "durationMs": 579751,
+      "lastRunAt": "2026-09-15T14:50:39.299Z"
     },
     "vagas-com": {
       "verdict": "ok",
