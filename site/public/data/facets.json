@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 232
+      "n": 237
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 307
+      "n": 308
     },
     {
       "label": "Cadista",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Analista",
-      "n": 72
+      "n": 73
     },
     {
       "label": "Assistente / Auxiliar",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 159
+      "n": 160
     },
     {
       "label": "Técnico em Edificações",
@@ -64,11 +64,11 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 10
+      "n": 11
     },
     {
       "label": "Projeto executivo",
-      "n": 13
+      "n": 14
     },
     {
       "label": "Projeto legal / aprovação",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 19
+      "n": 20
     },
     {
       "label": "Levantamento / as built",
@@ -115,6 +115,10 @@
       "n": 2
     },
     {
+      "label": "Sustentabilidade / LEED",
+      "n": 1
+    },
+    {
       "label": "Maquete / renderização",
       "n": 6
     },
@@ -136,7 +140,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 6
+      "n": 7
     },
     {
       "label": "Due diligence / georreferenciamento",
