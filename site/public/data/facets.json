@@ -10,15 +10,15 @@
     },
     {
       "label": "Projetista",
-      "n": 278
+      "n": 279
     },
     {
       "label": "Cadista",
-      "n": 60
+      "n": 61
     },
     {
       "label": "Desenhista",
-      "n": 93
+      "n": 94
     },
     {
       "label": "Designer de Interiores",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 163
+      "n": 164
     },
     {
       "label": "Técnico em Edificações",
@@ -64,11 +64,11 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 12
+      "n": 11
     },
     {
       "label": "Projeto executivo",
-      "n": 16
+      "n": 15
     },
     {
       "label": "Projeto legal / aprovação",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 21
+      "n": 20
     },
     {
       "label": "Levantamento / as built",
@@ -116,11 +116,11 @@
     },
     {
       "label": "Sustentabilidade / LEED",
-      "n": 2
+      "n": 1
     },
     {
       "label": "Maquete / renderização",
-      "n": 7
+      "n": 6
     },
     {
       "label": "Interiores",
@@ -140,7 +140,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 9
+      "n": 8
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -150,15 +150,15 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 70
+      "n": 69
     },
     {
       "label": "SketchUp",
-      "n": 28
+      "n": 27
     },
     {
       "label": "ArchiCAD",
-      "n": 6
+      "n": 5
     },
     {
       "label": "Revit",
