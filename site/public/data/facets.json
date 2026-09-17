@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 283
+      "n": 284
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 94
+      "n": 95
     },
     {
       "label": "Designer de Interiores",
@@ -42,19 +42,19 @@
     },
     {
       "label": "Estagiário",
-      "n": 164
+      "n": 165
     },
     {
       "label": "Técnico em Edificações",
-      "n": 56
+      "n": 57
     },
     {
       "label": "Orçamentista",
-      "n": 16
+      "n": 15
     },
     {
       "label": "Consultor / Especialista",
-      "n": 21
+      "n": 23
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -68,7 +68,7 @@
     },
     {
       "label": "Projeto executivo",
-      "n": 16
+      "n": 17
     },
     {
       "label": "Projeto legal / aprovação",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 67
+      "n": 69
     },
     {
       "label": "SketchUp",
@@ -158,7 +158,7 @@
     },
     {
       "label": "ArchiCAD",
-      "n": 5
+      "n": 6
     },
     {
       "label": "Revit",
