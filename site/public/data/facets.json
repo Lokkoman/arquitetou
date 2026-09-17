@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 238
+      "n": 239
     },
     {
       "label": "Urbanista",
@@ -14,7 +14,7 @@
     },
     {
       "label": "Cadista",
-      "n": 61
+      "n": 62
     },
     {
       "label": "Desenhista",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Analista",
-      "n": 75
+      "n": 74
     },
     {
       "label": "Assistente / Auxiliar",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 165
+      "n": 168
     },
     {
       "label": "Técnico em Edificações",
@@ -64,7 +64,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 12
+      "n": 13
     },
     {
       "label": "Projeto executivo",
@@ -124,11 +124,11 @@
     },
     {
       "label": "Interiores",
-      "n": 52
+      "n": 53
     },
     {
       "label": "Paisagismo",
-      "n": 7
+      "n": 8
     },
     {
       "label": "Planejamento urbano",
@@ -150,11 +150,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 68
+      "n": 69
     },
     {
       "label": "SketchUp",
-      "n": 26
+      "n": 27
     },
     {
       "label": "ArchiCAD",
