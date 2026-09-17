@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 240
+      "n": 238
     },
     {
       "label": "Urbanista",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 57
+      "n": 58
     },
     {
       "label": "Orçamentista",
@@ -84,7 +84,7 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 9
+      "n": 10
     },
     {
       "label": "Compatibilização",
@@ -96,7 +96,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 21
+      "n": 22
     },
     {
       "label": "Orçamento / quantitativos",
@@ -120,7 +120,7 @@
     },
     {
       "label": "Maquete / renderização",
-      "n": 6
+      "n": 7
     },
     {
       "label": "Interiores",
@@ -132,7 +132,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 4
+      "n": 3
     },
     {
       "label": "Loteamento / parcelamento",
@@ -140,7 +140,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 10
+      "n": 9
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -150,11 +150,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 69
+      "n": 68
     },
     {
       "label": "SketchUp",
-      "n": 27
+      "n": 26
     },
     {
       "label": "ArchiCAD",
@@ -162,7 +162,7 @@
     },
     {
       "label": "Revit",
-      "n": 29
+      "n": 31
     },
     {
       "label": "BIM",
