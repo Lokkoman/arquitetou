@@ -7,10 +7,10 @@
       "aborted": false,
       "jobsFound": 8,
       "queriesRun": 252,
-      "durationMs": 16476,
+      "durationMs": 16662,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-18T14:10:14.154Z",
+      "lastRunAt": "2026-09-18T18:55:27.041Z",
       "note": "Coletado em workflow próprio."
     },
     "vagas-com": {
@@ -31,12 +31,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 103,
+      "jobsFound": 102,
       "queriesRun": 125,
-      "durationMs": 87493,
+      "durationMs": 95683,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-18T14:11:23.338Z",
+      "lastRunAt": "2026-09-18T18:56:45.297Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
@@ -46,7 +46,7 @@
       "aborted": false,
       "jobsFound": 48,
       "queriesRun": 54,
-      "durationMs": 17325,
+      "durationMs": 17192,
       "errors": [
         "projetista/sao-paulo: HTTP 403",
         "desenhista/sao-paulo: HTTP 403",
@@ -70,7 +70,7 @@
         "coordenador-de-projetos/nacional: HTTP 403"
       ],
       "errorCount": 20,
-      "lastRunAt": "2026-09-18T14:10:15.415Z",
+      "lastRunAt": "2026-09-18T18:55:25.086Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -78,29 +78,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 68,
-      "queriesRun": 487,
-      "durationMs": 490093,
-      "errors": [
-        "BIM/sao_paulo start=0: HTTP 429",
-        "maquete/sao_paulo start=50: HTTP 429",
-        "ArchiCAD/sao_paulo start=25: HTTP 429",
-        "licenciamento/osasco start=75: HTTP 429",
-        "BIM/osasco start=0: HTTP 429",
-        "paisagismo/osasco start=0: HTTP 429",
-        "SketchUp/osasco start=75: HTTP 429",
-        "urbanista/guarulhos start=50: HTTP 429",
-        "plano diretor/guarulhos start=75: HTTP 429",
-        "BIM/guarulhos start=50: HTTP 429",
-        "compatibilização de projetos/guarulhos start=50: HTTP 429",
-        "interiores/guarulhos start=25: HTTP 429",
-        "Revit/guarulhos start=75: HTTP 429",
-        "arquiteto/barueri start=0: HTTP 429",
-        "aprovação de projetos/barueri start=50: HTTP 429",
-        "projetista/barueri start=75: HTTP 429"
-      ],
-      "errorCount": 16,
-      "lastRunAt": "2026-09-18T14:18:05.955Z",
+      "jobsFound": 69,
+      "queriesRun": 524,
+      "durationMs": 513904,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-09-18T19:03:43.982Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -108,12 +91,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 533,
-      "queriesRun": 502,
-      "durationMs": 267524,
+      "jobsFound": 535,
+      "queriesRun": 499,
+      "durationMs": 295601,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-18T14:14:23.657Z",
+      "lastRunAt": "2026-09-18T19:00:06.637Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -123,10 +106,10 @@
       "aborted": false,
       "jobsFound": 29,
       "queriesRun": 52,
-      "durationMs": 130001,
+      "durationMs": 137446,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-18T14:12:06.250Z",
+      "lastRunAt": "2026-09-18T18:57:27.954Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -138,16 +121,16 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-09-18T14:20:38.373Z",
-  "startedAt": "2026-09-18T14:18:21.102Z",
-  "finishedAt": "2026-09-18T14:20:38.373Z",
+  "lastRun": "2026-09-18T19:06:58.207Z",
+  "startedAt": "2026-09-18T19:04:03.213Z",
+  "finishedAt": "2026-09-18T19:06:58.207Z",
   "linkedin": null,
   "ai": {
     "model": null,
     "enriched": 200,
-    "dropped": 57,
-    "cached": 1075,
+    "dropped": 54,
+    "cached": 1077,
     "ok": true,
-    "note": "32 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
+    "note": "36 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
   }
 }

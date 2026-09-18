@@ -10,11 +10,11 @@
     },
     {
       "label": "Projetista",
-      "n": 283
+      "n": 286
     },
     {
       "label": "Cadista",
-      "n": 64
+      "n": 65
     },
     {
       "label": "Desenhista",
@@ -38,15 +38,15 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 69
+      "n": 70
     },
     {
       "label": "Estagiário",
-      "n": 172
+      "n": 173
     },
     {
       "label": "Técnico em Edificações",
-      "n": 59
+      "n": 60
     },
     {
       "label": "Orçamentista",
@@ -64,7 +64,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 13
+      "n": 12
     },
     {
       "label": "Projeto executivo",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 21
+      "n": 20
     },
     {
       "label": "Levantamento / as built",
@@ -116,7 +116,7 @@
     },
     {
       "label": "Sustentabilidade / LEED",
-      "n": 2
+      "n": 1
     },
     {
       "label": "Maquete / renderização",
@@ -124,7 +124,7 @@
     },
     {
       "label": "Interiores",
-      "n": 54
+      "n": 55
     },
     {
       "label": "Paisagismo",
@@ -140,7 +140,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 9
+      "n": 8
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -150,11 +150,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 71
+      "n": 70
     },
     {
       "label": "SketchUp",
-      "n": 27
+      "n": 26
     },
     {
       "label": "ArchiCAD",
@@ -162,7 +162,7 @@
     },
     {
       "label": "Revit",
-      "n": 30
+      "n": 31
     },
     {
       "label": "BIM",
