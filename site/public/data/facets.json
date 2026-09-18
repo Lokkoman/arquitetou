@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 241
+      "n": 242
     },
     {
       "label": "Urbanista",
@@ -26,7 +26,7 @@
     },
     {
       "label": "Modelador BIM",
-      "n": 4
+      "n": 5
     },
     {
       "label": "Coordenador de Projetos",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Analista",
-      "n": 75
+      "n": 76
     },
     {
       "label": "Assistente / Auxiliar",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 170
+      "n": 171
     },
     {
       "label": "Técnico em Edificações",
@@ -68,7 +68,7 @@
     },
     {
       "label": "Projeto executivo",
-      "n": 17
+      "n": 18
     },
     {
       "label": "Projeto legal / aprovação",
@@ -150,11 +150,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 70
+      "n": 69
     },
     {
       "label": "SketchUp",
-      "n": 27
+      "n": 26
     },
     {
       "label": "ArchiCAD",
@@ -166,7 +166,7 @@
     },
     {
       "label": "BIM",
-      "n": 43
+      "n": 44
     }
   ]
 }
