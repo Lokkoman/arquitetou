@@ -30,7 +30,7 @@
     },
     {
       "label": "Coordenador de Projetos",
-      "n": 6
+      "n": 7
     },
     {
       "label": "Analista",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 171
+      "n": 172
     },
     {
       "label": "Técnico em Edificações",
@@ -68,7 +68,7 @@
     },
     {
       "label": "Projeto executivo",
-      "n": 18
+      "n": 17
     },
     {
       "label": "Projeto legal / aprovação",
@@ -124,7 +124,7 @@
     },
     {
       "label": "Interiores",
-      "n": 53
+      "n": 54
     },
     {
       "label": "Paisagismo",
@@ -150,11 +150,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 69
+      "n": 71
     },
     {
       "label": "SketchUp",
-      "n": 26
+      "n": 27
     },
     {
       "label": "ArchiCAD",
@@ -166,7 +166,7 @@
     },
     {
       "label": "BIM",
-      "n": 44
+      "n": 45
     }
   ]
 }
