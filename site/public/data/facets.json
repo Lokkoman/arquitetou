@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 242
+      "n": 241
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 287
+      "n": 286
     },
     {
       "label": "Cadista",
@@ -22,7 +22,7 @@
     },
     {
       "label": "Designer de Interiores",
-      "n": 39
+      "n": 38
     },
     {
       "label": "Modelador BIM",
@@ -34,11 +34,11 @@
     },
     {
       "label": "Analista",
-      "n": 76
+      "n": 77
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 70
+      "n": 69
     },
     {
       "label": "Estagiário",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 60
+      "n": 61
     },
     {
       "label": "Orçamentista",
@@ -84,7 +84,7 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 10
+      "n": 9
     },
     {
       "label": "Compatibilização",
@@ -136,11 +136,11 @@
     },
     {
       "label": "Loteamento / parcelamento",
-      "n": 4
+      "n": 3
     },
     {
       "label": "HIS / habitação social",
-      "n": 9
+      "n": 8
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -162,7 +162,7 @@
     },
     {
       "label": "Revit",
-      "n": 31
+      "n": 30
     },
     {
       "label": "BIM",
