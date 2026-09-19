@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 289
+      "n": 288
     },
     {
       "label": "Cadista",
@@ -64,11 +64,11 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 12
+      "n": 13
     },
     {
       "label": "Projeto executivo",
-      "n": 16
+      "n": 18
     },
     {
       "label": "Projeto legal / aprovação",
@@ -84,11 +84,11 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 8
+      "n": 9
     },
     {
       "label": "Compatibilização",
-      "n": 20
+      "n": 21
     },
     {
       "label": "Levantamento / as built",
@@ -96,7 +96,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 21
+      "n": 22
     },
     {
       "label": "Orçamento / quantitativos",
@@ -116,7 +116,7 @@
     },
     {
       "label": "Sustentabilidade / LEED",
-      "n": 1
+      "n": 2
     },
     {
       "label": "Maquete / renderização",
@@ -140,7 +140,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 7
+      "n": 8
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 67
+      "n": 70
     },
     {
       "label": "SketchUp",
@@ -158,7 +158,7 @@
     },
     {
       "label": "ArchiCAD",
-      "n": 5
+      "n": 6
     },
     {
       "label": "Revit",
