@@ -64,11 +64,11 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 12
+      "n": 13
     },
     {
       "label": "Projeto executivo",
-      "n": 17
+      "n": 18
     },
     {
       "label": "Projeto legal / aprovação",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 20
+      "n": 21
     },
     {
       "label": "Levantamento / as built",
@@ -116,7 +116,7 @@
     },
     {
       "label": "Sustentabilidade / LEED",
-      "n": 1
+      "n": 2
     },
     {
       "label": "Maquete / renderização",
@@ -140,7 +140,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 8
+      "n": 9
     },
     {
       "label": "Due diligence / georreferenciamento",
