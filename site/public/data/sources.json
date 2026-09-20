@@ -7,10 +7,10 @@
       "aborted": false,
       "jobsFound": 8,
       "queriesRun": 252,
-      "durationMs": 3683,
+      "durationMs": 4020,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-20T18:31:56.890Z",
+      "lastRunAt": "2026-09-20T21:13:33.504Z",
       "note": "Coletado em workflow próprio."
     },
     "vagas-com": {
@@ -33,10 +33,10 @@
       "aborted": false,
       "jobsFound": 102,
       "queriesRun": 125,
-      "durationMs": 82330,
+      "durationMs": 86960,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-20T18:33:15.832Z",
+      "lastRunAt": "2026-09-20T21:14:58.454Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
@@ -46,7 +46,7 @@
       "aborted": false,
       "jobsFound": 47,
       "queriesRun": 54,
-      "durationMs": 20509,
+      "durationMs": 16668,
       "errors": [
         "projetista/sao-paulo: HTTP 403",
         "desenhista/sao-paulo: HTTP 403",
@@ -70,7 +70,7 @@
         "coordenador-de-projetos/nacional: HTTP 403"
       ],
       "errorCount": 20,
-      "lastRunAt": "2026-09-20T18:32:14.539Z",
+      "lastRunAt": "2026-09-20T21:13:51.661Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -79,44 +79,11 @@
       "verdict": "ok",
       "aborted": false,
       "jobsFound": 66,
-      "queriesRun": 426,
-      "durationMs": 419644,
-      "errors": [
-        "licenciamento/sao_paulo start=50: HTTP 429",
-        "aprovação de projetos/sao_paulo start=0: HTTP 429",
-        "habite-se/sao_paulo start=25: HTTP 429",
-        "restauro/sao_paulo start=0: HTTP 429",
-        "BIM/sao_paulo start=75: HTTP 429",
-        "compatibilização de projetos/sao_paulo start=0: HTTP 429",
-        "paisagismo/sao_paulo start=50: HTTP 429",
-        "interiores/sao_paulo start=0: HTTP 429",
-        "acompanhamento de obra/sao_paulo start=25: HTTP 429",
-        "aprovação de projetos/osasco start=50: HTTP 429",
-        "habite-se/osasco start=25: HTTP 429",
-        "restauro/osasco start=25: HTTP 429",
-        "BIM/osasco start=0: HTTP 429",
-        "compatibilização de projetos/osasco start=25: HTTP 429",
-        "AutoCAD/barueri start=0: HTTP 429",
-        "SketchUp/barueri start=0: HTTP 429",
-        "Revit/barueri start=0: HTTP 429",
-        "arquiteto/taboao start=0: HTTP 429",
-        "urbanista/taboao start=50: HTTP 429",
-        "projetista/taboao start=50: HTTP 429",
-        "AutoCAD/taboao start=25: HTTP 429",
-        "ArchiCAD/taboao start=50: HTTP 429",
-        "SketchUp/taboao start=0: HTTP 429",
-        "Revit/taboao start=0: HTTP 429",
-        "remoto/arquiteto start=50: HTTP 429",
-        "remoto/urbanista start=25: HTTP 429",
-        "remoto/plano diretor start=0: HTTP 429",
-        "remoto/regularização start=0: HTTP 429",
-        "remoto/AutoCAD start=50: HTTP 429",
-        "remoto/ArchiCAD start=25: HTTP 429",
-        "remoto/SketchUp start=25: HTTP 429",
-        "remoto/Revit start=50: HTTP 429"
-      ],
-      "errorCount": 32,
-      "lastRunAt": "2026-09-20T18:38:52.943Z",
+      "queriesRun": 524,
+      "durationMs": 507410,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-09-20T21:21:57.017Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -124,12 +91,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 534,
+      "jobsFound": 533,
       "queriesRun": 499,
-      "durationMs": 295830,
+      "durationMs": 286678,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-20T18:36:52.087Z",
+      "lastRunAt": "2026-09-20T21:18:17.466Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -139,10 +106,10 @@
       "aborted": false,
       "jobsFound": 20,
       "queriesRun": 52,
-      "durationMs": 137468,
+      "durationMs": 134011,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-20T18:34:12.488Z",
+      "lastRunAt": "2026-09-20T21:15:45.822Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -154,14 +121,14 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-09-20T18:41:36.591Z",
-  "startedAt": "2026-09-20T18:39:10.572Z",
-  "finishedAt": "2026-09-20T18:41:36.591Z",
+  "lastRun": "2026-09-20T21:24:25.756Z",
+  "startedAt": "2026-09-20T21:22:13.093Z",
+  "finishedAt": "2026-09-20T21:24:25.756Z",
   "linkedin": null,
   "ai": {
     "model": null,
     "enriched": 200,
-    "dropped": 63,
+    "dropped": 60,
     "cached": 1093,
     "ok": true,
     "note": "31 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
