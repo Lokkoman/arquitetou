@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 245
+      "n": 244
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 291
+      "n": 286
     },
     {
       "label": "Cadista",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Analista",
-      "n": 78
+      "n": 77
     },
     {
       "label": "Assistente / Auxiliar",
@@ -50,7 +50,7 @@
     },
     {
       "label": "Orçamentista",
-      "n": 16
+      "n": 15
     },
     {
       "label": "Consultor / Especialista",
@@ -76,7 +76,7 @@
     },
     {
       "label": "Legalização / regularização",
-      "n": 11
+      "n": 10
     },
     {
       "label": "Licenciamento",
@@ -132,7 +132,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 4
+      "n": 3
     },
     {
       "label": "Loteamento / parcelamento",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 71
+      "n": 70
     },
     {
       "label": "SketchUp",
