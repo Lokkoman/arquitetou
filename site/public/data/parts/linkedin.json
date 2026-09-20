@@ -1,8 +1,8 @@
 {
   "sourceId": "linkedin",
   "name": "LinkedIn",
-  "collectedAt": "2026-09-19T21:28:29.632Z",
-  "durationMs": 515520,
+  "collectedAt": "2026-09-20T00:04:36.819Z",
+  "durationMs": 493818,
   "queriesRun": 524,
   "ok": true,
   "aborted": false,
@@ -26,7 +26,7 @@
       "url": "https://br.linkedin.com/jobs/view/arquiteto-a-at-ch3-construtora-4462717471",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.361Z"
+      "collectedAt": "2026-09-20T00:03:58.676Z"
     },
     {
       "id": "3dc574568668ae00",
@@ -45,7 +45,7 @@
       "url": "https://br.linkedin.com/jobs/view/arquiteto-a-pleno-track-field-s%C3%A3o-paulo-at-track-field-4463092445",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.363Z"
+      "collectedAt": "2026-09-20T00:03:58.680Z"
     },
     {
       "id": "8faab5f216d05c21",
@@ -64,7 +64,7 @@
       "url": "https://br.linkedin.com/jobs/view/arquiteto-at-jobbol-4459363461",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.363Z"
+      "collectedAt": "2026-09-20T00:03:58.680Z"
     },
     {
       "id": "6c2ebe670e242bcf",
@@ -83,7 +83,7 @@
       "url": "https://br.linkedin.com/jobs/view/arquiteto-j%C3%BAnior-at-jobbol-4465388208",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.363Z"
+      "collectedAt": "2026-09-20T00:03:58.680Z"
     },
     {
       "id": "0b75c6e5e06476ef",
@@ -102,7 +102,7 @@
       "url": "https://br.linkedin.com/jobs/view/architect-identity-security-at-danaher-4451266642",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.364Z"
+      "collectedAt": "2026-09-20T00:03:58.680Z"
     },
     {
       "id": "d2a1df82b16749bc",
@@ -119,9 +119,9 @@
       "matchedKeyword": "arquitetura",
       "postedAt": "2026-09-15T12:00:00.000Z",
       "url": "https://br.linkedin.com/jobs/view/arquiteto-pleno-construtora-at-recrutamento-e-sele%C3%A7%C3%A3o-4467712162",
-      "description": "Experiência com empreendimento habitacionais do programa Minha Casa, Minha Vida (Caixa Econômica Federal) - HIS / HMP.Finalização de Estudo de massas, desenvolvimento de Projeto Executivo e Legal; Interiores; Ilustrações / 3D; Memoriais; etc.Concepção e detalhamento de stands de vendas e unidades decoradas.Compatibilização de projetos, através da análise da legislação vigente, garantindo validação legal e viabilidade da obra.Interface entre equipes de Legalização, Projetos, Engenharia, Orçamentos e Suprimentos, para garantia da viabilidade do negócio.Elaboração dos manuais de proprietário e síndico, junto ao time de legalização.Suporte a obra para dúvidas e revisões.Apoio a equipe de marketing e vendas.Desenvolvimento de cortes, elevações, tipo, implantação, detalhes, etc.Dimensionamento e conferência de áreas mínimas e necessárias, de acordo com o COE, NBR 9050 e NBR 15575 Superior em ArquiteturaExperiência no ramo de ConstrutoraExperiência com empreendimento habitacionais do programa Minha Casa, Minha Vida (Caixa Econômica Federal) - HIS / HMP.Desenvolvimento e revisão de projetosCompatibilizaçãoInterface com projetistasControle de pendências; checklists; estudos e detalhamentos; apoio às aprovações e demandas de obra",
-      "descriptionSnippet": "Experiência com empreendimento habitacionais do programa Minha Casa, Minha Vida (Caixa Econômica Federal) - HIS / HMP.Finalização de Estudo de massas, desenvolvimento de Projeto Executivo e Legal; Interiores; Ilustrações / 3D; Memoriais; et…",
-      "collectedAt": "2026-09-19T21:27:49.364Z"
+      "description": "",
+      "descriptionSnippet": "",
+      "collectedAt": "2026-09-20T00:03:58.680Z"
     },
     {
       "id": "cfa9d727ecd8b79c",
@@ -140,7 +140,7 @@
       "url": "https://br.linkedin.com/jobs/view/senior-system-architect-at-pegasystems-4450193247",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.364Z"
+      "collectedAt": "2026-09-20T00:03:58.680Z"
     },
     {
       "id": "7b4f2d025bbaba4f",
@@ -159,7 +159,7 @@
       "url": "https://br.linkedin.com/jobs/view/analista-de-produto-j%C3%BAnior-projetos-urban%C3%ADsticos-at-alphaville-4457255012",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.364Z"
+      "collectedAt": "2026-09-20T00:03:58.681Z"
     },
     {
       "id": "6e62d91f7a063730",
@@ -178,7 +178,7 @@
       "url": "https://br.linkedin.com/jobs/view/arquiteto-s%C3%AAnior-construtora-at-recrutamento-e-sele%C3%A7%C3%A3o-4467705213",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.364Z"
+      "collectedAt": "2026-09-20T00:03:58.681Z"
     },
     {
       "id": "803b37e047022783",
@@ -197,7 +197,7 @@
       "url": "https://br.linkedin.com/jobs/view/consultor-de-desenvolvimento-imobili%C3%A1rio-legaliza%C3%A7%C3%A3o-at-mrv-co-4465553975",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.364Z"
+      "collectedAt": "2026-09-20T00:03:58.681Z"
     },
     {
       "id": "790f97ce19a8a081",
@@ -216,7 +216,7 @@
       "url": "https://br.linkedin.com/jobs/view/analista-de-legaliza%C3%A7%C3%A3o-pleno-at-cidade-matarazzo-4460513247",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.364Z"
+      "collectedAt": "2026-09-20T00:03:58.681Z"
     },
     {
       "id": "a0288b29d8b83b57",
@@ -235,7 +235,7 @@
       "url": "https://br.linkedin.com/jobs/view/coordenador-bim-infraestrutura-de-transportes-rodovi%C3%A1ria-ferrovi%C3%A1ria-ou-metrovi%C3%A1ria-at-egis-4466579188",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.367Z"
+      "collectedAt": "2026-09-20T00:03:58.685Z"
     },
     {
       "id": "320a83e3a75a1664",
@@ -254,7 +254,7 @@
       "url": "https://br.linkedin.com/jobs/view/coordenador-de-arquitetura-at-iguatemi-s-a-4467293262",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.367Z"
+      "collectedAt": "2026-09-20T00:03:58.685Z"
     },
     {
       "id": "574260f22c702c10",
@@ -273,7 +273,7 @@
       "url": "https://br.linkedin.com/jobs/view/assistente-de-arquitetura-projetista-de-arquitetura-at-solid-envidra%C3%A7amento-high-end-4464998446",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.367Z"
+      "collectedAt": "2026-09-20T00:03:58.685Z"
     },
     {
       "id": "0fe931ea8076d2cd",
@@ -292,7 +292,7 @@
       "url": "https://br.linkedin.com/jobs/view/analista-de-licenciamento-e-assuntos-regulat%C3%B3rios-j%C3%BAnior-at-jobbol-4462465381",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.367Z"
+      "collectedAt": "2026-09-20T00:03:58.686Z"
     },
     {
       "id": "a298a76966d4e5bf",
@@ -311,7 +311,7 @@
       "url": "https://br.linkedin.com/jobs/view/especialista-de-legalizacao-at-automob-4463968449",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.368Z"
+      "collectedAt": "2026-09-20T00:03:58.686Z"
     },
     {
       "id": "c21284d8647b22e9",
@@ -330,7 +330,7 @@
       "url": "https://br.linkedin.com/jobs/view/analista-habite-se-junior-s%C3%A3o-paulo-sp-at-mrv-co-4458442213",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.368Z"
+      "collectedAt": "2026-09-20T00:03:58.687Z"
     },
     {
       "id": "5ae05be18e933c97",
@@ -349,7 +349,7 @@
       "url": "https://br.linkedin.com/jobs/view/especialista-de-meio-ambiente-licenciamento-ambiental-at-arteris-s-a-4463325388",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.368Z"
+      "collectedAt": "2026-09-20T00:03:58.687Z"
     },
     {
       "id": "df49e987eec86009",
@@ -368,7 +368,7 @@
       "url": "https://br.linkedin.com/jobs/view/analista-de-licenciamento-pl-at-autozone-4459746417",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.368Z"
+      "collectedAt": "2026-09-20T00:03:58.687Z"
     },
     {
       "id": "5a1e808293d26804",
@@ -387,7 +387,7 @@
       "url": "https://br.linkedin.com/jobs/view/assistente-t%C3%A9cnico-de-edifica%C3%A7%C3%B5es-at-even-4457702545",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.369Z"
+      "collectedAt": "2026-09-20T00:03:58.688Z"
     },
     {
       "id": "fde1acc53a72edeb",
@@ -406,7 +406,7 @@
       "url": "https://br.linkedin.com/jobs/view/engenheiro-avaliador-de-im%C3%B3veis-at-jobbol-4463118105",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.369Z"
+      "collectedAt": "2026-09-20T00:03:58.688Z"
     },
     {
       "id": "ef6d0c75b03e3fa0",
@@ -425,7 +425,7 @@
       "url": "https://br.linkedin.com/jobs/view/arquiteto-de-regulariza%C3%A7%C3%A3o-imobili%C3%A1ria-at-jobbol-4466378281",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.369Z"
+      "collectedAt": "2026-09-20T00:03:58.688Z"
     },
     {
       "id": "990800879ee1b511",
@@ -444,7 +444,7 @@
       "url": "https://br.linkedin.com/jobs/view/t%C3%A9cnico-de-edifica%C3%A7%C3%B5es-at-innova-4468339098",
       "description": "A Innova está em busca de um(a) Técnico em Edificações para atuar na área de Gestão Imobiliária – Asset/Property Management, apoiando a gestão técnica de ativos imobiliários em vistorias, manutenções, obras, reformas, regularizações, documentos técnicos, orçamentos e acompanhamento de fornecedores.O profissional também será responsável pelo atendimento e acompanhamento dos chamados de manutenção, conduzindo cada solicitação desde a identificação do problema até a validação e encerramento do serviço executado.Buscamos uma pessoa técnica, organizada, colaborativa e com senso de prioridade, que tenha disponibilidade para viagens frequentes em todo o território nacional.Principais atividades:Receber, registrar, acompanhar e encerrar chamados de manutenção da Innova Flex;Realizar triagem dos chamados, avaliando prioridade, criticidade e encaminhamentos necessários;Contatar solicitantes para levantamento de informações e entendimento das ocorrências;Realizar vistorias presenciais ou avaliações remotas, conforme a demanda;Identificar problemas, elaborar escopos técnicos e propor alternativas de solução;Solicitar, analisar e comparar propostas e orçamentos de fornecedores;Acompanhar fornecedores na execução dos serviços, controlando prazos, custos, qualidade e cumprimento do escopo;Registrar evidências fotográficas, relatórios e documentos para encerramento dos chamados;Realizar vistorias técnicas nos imóveis administrados, identificando não conformidades, riscos e necessidades de manutenção;Apoiar o acompanhamento de obras, reformas, adequações e manutenções de diferentes portes;Realizar levantamentos, medições e quantitativos em campo;Apoiar a elaboração de escopos técnicos, orçamentos e cotações;Acompanhar cronogramas, pendências e entregas até a conclusão dos serviços;Organizar e controlar documentos técnicos, como projetos, plantas, ARTs, RRTs, AVCBs, laudos, licenças, alvarás e certificados;Apoiar a análise de projetos arquitetônicos, estruturais, elétricos, hidráulicos e de prevenção e combate a incêndio;Auxiliar na avaliação das condições de conservação dos ativos e no planejamento de CAPEX e OPEX;Participar de tratativas com clientes, proprietários, locatários, condomínios, síndicos e fornecedores, sempre alinhado à gestão da Innova;Apoiar a criação e padronização de procedimentos, controles e checklists técnicos da operação.Requisitos:Formação concluída em Técnico em Edificações;Registro ativo no CFT, quando aplicável às atividades;Conhecimento em leitura e interpretação de projetos;Conhecimento em obras, reformas e manutenção predial;Conhecimento de normas técnicas e de segurança aplicáveis à construção civil;Conhecimento em AutoCAD;Conhecimento no Pacote Office, especialmente Excel;Facilidade para elaboração de relatórios, controles, checklists e registros fotográficos;Capacidade para elaborar escopos e analisar orçamentos de manutenção;Facilidade para negociação, acompanhamento e cobrança de fornecedores;Disponibilidade para vistorias e acompanhamentos presenciais;Disponibilidade para viagens frequentes em todo o Brasil;Organização para administrar simultaneamente chamados e demandas de diferentes imóveis.Disponibilidade: Viagens frequentes em todo o território nacionalExperiência desejável:Vivência em manutenção predial, facilities, condomínios corporativos, administradoras de imóveis, Property Management, construtoras ou acompanhamento de obras e reformas;Experiência com gestão de chamados de manutenção;Conhecimento em regularização imobiliária, incluindo AVCB, alvarás, Habite-se, licenças e laudos;Experiência com elaboração de escopos técnicos e análise de propostas de fornecedores;Conhecimento em Revit, MS Project ou Power BI;Experiência com controles de CAPEX e OPEX;Conhecimento em normas de segurança do trabalho, especialmente NR-18.Perfil desejado:Buscamos um(a) profissional colaborativo(a), organizado(a), responsável e flexível, com boa comunicação, postura respeitosa e facilidade para atuar em interface com áreas operacionais, técnicas, jurídicas, financeiras, comerciais e fornecedores.É importante ter senso de urgência, comprometimento com prazos, capacidade de negociação, atenção aos detalhes e responsabilidade para acompanhar os chamados até sua efetiva conclusão, sempre respeitando os fluxos internos, alçadas de aprovação e orientações da gestão.",
       "descriptionSnippet": "A Innova está em busca de um(a) Técnico em Edificações para atuar na área de Gestão Imobiliária – Asset/Property Management, apoiando a gestão técnica de ativos imobiliários em vistorias, manutenções, obras, reformas, regularizações, docume…",
-      "collectedAt": "2026-09-19T21:27:49.369Z"
+      "collectedAt": "2026-09-20T00:03:58.688Z"
     },
     {
       "id": "b7bb5b4b1d774c65",
@@ -463,7 +463,7 @@
       "url": "https://br.linkedin.com/jobs/view/tecn%C3%B3logo-a-bim-at-systra-brasil-4466367264",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.369Z"
+      "collectedAt": "2026-09-20T00:03:58.688Z"
     },
     {
       "id": "5a0d07a7871c887e",
@@ -482,7 +482,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-pl-sp-at-ageplan-engenharia-e-constru%C3%A7%C3%B5es-4465254831",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.369Z"
+      "collectedAt": "2026-09-20T00:03:58.688Z"
     },
     {
       "id": "3fb08830a12b8964",
@@ -501,7 +501,7 @@
       "url": "https://br.linkedin.com/jobs/view/tecn%C3%B3logo-a-bim-at-systra-4464891803",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.369Z"
+      "collectedAt": "2026-09-20T00:03:58.688Z"
     },
     {
       "id": "440990dbcdac4d2a",
@@ -520,7 +520,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-j%C3%BAnior-at-egis-4459882720",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.369Z"
+      "collectedAt": "2026-09-20T00:03:58.689Z"
     },
     {
       "id": "3fe4003de39eaba1",
@@ -539,7 +539,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-3d-pleno-at-bto%2B-4461188394",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.369Z"
+      "collectedAt": "2026-09-20T00:03:58.689Z"
     },
     {
       "id": "b4ad61e413fc4961",
@@ -558,7 +558,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-de-saneamento-at-quadrante-4461848378",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.369Z"
+      "collectedAt": "2026-09-20T00:03:58.689Z"
     },
     {
       "id": "e440f1725066f024",
@@ -577,7 +577,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-pleno-subesta%C3%A7%C3%B5es-at-hitachi-energy-4465352619",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.369Z"
+      "collectedAt": "2026-09-20T00:03:58.689Z"
     },
     {
       "id": "63e4d9832ce9e679",
@@ -596,7 +596,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-j%C3%BAnior-at-metroform-prote%C3%A7oes-4465025318",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.369Z"
+      "collectedAt": "2026-09-20T00:03:58.689Z"
     },
     {
       "id": "981df9f78e88090e",
@@ -615,7 +615,7 @@
       "url": "https://br.linkedin.com/jobs/view/oportunidades-constru%C3%A7%C3%A3o-civil-%E2%80%93-ambiente-escolar-at-rede-%C3%A1pice-4461197891",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.370Z"
+      "collectedAt": "2026-09-20T00:03:58.690Z"
     },
     {
       "id": "bf21dae1caf68ba3",
@@ -634,7 +634,7 @@
       "url": "https://br.linkedin.com/jobs/view/jovem-aprendiz-constru%C3%A7%C3%A3o-civil-pirituba-sp-at-mrv-co-4455025345",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.370Z"
+      "collectedAt": "2026-09-20T00:03:58.690Z"
     },
     {
       "id": "1f561192721734a6",
@@ -653,7 +653,7 @@
       "url": "https://br.linkedin.com/jobs/view/oficial-de-manuten%C3%A7%C3%A3o-predial-regi%C3%A3o-do-abc-e-baixada-santista-at-lojas-torra-4459579090",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.370Z"
+      "collectedAt": "2026-09-20T00:03:58.690Z"
     },
     {
       "id": "f6a196fd4b46d562",
@@ -672,7 +672,7 @@
       "url": "https://br.linkedin.com/jobs/view/358571-auxiliar-de-manuten%C3%A7%C3%A3o-predial-f%C3%A1brica-de-cultura-ja%C3%A7an%C3%A3-506142-at-instituto-poiesis-4467139396",
       "description": "Responsabilidades da OportunidadeAuxiliar nas rotinas de manutenção predial, nas instalações da Fábrica de Cultura;Salário: R$ 1.852,00;Jornada de Trabalho: Segunda a sexta das 08h30 às 17h30, com 1 hora de intervalo;Benefícios: VR, Assistência Médica, Assistência Odontológica e Credencial Plena SESC;Escolaridade: Ensino Fundamental Completo;Conhecimentos: Rotinas de Manutenção Predial - Básico;Manutenção em Alvenaria e hidráulica - Básico;Materiais de Construção - Básico;NR 35 Trabalho em Altura - Obrigatório;Conhecimento em Pacote Office - Básico.",
       "descriptionSnippet": "Responsabilidades da OportunidadeAuxiliar nas rotinas de manutenção predial, nas instalações da Fábrica de Cultura;Salário: R$ 1.852,00;Jornada de Trabalho: Segunda a sexta das 08h30 às 17h30, com 1 hora de intervalo;Benefícios: VR, Assistê…",
-      "collectedAt": "2026-09-19T21:27:49.370Z"
+      "collectedAt": "2026-09-20T00:03:58.690Z"
     },
     {
       "id": "5cd0dedec2c93369",
@@ -691,7 +691,7 @@
       "url": "https://br.linkedin.com/jobs/view/arquiteto-de-interiores-at-dw-marcenaria-e-planejados-4460306243",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.370Z"
+      "collectedAt": "2026-09-20T00:03:58.690Z"
     },
     {
       "id": "cd60c9fc85823a2b",
@@ -710,7 +710,7 @@
       "url": "https://br.linkedin.com/jobs/view/assistente-de-arquitetura-at-dw-marcenaria-e-planejados-4460303278",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.370Z"
+      "collectedAt": "2026-09-20T00:03:58.690Z"
     },
     {
       "id": "5358c064a8c747be",
@@ -729,7 +729,7 @@
       "url": "https://br.linkedin.com/jobs/view/analista-t%C3%A9cnico-jr-projetista-modelador-3d-%E2%80%93-%C3%A1rea-geot%C3%A9cnica-at-egis-4459800360",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.691Z"
     },
     {
       "id": "498d72bacdca0dca",
@@ -748,7 +748,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-senior-de-instrumenta%C3%A7%C3%A3o-automa%C3%A7%C3%A3o-e-controle-at-falaboss-4467768556",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.691Z"
     },
     {
       "id": "fb1fd55bba648d20",
@@ -767,7 +767,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-de-controle-e-automa%C3%A7%C3%A3o-at-dennis-group-brasil-4466122392",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.691Z"
     },
     {
       "id": "bf027f14a3eadf64",
@@ -786,7 +786,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-pl-at-hitachi-energy-4427914106",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.691Z"
     },
     {
       "id": "8891e447e454b45c",
@@ -805,7 +805,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-bim-at-systra-4464894876",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.691Z"
     },
     {
       "id": "37e294c21b7494fe",
@@ -824,7 +824,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-geotecnia-at-quadrante-4465557069",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.691Z"
     },
     {
       "id": "0396882a110c02d4",
@@ -843,7 +843,7 @@
       "url": "https://br.linkedin.com/jobs/view/desenhista-de-autocad-at-jobbol-4468281283",
       "description": "Agência de Recrutamento e Seleção busca profissional Desenhista de AutoCAD em Guarulhos (Vila Nova Bonsucesso).A Nova Visão Empregos é uma plataforma dedicada à conexão entre candidatos e oportunidades de trabalho. Oferecemos serviços de recrutamento e seleção para diversas áreas de atuação.ResponsabilidadesElaborar desenhos técnicos e projetos utilizando AutoCAD. Interpretar projetos, medidas, especificações e normas técnicas. Realizar ajustes, correções e detalhamentos nos desenhos conforme orientações. Organizar arquivos, versões e documentos técnicos dos projetos. Conferir medidas, escalas, cotas e demais informações antes da emissão dos desenhos.Atuações anteriores em Projetista de AutoCAD, Designer de AutoCAD, Técnico em AutoCAD ou Especialista em AutoCAD podem indicar afinidade com algumas das atividades desta posição.Requisitos DesejáveisEscolaridade: Ensino médio completoExperiência: Necessário experiênciaRemuneração e BenefíciosSalário: Faixa salarial será informada na entrevista.Benefícios a combinarInformações AdicionaisContrato: Efetivo. Presencial. Candidatos de São Paulo, Mairiporã, São Caetano do Sul ou Ferraz de Vasconcelos também são considerados para esta vaga.Período: Tempo IntegralJornada: Segunda a sexta-feira, horário comercial.",
       "descriptionSnippet": "Agência de Recrutamento e Seleção busca profissional Desenhista de AutoCAD em Guarulhos (Vila Nova Bonsucesso).A Nova Visão Empregos é uma plataforma dedicada à conexão entre candidatos e oportunidades de trabalho. Oferecemos serviços de re…",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.691Z"
     },
     {
       "id": "0b232e0c4b73b5e4",
@@ -862,7 +862,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-externo-aps-santa-marcelina-edital-232-2026-at-santa-marcelina-sa%C3%BAde-4463112732",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.691Z"
     },
     {
       "id": "580ab6357f235024",
@@ -881,7 +881,7 @@
       "url": "https://br.linkedin.com/jobs/view/pessoa-arquiteta-projetos-log%C3%ADsitcos-at-shopee-4457413450",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.691Z"
     },
     {
       "id": "0d4732b2122c10d5",
@@ -900,7 +900,7 @@
       "url": "https://br.linkedin.com/jobs/view/arquiteto-de-projetos-at-htb-4463928266",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.692Z"
     },
     {
       "id": "a007aa7bd1fa738c",
@@ -919,102 +919,7 @@
       "url": "https://br.linkedin.com/jobs/view/arquiteto-s%C3%AAnior-at-worley-4465801668",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
-    },
-    {
-      "id": "eefe0e8e9d5449f0",
-      "title": "Arquiteto",
-      "company": "Jobbol",
-      "location": "São Paulo, SP",
-      "cityKey": "sao_paulo",
-      "cityLabel": "São Paulo",
-      "source": "LinkedIn",
-      "sourceId": "linkedin",
-      "sourceType": "scraped-experimental",
-      "seniority": "nao_informado",
-      "workplaceType": null,
-      "matchedKeyword": "arquitetura",
-      "postedAt": "2026-09-10T12:00:00.000Z",
-      "url": "https://br.linkedin.com/jobs/view/arquiteto-at-jobbol-4465391227",
-      "description": "",
-      "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
-    },
-    {
-      "id": "23293c38a12143f1",
-      "title": "Arquiteto(a) Cenográfico 3D",
-      "company": "Eventesse",
-      "location": "São Paulo, SP",
-      "cityKey": "sao_paulo",
-      "cityLabel": "São Paulo",
-      "source": "LinkedIn",
-      "sourceId": "linkedin",
-      "sourceType": "scraped-experimental",
-      "seniority": "nao_informado",
-      "workplaceType": null,
-      "matchedKeyword": "arquitetura",
-      "postedAt": "2026-09-12T12:00:00.000Z",
-      "url": "https://br.linkedin.com/jobs/view/arquiteto-a-cenogr%C3%A1fico-3d-at-eventesse-4466719180",
-      "description": "",
-      "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
-    },
-    {
-      "id": "c971119e5d856380",
-      "title": "Projetista Pleno",
-      "company": "Dürr",
-      "location": "São Paulo, SP",
-      "cityKey": "sao_paulo",
-      "cityLabel": "São Paulo",
-      "source": "LinkedIn",
-      "sourceId": "linkedin",
-      "sourceType": "scraped-experimental",
-      "seniority": "pleno",
-      "workplaceType": null,
-      "matchedKeyword": "projetista / cadista",
-      "postedAt": "2026-08-27T12:00:00.000Z",
-      "url": "https://br.linkedin.com/jobs/view/projetista-pleno-at-d%C3%BCrr-4458007548",
-      "description": "",
-      "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
-    },
-    {
-      "id": "4e590d5af84b1e07",
-      "title": "Estagiário de arquitetura",
-      "company": "3Phase",
-      "location": "São Paulo, SP",
-      "cityKey": "sao_paulo",
-      "cityLabel": "São Paulo",
-      "source": "LinkedIn",
-      "sourceId": "linkedin",
-      "sourceType": "scraped-experimental",
-      "seniority": "nao_informado",
-      "workplaceType": null,
-      "matchedKeyword": "arquitetura",
-      "postedAt": "2026-09-15T12:00:00.000Z",
-      "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-arquitetura-at-3phase-4465227400",
-      "description": "",
-      "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
-    },
-    {
-      "id": "39a336f9918e2c4f",
-      "title": "Estagiário de arquitetura",
-      "company": "Profor Arquitetura, Engenharia e Gerenciamento Ltda",
-      "location": "São Paulo, SP",
-      "cityKey": "sao_paulo",
-      "cityLabel": "São Paulo",
-      "source": "LinkedIn",
-      "sourceId": "linkedin",
-      "sourceType": "scraped-experimental",
-      "seniority": "nao_informado",
-      "workplaceType": "hybrid",
-      "matchedKeyword": "arquitetura",
-      "postedAt": "2026-09-16T12:00:00.000Z",
-      "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-arquitetura-at-profor-arquitetura-engenharia-e-gerenciamento-ltda-4466245055",
-      "description": "Estágio em Projetos (Presencial) - Perdizes – São PauloEstamos em busca de um(a) estagiário(a) para atuar no apoio às equipes de Projetos e Obras, participando ativamente do desenvolvimento de projetos, estudos e auxiliando em rotinas de gerenciamento quando necessário.Atividades· Apoio às equipes de Projetos;· Auxílio no desenvolvimento de layouts, estudos preliminares, ante-projetos e projeto executivo;· Auxílio em processos administrativos e fluxos internos, quando necessário.Requisitos· Cursando Arquitetura e Urbanismo ou Técnico em Edificações;· Residir em São Paulo;· Conhecimento intermediário ou avançado e independência em Archicad;· Conhecimento intermediário em AutoCAD;· Interesse em aprender sobre projetos, obras e gerenciamento.Diferenciais· Noções de MS Project;· Conhecimento em Pacote Office 365.Horário· Segunda a sexta-feira;· 6 horas diárias (horário a combinar conforme disponibilidade acadêmica).· Possibilidade de flexibilização presencial x híbrido 1xs na semana a ser discutida, conforme evolução do estágio.Local· Setor de Projetos – PerdizesBenefícios· Bolsa auxílio;· Vale Transporte;· Vale Refeição;· Seguro de Vida;· Assistência Médica (a combinar).Contato· Favor submeter sua apresentação e currículo no anúncio da vaga. Atenciosamente Equipe Profor",
-      "descriptionSnippet": "Estágio em Projetos (Presencial) - Perdizes – São PauloEstamos em busca de um(a) estagiário(a) para atuar no apoio às equipes de Projetos e Obras, participando ativamente do desenvolvimento de projetos, estudos e auxiliando em rotinas de ge…",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.692Z"
     },
     {
       "id": "ad5d1c9637e5ed67",
@@ -1033,7 +938,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-bim-at-systra-brasil-4466383226",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.692Z"
     },
     {
       "id": "4c2c1f5e0e6b52ec",
@@ -1052,7 +957,7 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-de-estruturas-at-tylin-in-europe-%2B-latam-4462963414",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.371Z"
+      "collectedAt": "2026-09-20T00:03:58.692Z"
     },
     {
       "id": "6bba9b789422feff",
@@ -1071,7 +976,7 @@
       "url": "https://br.linkedin.com/jobs/view/engenheiro-civil-i-gest%C3%A3o-de-manuten%C3%A7%C3%A3o-predial-at-cushman-wakefield-4448253211",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.372Z"
+      "collectedAt": "2026-09-20T00:03:58.692Z"
     },
     {
       "id": "997334cd7a3896e2",
@@ -1090,7 +995,7 @@
       "url": "https://br.linkedin.com/jobs/view/especialista-projetos-arquitetura-morumbi-s%C3%A3o-paulo-at-grupo-amil-4457749439",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.372Z"
+      "collectedAt": "2026-09-20T00:03:58.692Z"
     },
     {
       "id": "e40a23807c758fce",
@@ -1109,7 +1014,26 @@
       "url": "https://br.linkedin.com/jobs/view/espec-de-arquitetura-sr-at-natura-4414706869",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.372Z"
+      "collectedAt": "2026-09-20T00:03:58.692Z"
+    },
+    {
+      "id": "39a336f9918e2c4f",
+      "title": "Estagiário de arquitetura",
+      "company": "Profor Arquitetura, Engenharia e Gerenciamento Ltda",
+      "location": "São Paulo, SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "LinkedIn",
+      "sourceId": "linkedin",
+      "sourceType": "scraped-experimental",
+      "seniority": "nao_informado",
+      "workplaceType": "hybrid",
+      "matchedKeyword": "arquitetura",
+      "postedAt": "2026-09-16T12:00:00.000Z",
+      "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-arquitetura-at-profor-arquitetura-engenharia-e-gerenciamento-ltda-4466245055",
+      "description": "Estágio em Projetos (Presencial) - Perdizes – São PauloEstamos em busca de um(a) estagiário(a) para atuar no apoio às equipes de Projetos e Obras, participando ativamente do desenvolvimento de projetos, estudos e auxiliando em rotinas de gerenciamento quando necessário.Atividades· Apoio às equipes de Projetos;· Auxílio no desenvolvimento de layouts, estudos preliminares, ante-projetos e projeto executivo;· Auxílio em processos administrativos e fluxos internos, quando necessário.Requisitos· Cursando Arquitetura e Urbanismo ou Técnico em Edificações;· Residir em São Paulo;· Conhecimento intermediário ou avançado e independência em Archicad;· Conhecimento intermediário em AutoCAD;· Interesse em aprender sobre projetos, obras e gerenciamento.Diferenciais· Noções de MS Project;· Conhecimento em Pacote Office 365.Horário· Segunda a sexta-feira;· 6 horas diárias (horário a combinar conforme disponibilidade acadêmica).· Possibilidade de flexibilização presencial x híbrido 1xs na semana a ser discutida, conforme evolução do estágio.Local· Setor de Projetos – PerdizesBenefícios· Bolsa auxílio;· Vale Transporte;· Vale Refeição;· Seguro de Vida;· Assistência Médica (a combinar).Contato· Favor submeter sua apresentação e currículo no anúncio da vaga. Atenciosamente Equipe Profor",
+      "descriptionSnippet": "Estágio em Projetos (Presencial) - Perdizes – São PauloEstamos em busca de um(a) estagiário(a) para atuar no apoio às equipes de Projetos e Obras, participando ativamente do desenvolvimento de projetos, estudos e auxiliando em rotinas de ge…",
+      "collectedAt": "2026-09-20T00:03:58.692Z"
     },
     {
       "id": "7b02988b6d2f1a0b",
@@ -1128,7 +1052,7 @@
       "url": "https://br.linkedin.com/jobs/view/gerente-predial-morumbi-sp-at-innova-4462720481",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.372Z"
+      "collectedAt": "2026-09-20T00:03:58.693Z"
     },
     {
       "id": "8423ac8d02596cc7",
@@ -1147,7 +1071,7 @@
       "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-arquitetura-facilities-at-isa-energia-brasil-4457525914",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.372Z"
+      "collectedAt": "2026-09-20T00:03:58.693Z"
     },
     {
       "id": "7efcf006118a91ac",
@@ -1166,7 +1090,7 @@
       "url": "https://br.linkedin.com/jobs/view/pintor-predial-granja-julieta-zona-sul-sp-at-aec-4460581341",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.372Z"
+      "collectedAt": "2026-09-20T00:03:58.693Z"
     },
     {
       "id": "34b15f71b3e50e3c",
@@ -1185,7 +1109,7 @@
       "url": "https://br.linkedin.com/jobs/view/comprador-constru%C3%A7%C3%A3o-civil-at-d-martini-consultoria-e-eventos-4466899267",
       "description": "Atuação em compras de materiais e serviços de obras prediais residenciais MCMV, elaborando mapa de concorrência, negociando com fornecedores e verificando as medições de contratos.Certificação ConhecimentoFormação Engenharia, Técnico de Edificações ou administração. Experiência na área em construção civil com empreendimentos de MCMV.Benefícios Assistência Médica / Medicina em grupo Assistência Odontológica Tícket refeição Vale-transporteHorário de TrabalhoHorário comercial",
       "descriptionSnippet": "Atuação em compras de materiais e serviços de obras prediais residenciais MCMV, elaborando mapa de concorrência, negociando com fornecedores e verificando as medições de contratos.Certificação ConhecimentoFormação Engenharia, Técnico de Edi…",
-      "collectedAt": "2026-09-19T21:27:49.373Z"
+      "collectedAt": "2026-09-20T00:03:58.693Z"
     },
     {
       "id": "16a0c89da0c9f610",
@@ -1204,7 +1128,7 @@
       "url": "https://br.linkedin.com/jobs/view/funcion%C3%A1rio-da-constru%C3%A7%C3%A3o-civil-at-gering-empreiteira-4465230714",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.373Z"
+      "collectedAt": "2026-09-20T00:03:58.694Z"
     },
     {
       "id": "8e0c82b19561fb20",
@@ -1223,26 +1147,45 @@
       "url": "https://br.linkedin.com/jobs/view/assistente-t%C3%A9cnico-de-edifica%C3%A7%C3%B5es-at-fratta-construtora-e-incorporadora-ltda-4468886248",
       "description": "Atividades do cargoRealizar levantamentos quantitativos conforme projetos.Auxiliar na elaboração de orçamentos de obras.Realizar leitura e interpretação de projetos.Desenvolver e atualizar desenhos técnicos em autocad.Apoiar na organização de documentos, planilhas e controles da área, prestando suporte à equipe de engenharia e planejamento.RequisitosTécnico em Edificações concluído ou cursando (ou áreas relacionadas).Conhecimento em levantamento quantitativo de materiais.Conhecimento em AutoCAD.HorárioSegunda a Sexta-feira - 100% presencialFormação AcadêmicaNão informadoSalário4000CargoOutrosEmpresaFratta Construtora e Incorporadora LTDAServiços de engenharia.RamoConstrução Civil / Engenharia Civil(HB)",
       "descriptionSnippet": "Atividades do cargoRealizar levantamentos quantitativos conforme projetos.Auxiliar na elaboração de orçamentos de obras.Realizar leitura e interpretação de projetos.Desenvolver e atualizar desenhos técnicos em autocad.Apoiar na organização…",
-      "collectedAt": "2026-09-19T21:27:49.373Z"
+      "collectedAt": "2026-09-20T00:03:58.694Z"
     },
     {
-      "id": "1829228eb6040909",
-      "title": "Estágio Arquitetura",
-      "company": "Renault Group",
+      "id": "23293c38a12143f1",
+      "title": "Arquiteto(a) Cenográfico 3D",
+      "company": "Eventesse",
       "location": "São Paulo, SP",
       "cityKey": "sao_paulo",
       "cityLabel": "São Paulo",
       "source": "LinkedIn",
       "sourceId": "linkedin",
       "sourceType": "scraped-experimental",
-      "seniority": "estagio",
+      "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-09-01T12:00:00.000Z",
-      "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-arquitetura-at-renault-group-4460604766",
+      "postedAt": "2026-09-12T12:00:00.000Z",
+      "url": "https://br.linkedin.com/jobs/view/arquiteto-a-cenogr%C3%A1fico-3d-at-eventesse-4466719180",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.373Z"
+      "collectedAt": "2026-09-20T00:03:58.694Z"
+    },
+    {
+      "id": "c971119e5d856380",
+      "title": "Projetista Pleno",
+      "company": "Dürr",
+      "location": "São Paulo, SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "LinkedIn",
+      "sourceId": "linkedin",
+      "sourceType": "scraped-experimental",
+      "seniority": "pleno",
+      "workplaceType": null,
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-08-27T12:00:00.000Z",
+      "url": "https://br.linkedin.com/jobs/view/projetista-pleno-at-d%C3%BCrr-4458007548",
+      "description": "",
+      "descriptionSnippet": "",
+      "collectedAt": "2026-09-20T00:03:58.694Z"
     },
     {
       "id": "dd24f58948eb91e7",
@@ -1261,7 +1204,26 @@
       "url": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-arquitetura-store-design-at-c-a-brasil-4456988047",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.373Z"
+      "collectedAt": "2026-09-20T00:03:58.694Z"
+    },
+    {
+      "id": "4f6631823ccd3cf5",
+      "title": "Analista de Projetos de Arquitetura Pl. (Vivaz) | São Paulo",
+      "company": "Cyrela",
+      "location": "São Paulo, SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "LinkedIn",
+      "sourceId": "linkedin",
+      "sourceType": "scraped-experimental",
+      "seniority": "pleno",
+      "workplaceType": null,
+      "matchedKeyword": "arquitetura",
+      "postedAt": "2026-09-10T12:00:00.000Z",
+      "url": "https://br.linkedin.com/jobs/view/analista-de-projetos-de-arquitetura-pl-vivaz-s%C3%A3o-paulo-at-cyrela-4463937158",
+      "description": "",
+      "descriptionSnippet": "",
+      "collectedAt": "2026-09-20T00:03:58.694Z"
     },
     {
       "id": "a057810541c6a05e",
@@ -1280,7 +1242,45 @@
       "url": "https://br.linkedin.com/jobs/view/projetista-senior%E2%80%93-projetos-unit%C3%A1rios-at-saneares-4461921944",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-09-19T21:27:49.373Z"
+      "collectedAt": "2026-09-20T00:03:58.694Z"
+    },
+    {
+      "id": "049cb3c3ff99cb3f",
+      "title": "JOVEM APRENDIZ CONSTRUÇÃO CIVIL - ZONA SUL/SP",
+      "company": "MRV&CO",
+      "location": "São Paulo, SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "LinkedIn",
+      "sourceId": "linkedin",
+      "sourceType": "scraped-experimental",
+      "seniority": "nao_informado",
+      "workplaceType": null,
+      "matchedKeyword": "a revisar",
+      "postedAt": "2026-08-22T12:00:00.000Z",
+      "url": "https://br.linkedin.com/jobs/view/jovem-aprendiz-constru%C3%A7%C3%A3o-civil-zona-sul-sp-at-mrv-co-4455044221",
+      "description": "",
+      "descriptionSnippet": "",
+      "collectedAt": "2026-09-20T00:03:58.694Z"
+    },
+    {
+      "id": "4e590d5af84b1e07",
+      "title": "Estagiário de arquitetura",
+      "company": "3Phase",
+      "location": "São Paulo, SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "LinkedIn",
+      "sourceId": "linkedin",
+      "sourceType": "scraped-experimental",
+      "seniority": "nao_informado",
+      "workplaceType": null,
+      "matchedKeyword": "arquitetura",
+      "postedAt": "2026-09-15T12:00:00.000Z",
+      "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-arquitetura-at-3phase-4465227400",
+      "description": "",
+      "descriptionSnippet": "",
+      "collectedAt": "2026-09-20T00:03:58.695Z"
     }
   ],
   "verdict": "ok"
