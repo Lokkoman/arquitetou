@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 247
+      "n": 249
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 298
+      "n": 301
     },
     {
       "label": "Cadista",
@@ -22,7 +22,7 @@
     },
     {
       "label": "Designer de Interiores",
-      "n": 40
+      "n": 41
     },
     {
       "label": "Modelador BIM",
@@ -50,7 +50,7 @@
     },
     {
       "label": "Orçamentista",
-      "n": 17
+      "n": 18
     },
     {
       "label": "Consultor / Especialista",
@@ -124,7 +124,7 @@
     },
     {
       "label": "Interiores",
-      "n": 56
+      "n": 57
     },
     {
       "label": "Paisagismo",
@@ -150,11 +150,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 72
+      "n": 71
     },
     {
       "label": "SketchUp",
-      "n": 28
+      "n": 27
     },
     {
       "label": "ArchiCAD",
@@ -162,11 +162,11 @@
     },
     {
       "label": "Revit",
-      "n": 34
+      "n": 33
     },
     {
       "label": "BIM",
-      "n": 49
+      "n": 50
     }
   ]
 }
