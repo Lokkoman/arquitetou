@@ -7,10 +7,10 @@
       "aborted": false,
       "jobsFound": 7,
       "queriesRun": 252,
-      "durationMs": 16986,
+      "durationMs": 12363,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-24T05:55:04.727Z",
+      "lastRunAt": "2026-09-24T14:41:07.501Z",
       "note": "Coletado em workflow próprio."
     },
     "vagas-com": {
@@ -33,10 +33,10 @@
       "aborted": false,
       "jobsFound": 92,
       "queriesRun": 125,
-      "durationMs": 99010,
+      "durationMs": 103345,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-24T05:56:29.230Z",
+      "lastRunAt": "2026-09-24T14:42:41.121Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
@@ -46,7 +46,7 @@
       "aborted": false,
       "jobsFound": 47,
       "queriesRun": 54,
-      "durationMs": 17752,
+      "durationMs": 20305,
       "errors": [
         "projetista/sao-paulo: HTTP 403",
         "desenhista/sao-paulo: HTTP 403",
@@ -70,7 +70,7 @@
         "coordenador-de-projetos/nacional: HTTP 403"
       ],
       "errorCount": 20,
-      "lastRunAt": "2026-09-24T05:55:05.667Z",
+      "lastRunAt": "2026-09-24T14:41:18.437Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -78,17 +78,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 88,
-      "queriesRun": 512,
-      "durationMs": 522781,
-      "errors": [
-        "restauro/guarulhos start=25: HTTP 429",
-        "avaliação de imóveis/guarulhos start=25: HTTP 429",
-        "remoto/plano diretor start=50: HTTP 429",
-        "remoto/regularização start=0: HTTP 429"
-      ],
-      "errorCount": 4,
-      "lastRunAt": "2026-09-24T06:03:31.671Z",
+      "jobsFound": 86,
+      "queriesRun": 524,
+      "durationMs": 640931,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-09-24T14:51:39.209Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -98,10 +93,10 @@
       "aborted": false,
       "jobsFound": 529,
       "queriesRun": 497,
-      "durationMs": 290479,
+      "durationMs": 262171,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-24T05:59:38.875Z",
+      "lastRunAt": "2026-09-24T14:45:18.907Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -109,12 +104,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 24,
+      "jobsFound": 23,
       "queriesRun": 52,
-      "durationMs": 130587,
+      "durationMs": 137269,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-24T05:56:57.466Z",
+      "lastRunAt": "2026-09-24T14:43:18.410Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -126,16 +121,16 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-09-24T06:07:37.378Z",
-  "startedAt": "2026-09-24T06:03:46.550Z",
-  "finishedAt": "2026-09-24T06:07:37.378Z",
+  "lastRun": "2026-09-24T15:15:12.974Z",
+  "startedAt": "2026-09-24T14:51:55.092Z",
+  "finishedAt": "2026-09-24T15:15:12.974Z",
   "linkedin": null,
   "ai": {
     "model": null,
-    "enriched": 200,
-    "dropped": 47,
-    "cached": 1139,
-    "ok": true,
-    "note": "47 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
+    "enriched": 116,
+    "dropped": 28,
+    "cached": 1140,
+    "ok": false,
+    "note": "84 vaga(s) sem classificação nesta rodada; 45 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
   }
 }

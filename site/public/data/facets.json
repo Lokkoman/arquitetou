@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 249
+      "n": 255
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 304
+      "n": 313
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 100
+      "n": 105
     },
     {
       "label": "Designer de Interiores",
@@ -34,15 +34,15 @@
     },
     {
       "label": "Analista",
-      "n": 78
+      "n": 79
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 76
+      "n": 78
     },
     {
       "label": "Estagiário",
-      "n": 183
+      "n": 185
     },
     {
       "label": "Técnico em Edificações",
@@ -50,11 +50,11 @@
     },
     {
       "label": "Orçamentista",
-      "n": 18
+      "n": 19
     },
     {
       "label": "Consultor / Especialista",
-      "n": 25
+      "n": 27
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -64,11 +64,11 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 12
+      "n": 11
     },
     {
       "label": "Projeto executivo",
-      "n": 19
+      "n": 17
     },
     {
       "label": "Projeto legal / aprovação",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 21
+      "n": 19
     },
     {
       "label": "Levantamento / as built",
@@ -140,7 +140,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 8
+      "n": 7
     },
     {
       "label": "Due diligence / georreferenciamento",
