@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 305
+      "n": 304
     },
     {
       "label": "Cadista",
@@ -38,11 +38,11 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 75
+      "n": 76
     },
     {
       "label": "Estagiário",
-      "n": 182
+      "n": 183
     },
     {
       "label": "Técnico em Edificações",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 73
+      "n": 74
     },
     {
       "label": "SketchUp",
