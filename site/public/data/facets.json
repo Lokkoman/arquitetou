@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 253
+      "n": 254
     },
     {
       "label": "Urbanista",
@@ -38,15 +38,15 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 77
+      "n": 78
     },
     {
       "label": "Estagiário",
-      "n": 186
+      "n": 187
     },
     {
       "label": "Técnico em Edificações",
-      "n": 68
+      "n": 69
     },
     {
       "label": "Orçamentista",
@@ -54,7 +54,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 26
+      "n": 27
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 76
+      "n": 77
     },
     {
       "label": "SketchUp",
