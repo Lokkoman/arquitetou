@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 308
+      "n": 307
     },
     {
       "label": "Cadista",
@@ -150,11 +150,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 73
+      "n": 74
     },
     {
       "label": "SketchUp",
-      "n": 28
+      "n": 29
     },
     {
       "label": "ArchiCAD",
@@ -162,7 +162,7 @@
     },
     {
       "label": "Revit",
-      "n": 35
+      "n": 34
     },
     {
       "label": "BIM",
