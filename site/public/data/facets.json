@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 254
+      "n": 256
     },
     {
       "label": "Urbanista",
@@ -14,7 +14,7 @@
     },
     {
       "label": "Cadista",
-      "n": 68
+      "n": 69
     },
     {
       "label": "Desenhista",
@@ -42,11 +42,11 @@
     },
     {
       "label": "Estagiário",
-      "n": 187
+      "n": 189
     },
     {
       "label": "Técnico em Edificações",
-      "n": 69
+      "n": 70
     },
     {
       "label": "Orçamentista",
