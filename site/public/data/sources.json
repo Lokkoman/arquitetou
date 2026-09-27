@@ -7,10 +7,10 @@
       "aborted": false,
       "jobsFound": 6,
       "queriesRun": 252,
-      "durationMs": 3552,
+      "durationMs": 19186,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-27T06:21:46.682Z",
+      "lastRunAt": "2026-09-27T15:01:20.877Z",
       "note": "Coletado em workflow próprio."
     },
     "vagas-com": {
@@ -31,12 +31,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 92,
+      "jobsFound": 90,
       "queriesRun": 125,
-      "durationMs": 93349,
+      "durationMs": 82985,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-27T06:23:18.015Z",
+      "lastRunAt": "2026-09-27T15:02:23.894Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
@@ -44,11 +44,10 @@
       "ok": true,
       "verdict": "degraded",
       "aborted": false,
-      "jobsFound": 41,
+      "jobsFound": 61,
       "queriesRun": 54,
-      "durationMs": 19751,
+      "durationMs": 19797,
       "errors": [
-        "projetista/sao-paulo: HTTP 403",
         "desenhista/sao-paulo: HTTP 403",
         "desenhista-projetista/sao-paulo: HTTP 403",
         "coordenador-de-projetos/sao-paulo: HTTP 403",
@@ -58,7 +57,8 @@
         "arquiteto-de-interiores/osasco: HTTP 403",
         "designer-de-interiores/osasco: HTTP 403",
         "projetista/osasco: HTTP 403",
-        "disjuntor: 10 erros seguidos — passada abortada em \"projetista/osasco\"",
+        "desenhista/osasco: HTTP 403",
+        "disjuntor: 10 erros seguidos — passada abortada em \"desenhista/osasco\"",
         "arquiteto/nacional: HTTP 403",
         "urbanista/nacional: HTTP 403",
         "arquiteto-urbanista/nacional: HTTP 403",
@@ -70,7 +70,7 @@
         "coordenador-de-projetos/nacional: HTTP 403"
       ],
       "errorCount": 20,
-      "lastRunAt": "2026-09-27T06:22:03.249Z",
+      "lastRunAt": "2026-09-27T15:01:22.241Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -78,14 +78,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 84,
-      "queriesRun": 522,
-      "durationMs": 496680,
-      "errors": [
-        "remoto/ArchiCAD start=50: HTTP 429"
-      ],
-      "errorCount": 1,
-      "lastRunAt": "2026-09-27T06:30:00.006Z",
+      "jobsFound": 83,
+      "queriesRun": 524,
+      "durationMs": 505012,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-09-27T15:09:27.846Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -93,12 +91,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 530,
-      "queriesRun": 534,
-      "durationMs": 306681,
+      "jobsFound": 531,
+      "queriesRun": 543,
+      "durationMs": 317905,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-27T06:26:52.379Z",
+      "lastRunAt": "2026-09-27T15:06:21.603Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -108,10 +106,10 @@
       "aborted": false,
       "jobsFound": 26,
       "queriesRun": 52,
-      "durationMs": 137575,
+      "durationMs": 135999,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-27T06:24:02.975Z",
+      "lastRunAt": "2026-09-27T15:03:18.489Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -123,16 +121,16 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-09-27T06:32:52.702Z",
-  "startedAt": "2026-09-27T06:30:20.416Z",
-  "finishedAt": "2026-09-27T06:32:52.702Z",
+  "lastRun": "2026-09-27T15:13:12.870Z",
+  "startedAt": "2026-09-27T15:09:45.646Z",
+  "finishedAt": "2026-09-27T15:13:12.870Z",
   "linkedin": null,
   "ai": {
     "model": null,
     "enriched": 200,
-    "dropped": 56,
-    "cached": 1168,
+    "dropped": 54,
+    "cached": 1167,
     "ok": true,
-    "note": "39 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
+    "note": "50 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
   }
 }
