@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 310
+      "n": 311
     },
     {
       "label": "Cadista",
@@ -34,15 +34,15 @@
     },
     {
       "label": "Analista",
-      "n": 79
-    },
-    {
-      "label": "Assistente / Auxiliar",
       "n": 78
     },
     {
+      "label": "Assistente / Auxiliar",
+      "n": 77
+    },
+    {
       "label": "Estagiário",
-      "n": 190
+      "n": 191
     },
     {
       "label": "Técnico em Edificações",
@@ -72,7 +72,7 @@
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 9
+      "n": 10
     },
     {
       "label": "Legalização / regularização",
@@ -84,7 +84,7 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 8
+      "n": 9
     },
     {
       "label": "Compatibilização",
@@ -124,7 +124,7 @@
     },
     {
       "label": "Interiores",
-      "n": 57
+      "n": 56
     },
     {
       "label": "Paisagismo",
