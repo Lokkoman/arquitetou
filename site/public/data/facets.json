@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 253
+      "n": 257
     },
     {
       "label": "Urbanista",
@@ -34,11 +34,11 @@
     },
     {
       "label": "Analista",
-      "n": 78
+      "n": 79
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 77
+      "n": 78
     },
     {
       "label": "Estagiário",
@@ -50,7 +50,7 @@
     },
     {
       "label": "Orçamentista",
-      "n": 17
+      "n": 19
     },
     {
       "label": "Consultor / Especialista",
