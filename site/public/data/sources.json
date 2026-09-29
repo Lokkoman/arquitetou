@@ -7,10 +7,10 @@
       "aborted": false,
       "jobsFound": 5,
       "queriesRun": 252,
-      "durationMs": 8311,
+      "durationMs": 20813,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-28T23:45:25.140Z",
+      "lastRunAt": "2026-09-29T06:38:57.161Z",
       "note": "Coletado em workflow próprio."
     },
     "vagas-com": {
@@ -31,12 +31,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 93,
+      "jobsFound": 90,
       "queriesRun": 125,
-      "durationMs": 99641,
+      "durationMs": 84719,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-28T23:46:57.964Z",
+      "lastRunAt": "2026-09-29T06:39:58.968Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
@@ -46,7 +46,7 @@
       "aborted": false,
       "jobsFound": 49,
       "queriesRun": 54,
-      "durationMs": 17816,
+      "durationMs": 16515,
       "errors": [
         "projetista/sao-paulo: HTTP 403",
         "desenhista/sao-paulo: HTTP 403",
@@ -70,7 +70,7 @@
         "coordenador-de-projetos/nacional: HTTP 403"
       ],
       "errorCount": 20,
-      "lastRunAt": "2026-09-28T23:45:36.102Z",
+      "lastRunAt": "2026-09-29T06:38:53.047Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -79,11 +79,43 @@
       "verdict": "ok",
       "aborted": false,
       "jobsFound": 81,
-      "queriesRun": 524,
-      "durationMs": 508123,
-      "errors": [],
-      "errorCount": 0,
-      "lastRunAt": "2026-09-28T23:53:45.648Z",
+      "queriesRun": 439,
+      "durationMs": 455348,
+      "errors": [
+        "avaliação de imóveis/sao_paulo start=50: HTTP 429",
+        "BIM/sao_paulo start=0: HTTP 429",
+        "paisagismo/sao_paulo start=0: HTTP 429",
+        "habite-se/osasco start=50: HTTP 429",
+        "avaliação de imóveis/osasco start=25: HTTP 429",
+        "BIM/osasco start=75: HTTP 429",
+        "projetista/osasco start=50: HTTP 429",
+        "plano diretor/guarulhos start=50: HTTP 429",
+        "regularização/guarulhos start=0: HTTP 429",
+        "legalização/guarulhos start=50: HTTP 429",
+        "licenciamento/guarulhos start=0: HTTP 429",
+        "aprovação de projetos/guarulhos start=0: HTTP 429",
+        "habite-se/guarulhos start=25: HTTP 429",
+        "restauro/guarulhos start=0: HTTP 429",
+        "avaliação de imóveis/guarulhos start=75: HTTP 429",
+        "compatibilização de projetos/guarulhos start=50: HTTP 429",
+        "paisagismo/guarulhos start=25: HTTP 429",
+        "interiores/guarulhos start=50: HTTP 429",
+        "legalização/barueri start=75: HTTP 429",
+        "habite-se/barueri start=50: HTTP 429",
+        "restauro/barueri start=0: HTTP 429",
+        "avaliação de imóveis/barueri start=0: HTTP 429",
+        "BIM/barueri start=25: HTTP 429",
+        "plano diretor/taboao start=75: HTTP 429",
+        "licenciamento/taboao start=75: HTTP 429",
+        "aprovação de projetos/taboao start=0: HTTP 429",
+        "avaliação de imóveis/taboao start=0: HTTP 429",
+        "SketchUp/taboao start=50: HTTP 429",
+        "Revit/taboao start=0: HTTP 429",
+        "remoto/regularização start=50: HTTP 429",
+        "remoto/SketchUp start=0: HTTP 429"
+      ],
+      "errorCount": 31,
+      "lastRunAt": "2026-09-29T06:46:10.154Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -91,12 +123,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 531,
+      "jobsFound": 523,
       "queriesRun": 543,
-      "durationMs": 327799,
+      "durationMs": 293279,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-28T23:50:46.048Z",
+      "lastRunAt": "2026-09-29T06:44:03.622Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -104,12 +136,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 26,
+      "jobsFound": 27,
       "queriesRun": 52,
-      "durationMs": 131211,
+      "durationMs": 166089,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-28T23:47:29.104Z",
+      "lastRunAt": "2026-09-29T06:41:21.324Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -121,15 +153,15 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-09-28T23:56:16.777Z",
-  "startedAt": "2026-09-28T23:54:01.149Z",
-  "finishedAt": "2026-09-28T23:56:16.777Z",
+  "lastRun": "2026-09-29T06:48:45.904Z",
+  "startedAt": "2026-09-29T06:46:25.994Z",
+  "finishedAt": "2026-09-29T06:48:45.904Z",
   "linkedin": null,
   "ai": {
     "model": null,
     "enriched": 200,
-    "dropped": 55,
-    "cached": 1171,
+    "dropped": 49,
+    "cached": 1175,
     "ok": true,
     "note": "58 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
   }
