@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 323
+      "n": 324
     },
     {
       "label": "Cadista",
@@ -22,11 +22,11 @@
     },
     {
       "label": "Designer de Interiores",
-      "n": 40
+      "n": 39
     },
     {
       "label": "Modelador BIM",
-      "n": 6
+      "n": 7
     },
     {
       "label": "Coordenador de Projetos",
@@ -42,11 +42,11 @@
     },
     {
       "label": "Estagiário",
-      "n": 193
+      "n": 194
     },
     {
       "label": "Técnico em Edificações",
-      "n": 72
+      "n": 73
     },
     {
       "label": "Orçamentista",
@@ -54,7 +54,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 27
+      "n": 28
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -64,11 +64,11 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 13
+      "n": 15
     },
     {
       "label": "Projeto executivo",
-      "n": 19
+      "n": 20
     },
     {
       "label": "Projeto legal / aprovação",
@@ -96,7 +96,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 23
+      "n": 25
     },
     {
       "label": "Orçamento / quantitativos",
@@ -108,7 +108,7 @@
     },
     {
       "label": "Avaliação de imóveis",
-      "n": 1
+      "n": 2
     },
     {
       "label": "Restauro / retrofit",
@@ -120,11 +120,11 @@
     },
     {
       "label": "Maquete / renderização",
-      "n": 7
+      "n": 8
     },
     {
       "label": "Interiores",
-      "n": 62
+      "n": 63
     },
     {
       "label": "Paisagismo",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 82
+      "n": 83
     },
     {
       "label": "SketchUp",
@@ -158,7 +158,7 @@
     },
     {
       "label": "ArchiCAD",
-      "n": 7
+      "n": 6
     },
     {
       "label": "Revit",
@@ -166,7 +166,7 @@
     },
     {
       "label": "BIM",
-      "n": 54
+      "n": 55
     }
   ]
 }

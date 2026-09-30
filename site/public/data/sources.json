@@ -7,10 +7,10 @@
       "aborted": false,
       "jobsFound": 5,
       "queriesRun": 252,
-      "durationMs": 9407,
+      "durationMs": 22318,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-30T06:20:56.081Z",
+      "lastRunAt": "2026-09-30T16:18:05.009Z",
       "note": "Coletado em workflow próprio."
     },
     "vagas-com": {
@@ -31,12 +31,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 92,
+      "jobsFound": 93,
       "queriesRun": 125,
-      "durationMs": 88681,
+      "durationMs": 103478,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-30T06:22:15.691Z",
+      "lastRunAt": "2026-09-30T16:19:26.923Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
@@ -44,9 +44,9 @@
       "ok": true,
       "verdict": "degraded",
       "aborted": false,
-      "jobsFound": 52,
+      "jobsFound": 49,
       "queriesRun": 54,
-      "durationMs": 15875,
+      "durationMs": 23521,
       "errors": [
         "projetista/sao-paulo: HTTP 403",
         "desenhista/sao-paulo: HTTP 403",
@@ -70,7 +70,7 @@
         "coordenador-de-projetos/nacional: HTTP 403"
       ],
       "errorCount": 20,
-      "lastRunAt": "2026-09-30T06:21:02.587Z",
+      "lastRunAt": "2026-09-30T16:18:06.403Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -78,27 +78,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 79,
-      "queriesRun": 479,
-      "durationMs": 471045,
-      "errors": [
-        "habite-se/sao_paulo start=0: HTTP 429",
-        "restauro/sao_paulo start=25: HTTP 429",
-        "avaliação de imóveis/sao_paulo start=0: HTTP 429",
-        "maquete/sao_paulo start=25: HTTP 429",
-        "projetista/sao_paulo start=0: HTTP 429",
-        "ArchiCAD/osasco start=0: HTTP 429",
-        "acompanhamento de obra/guarulhos start=50: HTTP 429",
-        "maquete/guarulhos start=0: HTTP 429",
-        "SketchUp/guarulhos start=25: HTTP 429",
-        "paisagismo/barueri start=0: HTTP 429",
-        "interiores/barueri start=0: HTTP 429",
-        "paisagismo/taboao start=50: HTTP 429",
-        "projetista/taboao start=50: HTTP 429",
-        "remoto/Revit start=50: HTTP 429"
-      ],
-      "errorCount": 14,
-      "lastRunAt": "2026-09-30T06:28:36.918Z",
+      "jobsFound": 86,
+      "queriesRun": 524,
+      "durationMs": 524596,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-09-30T16:26:27.144Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -106,12 +91,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 527,
+      "jobsFound": 530,
       "queriesRun": 541,
-      "durationMs": 289016,
+      "durationMs": 315268,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-30T06:25:35.292Z",
+      "lastRunAt": "2026-09-30T16:22:59.080Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -119,12 +104,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 27,
+      "jobsFound": 25,
       "queriesRun": 52,
-      "durationMs": 131560,
+      "durationMs": 132876,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-09-30T06:22:58.729Z",
+      "lastRunAt": "2026-09-30T16:19:55.180Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -136,16 +121,16 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-09-30T06:31:25.206Z",
-  "startedAt": "2026-09-30T06:28:53.696Z",
-  "finishedAt": "2026-09-30T06:31:25.206Z",
+  "lastRun": "2026-09-30T16:31:46.569Z",
+  "startedAt": "2026-09-30T16:26:45.273Z",
+  "finishedAt": "2026-09-30T16:31:46.569Z",
   "linkedin": null,
   "ai": {
     "model": null,
-    "enriched": 200,
-    "dropped": 54,
-    "cached": 1189,
-    "ok": true,
-    "note": "64 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
+    "enriched": 188,
+    "dropped": 50,
+    "cached": 1199,
+    "ok": false,
+    "note": "12 vaga(s) sem classificação nesta rodada; 60 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
   }
 }
