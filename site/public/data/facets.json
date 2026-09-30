@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 324
+      "n": 325
     },
     {
       "label": "Cadista",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Analista",
-      "n": 78
+      "n": 80
     },
     {
       "label": "Assistente / Auxiliar",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 194
+      "n": 195
     },
     {
       "label": "Técnico em Edificações",
@@ -96,7 +96,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 25
+      "n": 27
     },
     {
       "label": "Orçamento / quantitativos",
@@ -124,7 +124,7 @@
     },
     {
       "label": "Interiores",
-      "n": 63
+      "n": 64
     },
     {
       "label": "Paisagismo",
@@ -166,7 +166,7 @@
     },
     {
       "label": "BIM",
-      "n": 55
+      "n": 56
     }
   ]
 }
