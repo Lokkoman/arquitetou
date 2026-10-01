@@ -10,15 +10,15 @@
     },
     {
       "label": "Projetista",
-      "n": 330
+      "n": 333
     },
     {
       "label": "Cadista",
-      "n": 70
+      "n": 71
     },
     {
       "label": "Desenhista",
-      "n": 109
+      "n": 110
     },
     {
       "label": "Designer de Interiores",
@@ -38,7 +38,7 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 76
+      "n": 77
     },
     {
       "label": "Estagiário",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 73
+      "n": 75
     },
     {
       "label": "Orçamentista",
@@ -64,11 +64,11 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 15
+      "n": 16
     },
     {
       "label": "Projeto executivo",
-      "n": 20
+      "n": 21
     },
     {
       "label": "Projeto legal / aprovação",
@@ -88,11 +88,11 @@
     },
     {
       "label": "Compatibilização",
-      "n": 20
+      "n": 22
     },
     {
       "label": "Levantamento / as built",
-      "n": 3
+      "n": 4
     },
     {
       "label": "Acompanhamento de obra",
@@ -124,7 +124,7 @@
     },
     {
       "label": "Interiores",
-      "n": 64
+      "n": 65
     },
     {
       "label": "Paisagismo",
@@ -140,7 +140,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 8
+      "n": 9
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 83
+      "n": 85
     },
     {
       "label": "SketchUp",
@@ -162,11 +162,11 @@
     },
     {
       "label": "Revit",
-      "n": 38
+      "n": 39
     },
     {
       "label": "BIM",
-      "n": 56
+      "n": 57
     }
   ]
 }
