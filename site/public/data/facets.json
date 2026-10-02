@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 271
+      "n": 274
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 333
+      "n": 335
     },
     {
       "label": "Cadista",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Analista",
-      "n": 82
+      "n": 84
     },
     {
       "label": "Assistente / Auxiliar",
@@ -96,7 +96,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 27
+      "n": 28
     },
     {
       "label": "Orçamento / quantitativos",
@@ -108,7 +108,7 @@
     },
     {
       "label": "Avaliação de imóveis",
-      "n": 2
+      "n": 3
     },
     {
       "label": "Restauro / retrofit",
@@ -124,7 +124,7 @@
     },
     {
       "label": "Interiores",
-      "n": 65
+      "n": 66
     },
     {
       "label": "Paisagismo",
@@ -158,7 +158,7 @@
     },
     {
       "label": "ArchiCAD",
-      "n": 6
+      "n": 7
     },
     {
       "label": "Revit",
