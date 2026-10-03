@@ -6,7 +6,7 @@
     },
     {
       "label": "Urbanista",
-      "n": 7
+      "n": 5
     },
     {
       "label": "Projetista",
@@ -22,7 +22,7 @@
     },
     {
       "label": "Designer de Interiores",
-      "n": 39
+      "n": 37
     },
     {
       "label": "Modelador BIM",
@@ -64,7 +64,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 16
+      "n": 15
     },
     {
       "label": "Projeto executivo",
@@ -120,11 +120,11 @@
     },
     {
       "label": "Maquete / renderização",
-      "n": 9
+      "n": 8
     },
     {
       "label": "Interiores",
-      "n": 66
+      "n": 62
     },
     {
       "label": "Paisagismo",
@@ -150,11 +150,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 84
+      "n": 80
     },
     {
       "label": "SketchUp",
-      "n": 32
+      "n": 25
     },
     {
       "label": "ArchiCAD",
@@ -162,7 +162,7 @@
     },
     {
       "label": "Revit",
-      "n": 38
+      "n": 36
     },
     {
       "label": "BIM",
