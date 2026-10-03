@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T14:44:13.174Z",
+  "generatedAt": "2026-10-03T19:12:35.307Z",
   "ok": false,
   "alerts": [
     "bne: DEGRADED — erro em 37% das consultas"
@@ -19,20 +19,20 @@
       "queriesRun": 54,
       "errorRate": 0.37,
       "dominantError": "HTTP 403",
-      "durationMs": 16682,
-      "lastRunAt": "2026-10-03T14:35:42.951Z"
+      "durationMs": 19207,
+      "lastRunAt": "2026-10-03T19:04:09.162Z"
     },
     "catho": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 514,
-      "baselineMedian": 521.5,
+      "jobsFound": 515,
+      "baselineMedian": 519.5,
       "errorCount": 0,
       "queriesRun": 532,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 311275,
-      "lastRunAt": "2026-10-03T14:40:39.245Z"
+      "durationMs": 284893,
+      "lastRunAt": "2026-10-03T19:08:33.575Z"
     },
     "empregos": {
       "verdict": "ok",
@@ -43,8 +43,8 @@
       "queriesRun": 52,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 134010,
-      "lastRunAt": "2026-10-03T14:37:43.421Z"
+      "durationMs": 157045,
+      "lastRunAt": "2026-10-03T19:06:28.948Z"
     },
     "gupy-portal": {
       "verdict": "ok",
@@ -62,25 +62,25 @@
       "verdict": "ok",
       "reasons": [],
       "jobsFound": 85,
-      "baselineMedian": 90,
+      "baselineMedian": 89,
       "errorCount": 0,
       "queriesRun": 125,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 93672,
-      "lastRunAt": "2026-10-03T14:37:39.311Z"
+      "durationMs": 91039,
+      "lastRunAt": "2026-10-03T19:05:28.575Z"
     },
     "linkedin": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 83,
-      "baselineMedian": 83.5,
+      "jobsFound": 85,
+      "baselineMedian": 84,
       "errorCount": 0,
       "queriesRun": 524,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 509414,
-      "lastRunAt": "2026-10-03T14:43:56.940Z"
+      "durationMs": 510488,
+      "lastRunAt": "2026-10-03T19:12:21.517Z"
     },
     "vagas-com": {
       "verdict": "ok",
