@@ -6,7 +6,7 @@
     },
     {
       "label": "Urbanista",
-      "n": 5
+      "n": 7
     },
     {
       "label": "Projetista",
@@ -64,7 +64,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 15
+      "n": 16
     },
     {
       "label": "Projeto executivo",
@@ -120,11 +120,11 @@
     },
     {
       "label": "Maquete / renderização",
-      "n": 8
+      "n": 9
     },
     {
       "label": "Interiores",
-      "n": 62
+      "n": 65
     },
     {
       "label": "Paisagismo",
@@ -150,11 +150,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 80
+      "n": 83
     },
     {
       "label": "SketchUp",
-      "n": 25
+      "n": 32
     },
     {
       "label": "ArchiCAD",
@@ -162,7 +162,7 @@
     },
     {
       "label": "Revit",
-      "n": 36
+      "n": 38
     },
     {
       "label": "BIM",
