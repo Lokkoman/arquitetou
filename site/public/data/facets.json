@@ -22,7 +22,7 @@
     },
     {
       "label": "Designer de Interiores",
-      "n": 37
+      "n": 38
     },
     {
       "label": "Modelador BIM",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Analista",
-      "n": 84
+      "n": 85
     },
     {
       "label": "Assistente / Auxiliar",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 197
+      "n": 196
     },
     {
       "label": "Técnico em Edificações",
@@ -150,11 +150,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 83
+      "n": 82
     },
     {
       "label": "SketchUp",
-      "n": 32
+      "n": 31
     },
     {
       "label": "ArchiCAD",
