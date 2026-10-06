@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T16:41:56.452Z",
+  "generatedAt": "2026-10-06T23:04:31.431Z",
   "ok": false,
   "alerts": [
     "bne: DEGRADED — erro em 37% das consultas"
@@ -19,20 +19,20 @@
       "queriesRun": 54,
       "errorRate": 0.37,
       "dominantError": "HTTP 403",
-      "durationMs": 18138,
-      "lastRunAt": "2026-10-06T16:33:09.100Z"
+      "durationMs": 19471,
+      "lastRunAt": "2026-10-06T22:56:03.166Z"
     },
     "catho": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 518,
+      "jobsFound": 520,
       "baselineMedian": 519.5,
       "errorCount": 0,
       "queriesRun": 537,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 293295,
-      "lastRunAt": "2026-10-06T16:37:44.414Z"
+      "durationMs": 289757,
+      "lastRunAt": "2026-10-06T23:00:51.152Z"
     },
     "empregos": {
       "verdict": "ok",
@@ -43,8 +43,8 @@
       "queriesRun": 52,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 137734,
-      "lastRunAt": "2026-10-06T16:35:08.967Z"
+      "durationMs": 154409,
+      "lastRunAt": "2026-10-06T22:58:53.118Z"
     },
     "gupy-portal": {
       "verdict": "ok",
@@ -61,26 +61,26 @@
     "infojobs": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 88,
+      "jobsFound": 90,
       "baselineMedian": 85,
       "errorCount": 0,
       "queriesRun": 125,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 102766,
-      "lastRunAt": "2026-10-06T16:34:34.050Z"
+      "durationMs": 102686,
+      "lastRunAt": "2026-10-06T22:57:33.304Z"
     },
     "linkedin": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 78,
-      "baselineMedian": 79.5,
+      "jobsFound": 92,
+      "baselineMedian": 78,
       "errorCount": 0,
       "queriesRun": 524,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 526251,
-      "lastRunAt": "2026-10-06T16:41:38.289Z"
+      "durationMs": 512507,
+      "lastRunAt": "2026-10-06T23:04:14.457Z"
     },
     "vagas-com": {
       "verdict": "ok",
