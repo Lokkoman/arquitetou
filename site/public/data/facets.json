@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 287
+      "n": 289
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 350
+      "n": 365
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 112
+      "n": 122
     },
     {
       "label": "Designer de Interiores",
@@ -38,15 +38,15 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 84
+      "n": 83
     },
     {
       "label": "Estagiário",
-      "n": 198
+      "n": 201
     },
     {
       "label": "Técnico em Edificações",
-      "n": 79
+      "n": 80
     },
     {
       "label": "Orçamentista",
@@ -54,7 +54,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 30
+      "n": 29
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -112,7 +112,7 @@
     },
     {
       "label": "Restauro / retrofit",
-      "n": 2
+      "n": 4
     },
     {
       "label": "Sustentabilidade / LEED",
@@ -124,7 +124,7 @@
     },
     {
       "label": "Interiores",
-      "n": 70
+      "n": 71
     },
     {
       "label": "Paisagismo",
@@ -132,7 +132,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 3
+      "n": 5
     },
     {
       "label": "Loteamento / parcelamento",
@@ -140,7 +140,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 9
+      "n": 11
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -150,15 +150,15 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 82
+      "n": 84
     },
     {
       "label": "SketchUp",
-      "n": 29
+      "n": 30
     },
     {
       "label": "ArchiCAD",
-      "n": 6
+      "n": 7
     },
     {
       "label": "Revit",
@@ -166,7 +166,7 @@
     },
     {
       "label": "BIM",
-      "n": 61
+      "n": 62
     }
   ]
 }
