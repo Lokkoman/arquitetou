@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 288
+      "n": 294
     },
     {
       "label": "Urbanista",
@@ -10,11 +10,11 @@
     },
     {
       "label": "Projetista",
-      "n": 350
+      "n": 351
     },
     {
       "label": "Cadista",
-      "n": 73
+      "n": 74
     },
     {
       "label": "Desenhista",
@@ -34,15 +34,15 @@
     },
     {
       "label": "Analista",
-      "n": 89
+      "n": 90
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 84
+      "n": 87
     },
     {
       "label": "Estagiário",
-      "n": 201
+      "n": 202
     },
     {
       "label": "Técnico em Edificações",
@@ -50,11 +50,11 @@
     },
     {
       "label": "Orçamentista",
-      "n": 20
+      "n": 21
     },
     {
       "label": "Consultor / Especialista",
-      "n": 29
+      "n": 30
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -72,7 +72,7 @@
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 10
+      "n": 11
     },
     {
       "label": "Legalização / regularização",
@@ -84,11 +84,11 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 9
+      "n": 10
     },
     {
       "label": "Compatibilização",
-      "n": 20
+      "n": 21
     },
     {
       "label": "Levantamento / as built",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Paisagismo",
-      "n": 7
+      "n": 9
     },
     {
       "label": "Planejamento urbano",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 81
+      "n": 80
     },
     {
       "label": "SketchUp",
@@ -166,7 +166,7 @@
     },
     {
       "label": "BIM",
-      "n": 63
+      "n": 64
     }
   ]
 }
