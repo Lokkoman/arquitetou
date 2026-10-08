@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 286
+      "n": 288
     },
     {
       "label": "Urbanista",
@@ -10,11 +10,11 @@
     },
     {
       "label": "Projetista",
-      "n": 351
+      "n": 350
     },
     {
       "label": "Cadista",
-      "n": 72
+      "n": 73
     },
     {
       "label": "Desenhista",
@@ -26,7 +26,7 @@
     },
     {
       "label": "Modelador BIM",
-      "n": 11
+      "n": 12
     },
     {
       "label": "Coordenador de Projetos",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 81
+      "n": 80
     },
     {
       "label": "Orçamentista",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 82
+      "n": 81
     },
     {
       "label": "SketchUp",
@@ -166,7 +166,7 @@
     },
     {
       "label": "BIM",
-      "n": 62
+      "n": 63
     }
   ]
 }
