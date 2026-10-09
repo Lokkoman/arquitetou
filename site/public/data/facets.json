@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 291
+      "n": 296
     },
     {
       "label": "Urbanista",
@@ -30,11 +30,11 @@
     },
     {
       "label": "Coordenador de Projetos",
-      "n": 7
+      "n": 8
     },
     {
       "label": "Analista",
-      "n": 91
+      "n": 92
     },
     {
       "label": "Assistente / Auxiliar",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 203
+      "n": 204
     },
     {
       "label": "Técnico em Edificações",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 21
+      "n": 22
     },
     {
       "label": "Levantamento / as built",
@@ -166,7 +166,7 @@
     },
     {
       "label": "BIM",
-      "n": 64
+      "n": 66
     }
   ]
 }
