@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 296
+      "n": 299
     },
     {
       "label": "Urbanista",
@@ -38,7 +38,7 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 85
+      "n": 86
     },
     {
       "label": "Estagiário",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Paisagismo",
-      "n": 7
+      "n": 8
     },
     {
       "label": "Planejamento urbano",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 82
+      "n": 83
     },
     {
       "label": "SketchUp",
