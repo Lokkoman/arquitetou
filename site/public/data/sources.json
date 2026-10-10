@@ -33,10 +33,10 @@
       "aborted": false,
       "jobsFound": 89,
       "queriesRun": 125,
-      "durationMs": 102235,
+      "durationMs": 81749,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-10-10T06:46:32.330Z",
+      "lastRunAt": "2026-10-10T15:47:16.076Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
@@ -46,7 +46,7 @@
       "aborted": false,
       "jobsFound": 48,
       "queriesRun": 54,
-      "durationMs": 15029,
+      "durationMs": 21713,
       "errors": [
         "projetista/sao-paulo: HTTP 403",
         "desenhista/sao-paulo: HTTP 403",
@@ -70,7 +70,7 @@
         "coordenador-de-projetos/nacional: HTTP 403"
       ],
       "errorCount": 20,
-      "lastRunAt": "2026-10-10T06:45:05.519Z",
+      "lastRunAt": "2026-10-10T15:46:16.621Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -78,20 +78,29 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 97,
-      "queriesRun": 500,
-      "durationMs": 494701,
+      "jobsFound": 108,
+      "queriesRun": 489,
+      "durationMs": 456387,
       "errors": [
-        "compatibilização de projetos/osasco start=25: HTTP 429",
-        "interiores/osasco start=0: HTTP 429",
-        "aprovação de projetos/guarulhos start=0: HTTP 429",
-        "paisagismo/guarulhos start=0: HTTP 429",
-        "SketchUp/barueri start=75: HTTP 429",
-        "Revit/barueri start=0: HTTP 429",
-        "remoto/acompanhamento de obra start=0: HTTP 429"
+        "restauro/sao_paulo start=75: HTTP 429",
+        "regularização/osasco start=75: HTTP 429",
+        "legalização/osasco start=50: HTTP 429",
+        "SketchUp/osasco start=50: HTTP 429",
+        "Revit/osasco start=0: HTTP 429",
+        "arquiteto/guarulhos start=50: HTTP 429",
+        "acompanhamento de obra/guarulhos start=75: HTTP 429",
+        "maquete/guarulhos start=0: HTTP 429",
+        "projetista/guarulhos start=0: HTTP 429",
+        "urbanista/barueri start=25: HTTP 429",
+        "legalização/taboao start=75: HTTP 429",
+        "licenciamento/taboao start=0: HTTP 429",
+        "restauro/taboao start=75: HTTP 429",
+        "paisagismo/taboao start=75: HTTP 429",
+        "remoto/licenciamento start=0: HTTP 429",
+        "descrição/Assistente Técnico de Edificações - SP: HTTP 429"
       ],
-      "errorCount": 7,
-      "lastRunAt": "2026-10-10T06:53:04.586Z",
+      "errorCount": 16,
+      "lastRunAt": "2026-10-10T15:53:30.984Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -99,12 +108,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 504,
+      "jobsFound": 505,
       "queriesRun": 537,
-      "durationMs": 310375,
+      "durationMs": 318474,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-10-10T06:50:00.043Z",
+      "lastRunAt": "2026-10-10T15:51:14.990Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -112,12 +121,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 19,
+      "jobsFound": 20,
       "queriesRun": 52,
-      "durationMs": 159304,
+      "durationMs": 133449,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-10-10T06:47:29.788Z",
+      "lastRunAt": "2026-10-10T15:48:08.929Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -129,16 +138,16 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-10-10T06:55:26.968Z",
-  "startedAt": "2026-10-10T06:53:20.304Z",
-  "finishedAt": "2026-10-10T06:55:26.968Z",
+  "lastRun": "2026-10-10T16:02:35.097Z",
+  "startedAt": "2026-10-10T16:00:27.905Z",
+  "finishedAt": "2026-10-10T16:02:35.097Z",
   "linkedin": null,
   "ai": {
     "model": null,
-    "enriched": 200,
-    "dropped": 63,
-    "cached": 1313,
-    "ok": true,
-    "note": "59 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
+    "enriched": 192,
+    "dropped": 67,
+    "cached": 1318,
+    "ok": false,
+    "note": "8 vaga(s) sem classificação nesta rodada; 64 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
   }
 }

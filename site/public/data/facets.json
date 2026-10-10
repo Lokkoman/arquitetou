@@ -10,11 +10,11 @@
     },
     {
       "label": "Projetista",
-      "n": 350
+      "n": 351
     },
     {
       "label": "Cadista",
-      "n": 72
+      "n": 73
     },
     {
       "label": "Desenhista",
@@ -26,7 +26,7 @@
     },
     {
       "label": "Modelador BIM",
-      "n": 12
+      "n": 13
     },
     {
       "label": "Coordenador de Projetos",
@@ -34,11 +34,11 @@
     },
     {
       "label": "Analista",
-      "n": 92
+      "n": 95
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 86
+      "n": 88
     },
     {
       "label": "Estagiário",
@@ -68,7 +68,7 @@
     },
     {
       "label": "Projeto executivo",
-      "n": 23
+      "n": 22
     },
     {
       "label": "Projeto legal / aprovação",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 22
+      "n": 21
     },
     {
       "label": "Levantamento / as built",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 83
+      "n": 80
     },
     {
       "label": "SketchUp",
@@ -162,11 +162,11 @@
     },
     {
       "label": "Revit",
-      "n": 37
+      "n": 36
     },
     {
       "label": "BIM",
-      "n": 66
+      "n": 68
     }
   ]
 }
