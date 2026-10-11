@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 374
+      "n": 356
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 118
+      "n": 110
     },
     {
       "label": "Designer de Interiores",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 21
+      "n": 22
     },
     {
       "label": "Levantamento / as built",
@@ -124,7 +124,7 @@
     },
     {
       "label": "Interiores",
-      "n": 71
+      "n": 72
     },
     {
       "label": "Paisagismo",
@@ -150,23 +150,23 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 81
+      "n": 83
     },
     {
       "label": "SketchUp",
-      "n": 30
+      "n": 29
     },
     {
       "label": "ArchiCAD",
-      "n": 7
+      "n": 6
     },
     {
       "label": "Revit",
-      "n": 36
+      "n": 37
     },
     {
       "label": "BIM",
-      "n": 68
+      "n": 69
     }
   ]
 }
