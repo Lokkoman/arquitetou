@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 356
+      "n": 354
     },
     {
       "label": "Cadista",
@@ -38,11 +38,11 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 89
+      "n": 88
     },
     {
       "label": "Estagiário",
-      "n": 204
+      "n": 205
     },
     {
       "label": "Técnico em Edificações",
@@ -100,7 +100,7 @@
     },
     {
       "label": "Orçamento / quantitativos",
-      "n": 2
+      "n": 1
     },
     {
       "label": "Laudo / perícia / vistoria",
@@ -124,7 +124,7 @@
     },
     {
       "label": "Interiores",
-      "n": 72
+      "n": 71
     },
     {
       "label": "Paisagismo",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 83
+      "n": 81
     },
     {
       "label": "SketchUp",
