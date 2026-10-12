@@ -1,14 +1,13 @@
 {
   "sourceId": "bne",
   "name": "BNE",
-  "collectedAt": "2026-10-12T07:02:07.293Z",
-  "durationMs": 16096,
+  "collectedAt": "2026-10-12T19:40:17.429Z",
+  "durationMs": 18489,
   "queriesRun": 54,
   "ok": true,
   "aborted": false,
   "errorCount": 19,
   "errors": [
-    "projetista/sao-paulo: HTTP 403",
     "desenhista/sao-paulo: HTTP 403",
     "desenhista-projetista/sao-paulo: HTTP 403",
     "coordenador-de-projetos/sao-paulo: HTTP 403",
@@ -18,9 +17,10 @@
     "arquiteto-de-interiores/osasco: HTTP 403",
     "designer-de-interiores/osasco: HTTP 403",
     "projetista/osasco: HTTP 403",
-    "disjuntor: 10 erros seguidos — passada abortada em \"projetista/osasco\"",
-    "arquiteto/nacional: HTTP 403",
+    "desenhista/osasco: HTTP 403",
+    "disjuntor: 10 erros seguidos — passada abortada em \"desenhista/osasco\"",
     "urbanista/nacional: HTTP 403",
+    "arquiteto-urbanista/nacional: HTTP 403",
     "arquiteto-de-interiores/nacional: HTTP 403",
     "designer-de-interiores/nacional: HTTP 403",
     "projetista/nacional: HTTP 403",
@@ -46,7 +46,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto/6203013",
       "description": "Oportunidade para arquiteto(a) de segurança em são paulo, com modelo híbrido (1x por semana na av. Nações unidas). A posição é como pj e envolve trabalhar com diversas tecnologias,",
       "descriptionSnippet": "Oportunidade para arquiteto(a) de segurança em são paulo, com modelo híbrido (1x por semana na av. Nações unidas). A posição é como pj e envolve trabalhar com diversas tecnologias,",
-      "collectedAt": "2026-10-12T07:02:07.288Z"
+      "collectedAt": "2026-10-12T19:40:17.422Z"
     },
     {
       "id": "4bf01327356c75fa",
@@ -65,7 +65,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto/6200749",
       "description": "Oportunidade para arquiteto(a) de segurança em são paulo, com modelo híbrido (1x por semana na av. Nações unidas). A posição é como pj e exige experiência com diversas tecnologias:",
       "descriptionSnippet": "Oportunidade para arquiteto(a) de segurança em são paulo, com modelo híbrido (1x por semana na av. Nações unidas). A posição é como pj e exige experiência com diversas tecnologias:",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.425Z"
     },
     {
       "id": "3a23fc005c73413a",
@@ -84,7 +84,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto/6200369",
       "description": "Arquiteto(a) de segurança para são paulo. Modalidade híbrida, com 1 dia na semana na av. Nações unidas. Contratação como pessoa jurídica (pj). Tecnologias envolvidas: - Redes, infr",
       "descriptionSnippet": "Arquiteto(a) de segurança para são paulo. Modalidade híbrida, com 1 dia na semana na av. Nações unidas. Contratação como pessoa jurídica (pj). Tecnologias envolvidas: - Redes, infr",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.425Z"
     },
     {
       "id": "47fc6acd92dbb497",
@@ -103,7 +103,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto/6198583",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.426Z"
     },
     {
       "id": "0b5af14919e9ea07",
@@ -122,7 +122,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto/6158221",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.426Z"
     },
     {
       "id": "e843403694990a38",
@@ -141,7 +141,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto/6152406",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.426Z"
     },
     {
       "id": "b3613287291afa94",
@@ -160,7 +160,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto/6147373",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.426Z"
     },
     {
       "id": "ce3052b083e62079",
@@ -179,7 +179,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto/6147360",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.426Z"
     },
     {
       "id": "6319f6901cd0c879",
@@ -198,7 +198,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-urbanista/5926388",
       "description": "Dap engenharia seleciona: Vaga para arquiteto e urbanista Clt - Salário a combinar Local de trabalho: escritório Funções: Elaboração de projeto arquitetônico e de parcelamento de",
       "descriptionSnippet": "Dap engenharia seleciona: Vaga para arquiteto e urbanista Clt - Salário a combinar Local de trabalho: escritório Funções: Elaboração de projeto arquitetônico e de parcelamento de",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.426Z"
     },
     {
       "id": "f7910b6772ac5fb3",
@@ -217,7 +217,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-urbanista/5215491",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.426Z"
     },
     {
       "id": "528fbc3146b34d6e",
@@ -236,7 +236,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-urbanista/5217582",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.426Z"
     },
     {
       "id": "a403b396241ce7e5",
@@ -255,7 +255,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-urbanista/5217558",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.426Z"
     },
     {
       "id": "89291827797f75bb",
@@ -274,7 +274,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-urbanista/4972912",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.426Z"
     },
     {
       "id": "227574fb96889689",
@@ -293,7 +293,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-urbanista/4887231",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.426Z"
     },
     {
       "id": "8070f6d7677ce387",
@@ -312,7 +312,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-urbanista/4508226",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.427Z"
     },
     {
       "id": "97200cb24190edac",
@@ -331,7 +331,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-urbanista/4326734",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.427Z"
     },
     {
       "id": "bd0f8b3d6d17f3b2",
@@ -350,7 +350,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-urbanista/4281834",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.427Z"
     },
     {
       "id": "f8a8c6ed5b35e5c5",
@@ -369,7 +369,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-urbanista/4525842",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.291Z"
+      "collectedAt": "2026-10-12T19:40:17.427Z"
     },
     {
       "id": "d4d7db12033ef8a3",
@@ -388,7 +388,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-de-interiores/6083938",
       "description": "Vaga para arquiteto no setor de interiores no escritório creative arquitetura. Requisitos: Formação em arquitetura e urbanismo Domínio no autocad experiência em detalhamento e cria",
       "descriptionSnippet": "Vaga para arquiteto no setor de interiores no escritório creative arquitetura. Requisitos: Formação em arquitetura e urbanismo Domínio no autocad experiência em detalhamento e cria",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.427Z"
     },
     {
       "id": "c698c5bf2201ae1a",
@@ -407,7 +407,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-de-interiores/6094900",
       "description": "Vaga aberta para arquiteto no setor de interiores no escritório creative arquitetura. Requisitos: Formação em arquitetura e urbanismo Domínio no autocad experiência em detalhamento",
       "descriptionSnippet": "Vaga aberta para arquiteto no setor de interiores no escritório creative arquitetura. Requisitos: Formação em arquitetura e urbanismo Domínio no autocad experiência em detalhamento",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.427Z"
     },
     {
       "id": "d91e422dfc0e6059",
@@ -426,7 +426,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-de-interiores/6089107",
       "description": "Vaga de arquiteto para o setor de interiores no escritório creative arquitetura. Requisitos: Formação em arquitetura e urbanismo Domínio no autocad experiência em detalhamento e cr",
       "descriptionSnippet": "Vaga de arquiteto para o setor de interiores no escritório creative arquitetura. Requisitos: Formação em arquitetura e urbanismo Domínio no autocad experiência em detalhamento e cr",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.427Z"
     },
     {
       "id": "d6433877883edc3e",
@@ -445,7 +445,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-de-interiores/4985171",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.427Z"
     },
     {
       "id": "24c8760769128afd",
@@ -464,7 +464,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-de-interiores/4985185",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.427Z"
     },
     {
       "id": "405b8a90df8c9aeb",
@@ -483,7 +483,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-de-interiores/5535870",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.427Z"
     },
     {
       "id": "94a7606faaadfdba",
@@ -502,7 +502,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-de-interiores/5281388",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.427Z"
     },
     {
       "id": "2a53dab9d9c49d8e",
@@ -521,7 +521,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-de-interiores/5008500",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "57ea55036bbbeb6a",
@@ -540,7 +540,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-de-interiores/4959774",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "9f57b7b5e9010fc6",
@@ -559,7 +559,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-de-interiores/4433024",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "9543279fa45386d6",
@@ -578,7 +578,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto-de-interiores/4523508",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "13eda97e86248ac6",
@@ -597,7 +597,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-barueri-sp/arquiteto-de-interiores/5134819",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "7c992e53b85e3bd3",
@@ -616,7 +616,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/6103339",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "389f3f512ae85502",
@@ -635,7 +635,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5808618",
       "description": "Vaga para designer de interiores / projetista, com experiência em modelagem de projetos, domínio em sketchup e dinabox, e experiência em vendas de móveis planejados. O profissional",
       "descriptionSnippet": "Vaga para designer de interiores / projetista, com experiência em modelagem de projetos, domínio em sketchup e dinabox, e experiência em vendas de móveis planejados. O profissional",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "ab83b8ac565811e4",
@@ -654,7 +654,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5808621",
       "description": "Vaga para designer de interiores / projetista. Requisitos: experiência em modelagem de projetos. Domínio em sketchup e dinabox. experiência em vendas de móveis planejados. Atribuiç",
       "descriptionSnippet": "Vaga para designer de interiores / projetista. Requisitos: experiência em modelagem de projetos. Domínio em sketchup e dinabox. experiência em vendas de móveis planejados. Atribuiç",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "25741c32a765906d",
@@ -673,7 +673,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/6064231",
       "description": "Envie seu portfólio e Arquitetura é detalhe. É responsabilidade. É emoção. É construir propósito. Arquitetura e interiores.",
       "descriptionSnippet": "Envie seu portfólio e Arquitetura é detalhe. É responsabilidade. É emoção. É construir propósito. Arquitetura e interiores.",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "3caf329a668c3ba3",
@@ -692,7 +692,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5739829",
       "description": "Vaga para arquiteto/design de interiores. Requisitos: experiência com o programa promob e ser .",
       "descriptionSnippet": "Vaga para arquiteto/design de interiores. Requisitos: experiência com o programa promob e ser .",
-      "collectedAt": "2026-10-12T07:02:07.292Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "9032e20cf717ff45",
@@ -711,7 +711,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5739813",
       "description": "Vaga para arquiteto/design de interiores, com experiência no programa promob e que seja .",
       "descriptionSnippet": "Vaga para arquiteto/design de interiores, com experiência no programa promob e que seja .",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "827f135a2d6d4d57",
@@ -730,7 +730,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/4922669",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "4f00a7ed4893b6ea",
@@ -749,7 +749,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5653094",
       "description": "Vaga para designer de interiores, para fazer parte da equipe. Requisitos: ser criativo, proativo e gostar de interiores, com experiência em sketchup, vray e autocad.",
       "descriptionSnippet": "Vaga para designer de interiores, para fazer parte da equipe. Requisitos: ser criativo, proativo e gostar de interiores, com experiência em sketchup, vray e autocad.",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "49aa7e78dda496c2",
@@ -768,7 +768,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5648698",
       "description": "Vaga para arquiteto ou designer de interiores com conhecimento em sketchup e revit, para entrar no processo seletivo(Informação Confidencial)",
       "descriptionSnippet": "Vaga para arquiteto ou designer de interiores com conhecimento em sketchup e revit, para entrar no processo seletivo(Informação Confidencial)",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "34ff6cdbea77a236",
@@ -787,7 +787,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5648693",
       "description": "Vaga para arquiteto ou designer de interiores, com conhecimento em sketchup e revit, para atuar em regime semi presencial. Pré-Requisitos: conhecimento em sketchup e revit.",
       "descriptionSnippet": "Vaga para arquiteto ou designer de interiores, com conhecimento em sketchup e revit, para atuar em regime semi presencial. Pré-Requisitos: conhecimento em sketchup e revit.",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "ab87807340f7ce56",
@@ -806,7 +806,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5648315",
       "description": "Vaga para designer de interiores, para fazer parte da equipe. Requisitos: ser criativo, proativo e gostar de interiores. Ter experiência com sketchup + vray e autocad.",
       "descriptionSnippet": "Vaga para designer de interiores, para fazer parte da equipe. Requisitos: ser criativo, proativo e gostar de interiores. Ter experiência com sketchup + vray e autocad.",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "78141958557e64eb",
@@ -825,7 +825,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5644513",
       "description": "Vaga para designer de interiores, com experiência em sketchup, vray e autocad, para atuar em equipe criativa e proativa, com foco em projetos de interiores. currículo e portfólio.",
       "descriptionSnippet": "Vaga para designer de interiores, com experiência em sketchup, vray e autocad, para atuar em equipe criativa e proativa, com foco em projetos de interiores. currículo e portfólio.",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "8050582546c93a04",
@@ -844,7 +844,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5678250",
       "description": "Vaga para arquiteto/designer de interiores trainee, com domínio em autocad, sketchup e layout, além de experiência em renderização (vray, lumion, 3dsmax) e experiência em executivo",
       "descriptionSnippet": "Vaga para arquiteto/designer de interiores trainee, com domínio em autocad, sketchup e layout, além de experiência em renderização (vray, lumion, 3dsmax) e experiência em executivo",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "74e6d3fc8908a5f5",
@@ -863,7 +863,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/4920191",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "7eed5a478bee0a0e",
@@ -882,7 +882,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5586865",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "9a6f714a575637a2",
@@ -901,7 +901,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/4920196",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.428Z"
     },
     {
       "id": "0388bc1badb72e5f",
@@ -920,7 +920,7 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5673522",
       "description": "Vaga trainee para arquiteto/designer de interiores, com domínio em autocad, sketchup, layout e renderização (vray, lumion, 3dsmax), experiência em executivo/detalhamento, formação",
       "descriptionSnippet": "Vaga trainee para arquiteto/designer de interiores, com domínio em autocad, sketchup, layout e renderização (vray, lumion, 3dsmax), experiência em executivo/detalhamento, formação",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.429Z"
     },
     {
       "id": "9257b3ef487640d7",
@@ -939,7 +939,273 @@
       "url": "https://www.bne.com.br/vaga-de-emprego-na-area-consultoria-em-sao-paulo-sp/designer-de-interiores/5331493",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-12T07:02:07.293Z"
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "070c202c40c1c417",
+      "title": "Projetista",
+      "company": "Confidencial",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": null,
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-09-18T07:19:17.397Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/6187146",
+      "description": "vaga de vendedor projetista para móveis planejados. esta vaga é para são paulo.",
+      "descriptionSnippet": "vaga de vendedor projetista para móveis planejados. esta vaga é para são paulo.",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "7b2525a3d82f47f5",
+      "title": "Projetista",
+      "company": "Recursus",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": null,
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-09-23T14:54:55.77Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/6194190",
+      "description": "Buscamos um projetista civil para atuar na elaboração e detalhamento de projetos civis, arquitetônicos, estruturais e hidráulicos, garantindo precisão técnica, qualidade e alinhame",
+      "descriptionSnippet": "Buscamos um projetista civil para atuar na elaboração e detalhamento de projetos civis, arquitetônicos, estruturais e hidráulicos, garantindo precisão técnica, qualidade e alinhame",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "07540637806e8315",
+      "title": "Projetista",
+      "company": "Rotal",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": "remote",
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-07-28T07:55:28.823Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/6115582",
+      "description": "Empresa de metalurgia especializada em móveis hospitalares contrata projetista para fazer parte do nosso time. Construa um futuro com a gente!.",
+      "descriptionSnippet": "Empresa de metalurgia especializada em móveis hospitalares contrata projetista para fazer parte do nosso time. Construa um futuro com a gente!.",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "02e43b409543c9e8",
+      "title": "Projetista",
+      "company": "MVA Moldes",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": "remote",
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-07-27T07:25:55.193Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/6112802",
+      "description": "A mva moldes está contratando! Estamos buscando um(a) projetista de moldes para injeção plástica com experiência prática, visão completa do processo de construção de moldes e facil",
+      "descriptionSnippet": "A mva moldes está contratando! Estamos buscando um(a) projetista de moldes para injeção plástica com experiência prática, visão completa do processo de construção de moldes e facil",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "154a16c299d59ee1",
+      "title": "Projetista",
+      "company": "Rotal",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": "remote",
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-07-21T07:30:56.103Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/6100338",
+      "description": "Empresa de metalurgia especializada em móveis hospitalares contrata projetista. Venha fazer parte do nosso time e construa um futuro com a gente!.",
+      "descriptionSnippet": "Empresa de metalurgia especializada em móveis hospitalares contrata projetista. Venha fazer parte do nosso time e construa um futuro com a gente!.",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "cd28591ab62df58e",
+      "title": "Projetista",
+      "company": "Rotal",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": "remote",
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-07-21T07:27:19.643Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/6100181",
+      "description": "Empresa de metalurgia especializada em móveis hospitalares contrata projetista para fazer parte do nosso time. Requisitos: desenvolvimento de projetos de móveis hospitalares e estr",
+      "descriptionSnippet": "Empresa de metalurgia especializada em móveis hospitalares contrata projetista para fazer parte do nosso time. Requisitos: desenvolvimento de projetos de móveis hospitalares e estr",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "3efdc4d4757a88d7",
+      "title": "Projetista",
+      "company": "Rotal",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": "remote",
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-07-14T07:26:57.333Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/6087343",
+      "description": "Empresa de metalurgia especializada em móveis hospitalares contrata projetista para fazer parte do nosso time. Requisitos: desenvolvimento de projetos de móveis hospitalares e estr",
+      "descriptionSnippet": "Empresa de metalurgia especializada em móveis hospitalares contrata projetista para fazer parte do nosso time. Requisitos: desenvolvimento de projetos de móveis hospitalares e estr",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "5b6684f2611058f2",
+      "title": "Projetista",
+      "company": "@empregarpravencer",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": "remote",
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-09-04T06:14:59.333Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/6167952",
+      "description": "(Email Confidencial) você atende aos requisitos, .",
+      "descriptionSnippet": "(Email Confidencial) você atende aos requisitos, .",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "bfbd57e6eed88fc1",
+      "title": "Projetista",
+      "company": "@empregarpravencer",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": "remote",
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-09-04T06:15:12.057Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/6167953",
+      "description": "(Informação Confidencial). Requisitos: Formação em arquitetura ou design de interiores. experiência em promob. Conhecimento em desenvolvimento de projetos de móveis planejados. .",
+      "descriptionSnippet": "(Informação Confidencial). Requisitos: Formação em arquitetura ou design de interiores. experiência em promob. Conhecimento em desenvolvimento de projetos de móveis planejados. .",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "8ac45b30acfaeef4",
+      "title": "Projetista",
+      "company": "FIRST STEP",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": "remote",
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2024-08-05T03:33:38.587Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/4439403",
+      "description": "",
+      "descriptionSnippet": "",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "eac0c66965560538",
+      "title": "Projetista",
+      "company": "Confidencial",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": "remote",
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-01-15T07:37:48.407Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/5730088",
+      "description": "Desenvolver projetos de móveis novos ou atualizar os existentes, com base em tendências de mercado, necessidades do cliente e objetivos da empresa. Requisitos para função: experiên",
+      "descriptionSnippet": "Desenvolver projetos de móveis novos ou atualizar os existentes, com base em tendências de mercado, necessidades do cliente e objetivos da empresa. Requisitos para função: experiên",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "f4ec74ac4660ab0e",
+      "title": "Projetista",
+      "company": "CONTEL ENGENHARIA",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": "remote",
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-06-16T11:17:02.36Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/6023223",
+      "description": "Estamos com diversas vagas abertas em diferentes regiões do brasil e buscamos profissionais comprometidos, proativos e que queiram crescer junto com a gente! Vagas disponíveis: Pro",
+      "descriptionSnippet": "Estamos com diversas vagas abertas em diferentes regiões do brasil e buscamos profissionais comprometidos, proativos e que queiram crescer junto com a gente! Vagas disponíveis: Pro",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "5076da2f6c9da0b0",
+      "title": "Projetista",
+      "company": "Espaço Planejar",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": "remote",
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-06-10T02:41:19.463Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/6007350",
+      "description": "Estamos contratando projetista. Requisitos necessários: - Formação em arquitetura ou design de interiores - Habilidades em promob, autocad, scketchup - Bom relacionamento em equipe",
+      "descriptionSnippet": "Estamos contratando projetista. Requisitos necessários: - Formação em arquitetura ou design de interiores - Habilidades em promob, autocad, scketchup - Bom relacionamento em equipe",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
+    },
+    {
+      "id": "431afcd030b84977",
+      "title": "Projetista",
+      "company": "Dell Anno",
+      "location": "São Paulo / SP",
+      "cityKey": "sao_paulo",
+      "cityLabel": "São Paulo",
+      "source": "BNE",
+      "sourceId": "bne",
+      "sourceType": "scraped",
+      "seniority": "nao_informado",
+      "workplaceType": "remote",
+      "matchedKeyword": "projetista / cadista",
+      "postedAt": "2026-03-10T12:58:07.183Z",
+      "url": "https://www.bne.com.br/vaga-de-emprego-na-area-grafica-em-sao-paulo-sp/projetista/5812753",
+      "description": "Vaga para projetista, para se candidatar envie seu cv para (Email Confidencial).",
+      "descriptionSnippet": "Vaga para projetista, para se candidatar envie seu cv para (Email Confidencial).",
+      "collectedAt": "2026-10-12T19:40:17.429Z"
     }
   ],
   "verdict": "degraded",
