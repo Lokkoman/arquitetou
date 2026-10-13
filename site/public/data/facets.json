@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 360
+      "n": 355
     },
     {
       "label": "Cadista",
@@ -50,7 +50,7 @@
     },
     {
       "label": "Orçamentista",
-      "n": 21
+      "n": 20
     },
     {
       "label": "Consultor / Especialista",
@@ -124,7 +124,7 @@
     },
     {
       "label": "Interiores",
-      "n": 73
+      "n": 72
     },
     {
       "label": "Paisagismo",
@@ -150,7 +150,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 81
+      "n": 79
     },
     {
       "label": "SketchUp",
