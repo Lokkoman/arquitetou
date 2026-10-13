@@ -2,59 +2,63 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 280
+      "n": 298
     },
     {
       "label": "Urbanista",
-      "n": 1
+      "n": 7
     },
     {
       "label": "Projetista",
-      "n": 364
+      "n": 360
     },
     {
       "label": "Cadista",
-      "n": 74
+      "n": 75
     },
     {
       "label": "Desenhista",
-      "n": 111
+      "n": 109
     },
     {
       "label": "Designer de Interiores",
-      "n": 26
+      "n": 38
     },
     {
       "label": "Modelador BIM",
-      "n": 13
+      "n": 14
     },
     {
       "label": "Coordenador de Projetos",
       "n": 8
     },
     {
+      "label": "Gerente de Projetos",
+      "n": 1
+    },
+    {
       "label": "Analista",
-      "n": 95
+      "n": 98
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 90
+      "n": 88
     },
     {
       "label": "Estagiário",
-      "n": 208
+      "n": 209
     },
     {
       "label": "Técnico em Edificações",
-      "n": 81
+      "n": 82
     },
     {
       "label": "Orçamentista",
-      "n": 21
+      "n": 22
     },
     {
       "label": "Consultor / Especialista",
-      "n": 27
+      "n": 28
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -64,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 15
+      "n": 16
     },
     {
       "label": "Projeto executivo",
@@ -76,7 +80,7 @@
     },
     {
       "label": "Legalização / regularização",
-      "n": 9
+      "n": 11
     },
     {
       "label": "Licenciamento",
@@ -88,7 +92,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 21
+      "n": 23
     },
     {
       "label": "Levantamento / as built",
@@ -120,11 +124,11 @@
     },
     {
       "label": "Maquete / renderização",
-      "n": 8
+      "n": 9
     },
     {
       "label": "Interiores",
-      "n": 69
+      "n": 73
     },
     {
       "label": "Paisagismo",
@@ -150,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 78
+      "n": 80
     },
     {
       "label": "SketchUp",
-      "n": 22
+      "n": 29
     },
     {
       "label": "ArchiCAD",
@@ -162,11 +166,11 @@
     },
     {
       "label": "Revit",
-      "n": 33
+      "n": 36
     },
     {
       "label": "BIM",
-      "n": 68
+      "n": 69
     }
   ]
 }
