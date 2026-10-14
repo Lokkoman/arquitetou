@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 298
+      "n": 300
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 358
+      "n": 359
     },
     {
       "label": "Cadista",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 88
+      "n": 89
     },
     {
       "label": "Estagiário",
@@ -50,7 +50,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 82
+      "n": 81
     },
     {
       "label": "Orçamentista",
@@ -116,7 +116,7 @@
     },
     {
       "label": "Restauro / retrofit",
-      "n": 4
+      "n": 5
     },
     {
       "label": "Sustentabilidade / LEED",
@@ -144,7 +144,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 11
+      "n": 12
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 80
+      "n": 82
     },
     {
       "label": "SketchUp",
@@ -166,11 +166,11 @@
     },
     {
       "label": "Revit",
-      "n": 36
+      "n": 37
     },
     {
       "label": "BIM",
-      "n": 69
+      "n": 70
     }
   ]
 }
