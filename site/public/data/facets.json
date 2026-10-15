@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 304
+      "n": 306
     },
     {
       "label": "Urbanista",
@@ -10,11 +10,11 @@
     },
     {
       "label": "Projetista",
-      "n": 360
+      "n": 365
     },
     {
       "label": "Cadista",
-      "n": 76
+      "n": 75
     },
     {
       "label": "Desenhista",
@@ -42,11 +42,11 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 89
+      "n": 90
     },
     {
       "label": "Estagiário",
-      "n": 212
+      "n": 213
     },
     {
       "label": "Técnico em Edificações",
@@ -116,7 +116,7 @@
     },
     {
       "label": "Restauro / retrofit",
-      "n": 4
+      "n": 5
     },
     {
       "label": "Sustentabilidade / LEED",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 73
+      "n": 74
     },
     {
       "label": "Paisagismo",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 81
+      "n": 84
     },
     {
       "label": "SketchUp",
@@ -166,11 +166,11 @@
     },
     {
       "label": "Revit",
-      "n": 36
+      "n": 37
     },
     {
       "label": "BIM",
-      "n": 69
+      "n": 70
     }
   ]
 }
