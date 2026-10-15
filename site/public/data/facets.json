@@ -14,11 +14,11 @@
     },
     {
       "label": "Cadista",
-      "n": 75
+      "n": 76
     },
     {
       "label": "Desenhista",
-      "n": 109
+      "n": 110
     },
     {
       "label": "Designer de Interiores",
@@ -42,11 +42,11 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 94
+      "n": 96
     },
     {
       "label": "Estagiário",
-      "n": 214
+      "n": 215
     },
     {
       "label": "Técnico em Edificações",
@@ -68,11 +68,11 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 16
+      "n": 14
     },
     {
       "label": "Projeto executivo",
-      "n": 22
+      "n": 21
     },
     {
       "label": "Projeto legal / aprovação",
@@ -92,7 +92,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 24
+      "n": 23
     },
     {
       "label": "Levantamento / as built",
@@ -100,7 +100,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 30
+      "n": 28
     },
     {
       "label": "Orçamento / quantitativos",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 75
+      "n": 73
     },
     {
       "label": "Paisagismo",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 85
+      "n": 81
     },
     {
       "label": "SketchUp",
-      "n": 30
+      "n": 29
     },
     {
       "label": "ArchiCAD",
@@ -170,7 +170,7 @@
     },
     {
       "label": "BIM",
-      "n": 71
+      "n": 70
     }
   ]
 }
