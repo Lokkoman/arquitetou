@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 308
+      "n": 317
     },
     {
       "label": "Urbanista",
@@ -10,15 +10,15 @@
     },
     {
       "label": "Projetista",
-      "n": 369
+      "n": 381
     },
     {
       "label": "Cadista",
-      "n": 76
+      "n": 77
     },
     {
       "label": "Desenhista",
-      "n": 112
+      "n": 116
     },
     {
       "label": "Designer de Interiores",
@@ -38,11 +38,11 @@
     },
     {
       "label": "Analista",
-      "n": 99
+      "n": 100
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 96
+      "n": 97
     },
     {
       "label": "Estagiário",
@@ -50,7 +50,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 81
+      "n": 80
     },
     {
       "label": "Orçamentista",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 30
+      "n": 32
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -92,7 +92,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 23
+      "n": 22
     },
     {
       "label": "Levantamento / as built",
@@ -128,11 +128,11 @@
     },
     {
       "label": "Interiores",
-      "n": 74
+      "n": 75
     },
     {
       "label": "Paisagismo",
-      "n": 10
+      "n": 11
     },
     {
       "label": "Planejamento urbano",
