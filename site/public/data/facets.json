@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 319
+      "n": 318
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 375
+      "n": 374
     },
     {
       "label": "Cadista",
@@ -54,7 +54,7 @@
     },
     {
       "label": "Orçamentista",
-      "n": 22
+      "n": 21
     },
     {
       "label": "Consultor / Especialista",
@@ -120,7 +120,7 @@
     },
     {
       "label": "Sustentabilidade / LEED",
-      "n": 3
+      "n": 2
     },
     {
       "label": "Maquete / renderização",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 84
+      "n": 83
     },
     {
       "label": "SketchUp",
-      "n": 32
+      "n": 31
     },
     {
       "label": "ArchiCAD",
