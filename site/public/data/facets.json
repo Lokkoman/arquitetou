@@ -42,7 +42,7 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 96
+      "n": 95
     },
     {
       "label": "Estagiário",
@@ -120,7 +120,7 @@
     },
     {
       "label": "Sustentabilidade / LEED",
-      "n": 2
+      "n": 1
     },
     {
       "label": "Maquete / renderização",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 82
+      "n": 81
     },
     {
       "label": "SketchUp",
-      "n": 30
+      "n": 29
     },
     {
       "label": "ArchiCAD",
