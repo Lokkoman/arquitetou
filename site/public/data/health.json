@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:44:27.020Z",
+  "generatedAt": "2026-10-18T21:27:03.843Z",
   "ok": false,
   "alerts": [
     "bne: DEGRADED — erro em 37% das consultas"
@@ -13,14 +13,14 @@
       "reasons": [
         "erro em 37% das consultas"
       ],
-      "jobsFound": 48,
+      "jobsFound": 62,
       "baselineMedian": 48,
       "errorCount": 20,
       "queriesRun": 54,
       "errorRate": 0.37,
       "dominantError": "HTTP 403",
-      "durationMs": 16399,
-      "lastRunAt": "2026-10-18T18:29:46.503Z"
+      "durationMs": 15629,
+      "lastRunAt": "2026-10-18T21:19:05.041Z"
     },
     "catho": {
       "verdict": "ok",
@@ -31,8 +31,8 @@
       "queriesRun": 530,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 313320,
-      "lastRunAt": "2026-10-18T18:34:44.062Z"
+      "durationMs": 295825,
+      "lastRunAt": "2026-10-18T21:23:43.201Z"
     },
     "empregos": {
       "verdict": "ok",
@@ -43,8 +43,8 @@
       "queriesRun": 52,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 159582,
-      "lastRunAt": "2026-10-18T18:32:10.824Z"
+      "durationMs": 137608,
+      "lastRunAt": "2026-10-18T21:21:07.628Z"
     },
     "gupy-portal": {
       "verdict": "ok",
@@ -67,20 +67,20 @@
       "queriesRun": 125,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 85129,
-      "lastRunAt": "2026-10-18T18:30:54.471Z"
+      "durationMs": 79331,
+      "lastRunAt": "2026-10-18T21:20:08.111Z"
     },
     "linkedin": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 92,
-      "baselineMedian": 93.5,
-      "errorCount": 9,
-      "queriesRun": 507,
-      "errorRate": 0.018,
+      "jobsFound": 87,
+      "baselineMedian": 92,
+      "errorCount": 19,
+      "queriesRun": 471,
+      "errorRate": 0.04,
       "dominantError": "HTTP 429",
-      "durationMs": 479953,
-      "lastRunAt": "2026-10-18T18:37:29.375Z"
+      "durationMs": 479569,
+      "lastRunAt": "2026-10-18T21:26:48.426Z"
     },
     "vagas-com": {
       "verdict": "ok",

@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 377
+      "n": 382
     },
     {
       "label": "Cadista",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 217
+      "n": 218
     },
     {
       "label": "Técnico em Edificações",
@@ -68,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 14
+      "n": 15
     },
     {
       "label": "Projeto executivo",
@@ -92,7 +92,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 22
+      "n": 23
     },
     {
       "label": "Levantamento / as built",
@@ -100,7 +100,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 28
+      "n": 29
     },
     {
       "label": "Orçamento / quantitativos",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 74
+      "n": 76
     },
     {
       "label": "Paisagismo",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 81
+      "n": 85
     },
     {
       "label": "SketchUp",
-      "n": 29
+      "n": 30
     },
     {
       "label": "ArchiCAD",
@@ -166,11 +166,11 @@
     },
     {
       "label": "Revit",
-      "n": 36
+      "n": 38
     },
     {
       "label": "BIM",
-      "n": 72
+      "n": 73
     }
   ]
 }
