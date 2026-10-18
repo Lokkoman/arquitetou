@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 321
+      "n": 320
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 376
+      "n": 377
     },
     {
       "label": "Cadista",
@@ -54,7 +54,7 @@
     },
     {
       "label": "Orçamentista",
-      "n": 23
+      "n": 24
     },
     {
       "label": "Consultor / Especialista",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 80
+      "n": 81
     },
     {
       "label": "SketchUp",

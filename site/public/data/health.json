@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T14:02:11.949Z",
+  "generatedAt": "2026-10-18T18:44:27.020Z",
   "ok": false,
   "alerts": [
     "bne: DEGRADED — erro em 37% das consultas"
@@ -19,20 +19,20 @@
       "queriesRun": 54,
       "errorRate": 0.37,
       "dominantError": "HTTP 403",
-      "durationMs": 19153,
-      "lastRunAt": "2026-10-18T13:48:43.763Z"
+      "durationMs": 16399,
+      "lastRunAt": "2026-10-18T18:29:46.503Z"
     },
     "catho": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 508,
-      "baselineMedian": 508.5,
+      "jobsFound": 507,
+      "baselineMedian": 509,
       "errorCount": 0,
       "queriesRun": 530,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 308592,
-      "lastRunAt": "2026-10-18T13:53:32.505Z"
+      "durationMs": 313320,
+      "lastRunAt": "2026-10-18T18:34:44.062Z"
     },
     "empregos": {
       "verdict": "ok",
@@ -43,8 +43,8 @@
       "queriesRun": 52,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 133554,
-      "lastRunAt": "2026-10-18T13:50:34.391Z"
+      "durationMs": 159582,
+      "lastRunAt": "2026-10-18T18:32:10.824Z"
     },
     "gupy-portal": {
       "verdict": "ok",
@@ -67,20 +67,20 @@
       "queriesRun": 125,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 78363,
-      "lastRunAt": "2026-10-18T13:49:40.040Z"
+      "durationMs": 85129,
+      "lastRunAt": "2026-10-18T18:30:54.471Z"
     },
     "linkedin": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 98,
+      "jobsFound": 92,
       "baselineMedian": 93.5,
-      "errorCount": 33,
-      "queriesRun": 436,
-      "errorRate": 0.076,
+      "errorCount": 9,
+      "queriesRun": 507,
+      "errorRate": 0.018,
       "dominantError": "HTTP 429",
-      "durationMs": 412466,
-      "lastRunAt": "2026-10-18T13:55:15.019Z"
+      "durationMs": 479953,
+      "lastRunAt": "2026-10-18T18:37:29.375Z"
     },
     "vagas-com": {
       "verdict": "ok",
