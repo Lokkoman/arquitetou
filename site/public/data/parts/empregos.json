@@ -1,8 +1,8 @@
 {
   "sourceId": "empregos",
   "name": "Empregos.com.br",
-  "collectedAt": "2026-10-18T05:32:14.743Z",
-  "durationMs": 132338,
+  "collectedAt": "2026-10-18T13:50:34.391Z",
+  "durationMs": 133554,
   "queriesRun": 52,
   "ok": true,
   "aborted": false,
@@ -22,11 +22,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-10-10T05:30:03.645Z",
+      "postedAt": "2026-10-09T13:48:22.660Z",
       "url": "https://www.empregos.com.br/vaga/11898678/arquiteto-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-18T05:32:14.722Z"
+      "collectedAt": "2026-10-18T13:50:34.374Z"
     },
     {
       "id": "601bd47ff3b27699",
@@ -41,11 +41,11 @@
       "seniority": "nao_informado",
       "workplaceType": "on-site",
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-09-26T05:30:03.650Z",
+      "postedAt": "2026-09-25T13:48:22.663Z",
       "url": "https://www.empregos.com.br/vaga/11862617/arquiteto-em-sao-paulo-sp",
       "description": "Estamos contratando: Arquiteto(a) Pleno Criação e Executivo Modelo de trabalho: presencial Início: imediato Principais atribuições Desenvolver projetos de criação e projetos executivos; Elaborar especificações técnicas de acabamentos; Compatibilizar projetos executivos em CAD; Apoiar o relacionamento com clientes e fornecedores; Trabalhar de forma alinhada aos prazos e às necessidades do escritório e dos clientes. Requisitos Formação em Arquitetura e Urbanismo, com CAU ativo; Experiência comprovada mínima de 3 anos em criação e desenvolvimento de projetos executivos de arquitetura de interiores; Domínio de AutoCAD e SketchUp; Conhecimento do Pacote Office; Boa comunicação, organização e responsabilidade com prazos.",
       "descriptionSnippet": "Estamos contratando: Arquiteto(a) Pleno Criação e Executivo Modelo de trabalho: presencial Início: imediato Principais atribuições Desenvolver projetos de criação e projetos executivos; Elaborar especificações técnicas de acabamentos; Compa…",
-      "collectedAt": "2026-10-18T05:32:14.726Z"
+      "collectedAt": "2026-10-18T13:50:34.377Z"
     },
     {
       "id": "b4e4b205a253b37c",
@@ -60,11 +60,11 @@
       "seniority": "nao_informado",
       "workplaceType": "on-site",
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-09-25T05:30:03.651Z",
+      "postedAt": "2026-09-24T13:48:22.664Z",
       "url": "https://www.empregos.com.br/vaga/11859137/arquiteto-em-sao-paulo-sp",
       "description": "Estamos contratando: Arquiteto(a) Pleno — Criação e ExecutivoModelo de trabalho: presencialInício: imediatoPrincipais atribuiçõesDesenvolver projetos de criação e projetos executivos;Elaborar especificações técnicas de acabamentos;Compatibilizar projetos executivos em CAD;Apoiar o relacionamento com clientes e fornecedores;Trabalhar de forma alinhada aos prazos e às necessidades do escritório e dos clientes.RequisitosFormação em Arquitetura e Urbanismo, com CAU ativo;Experiência comprovada mínima de 3 anos em criação e desenvolvimento de projetos executivos de arquitetura de interiores;Domínio de AutoCAD e SketchUp;Conhecimento do Pacote Office;Boa comunicação, organização e responsabilidade com prazos.",
       "descriptionSnippet": "Estamos contratando: Arquiteto(a) Pleno — Criação e ExecutivoModelo de trabalho: presencialInício: imediatoPrincipais atribuiçõesDesenvolver projetos de criação e projetos executivos;Elaborar especificações técnicas de acabamentos;Compatibi…",
-      "collectedAt": "2026-10-18T05:32:14.727Z"
+      "collectedAt": "2026-10-18T13:50:34.378Z"
     },
     {
       "id": "515d9f9667a964e6",
@@ -79,11 +79,11 @@
       "seniority": "junior",
       "workplaceType": null,
       "matchedKeyword": "obra / acompanhamento",
-      "postedAt": "2026-10-17T05:30:03.656Z",
+      "postedAt": "2026-10-16T13:48:22.668Z",
       "url": "https://www.empregos.com.br/vaga/11920569/arquiteto-de-obras-e-implantacao-junior-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-18T05:32:14.728Z"
+      "collectedAt": "2026-10-18T13:50:34.379Z"
     },
     {
       "id": "5c578ec46901c40b",
@@ -98,11 +98,11 @@
       "seniority": "pleno",
       "workplaceType": null,
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-10-16T05:30:03.657Z",
+      "postedAt": "2026-10-15T13:48:22.668Z",
       "url": "https://www.empregos.com.br/vaga/11916693/arquiteto-pleno-novos-negocios-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-18T05:32:14.728Z"
+      "collectedAt": "2026-10-18T13:50:34.379Z"
     },
     {
       "id": "f40056847d68cb1e",
@@ -117,11 +117,11 @@
       "seniority": "estagio",
       "workplaceType": null,
       "matchedKeyword": "urbanismo",
-      "postedAt": "2026-10-08T05:30:08.692Z",
+      "postedAt": "2026-10-08T13:48:27.638Z",
       "url": "https://www.empregos.com.br/vaga/11889964/estagio-em-arquitetura-e-urbanismo-causp-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-18T05:32:14.729Z"
+      "collectedAt": "2026-10-18T13:50:34.379Z"
     },
     {
       "id": "767e013481b30386",
@@ -136,11 +136,11 @@
       "seniority": "estagio",
       "workplaceType": null,
       "matchedKeyword": "urbanismo",
-      "postedAt": "2026-10-14T05:30:11.193Z",
+      "postedAt": "2026-10-14T13:48:30.122Z",
       "url": "https://www.empregos.com.br/vaga/11905219/estagio-em-arquitetura-e-urbanismo-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-18T05:32:14.729Z"
+      "collectedAt": "2026-10-18T13:50:34.379Z"
     },
     {
       "id": "561865be0081e127",
@@ -155,11 +155,11 @@
       "seniority": "estagio",
       "workplaceType": null,
       "matchedKeyword": "urbanismo",
-      "postedAt": "2026-10-08T05:30:11.196Z",
+      "postedAt": "2026-10-08T13:48:30.126Z",
       "url": "https://www.empregos.com.br/vaga/11889950/estagio-em-arquitetura-e-urbanismo-causp-em-sao-paulo-sp",
       "description": "...o 5º ao 10º semestre da graduação em Arquitetura e Urbanismo2. Perfil acadêmico, com foco em pesquisas relacionadas a ensino e formação de arquitetura e urbanismo, planejamento urbano, habitação social, assistência técnica para habitação de interesse social, gênero, patrimônio histórico cultural, BIM (entre outros);3. Domínio da escrita na língua portuguesa: ...",
       "descriptionSnippet": "...o 5º ao 10º semestre da graduação em Arquitetura e Urbanismo2. Perfil acadêmico, com foco em pesquisas relacionadas a ensino e formação de arquitetura e urbanismo, planejamento urbano, habitação social, assistência técnica para habitação…",
-      "collectedAt": "2026-10-18T05:32:14.732Z"
+      "collectedAt": "2026-10-18T13:50:34.382Z"
     },
     {
       "id": "6522c9cb00c1ff6a",
@@ -174,11 +174,11 @@
       "seniority": "estagio",
       "workplaceType": null,
       "matchedKeyword": "urbanismo",
-      "postedAt": "2026-09-22T05:30:11.197Z",
+      "postedAt": "2026-09-22T13:48:30.126Z",
       "url": "https://www.empregos.com.br/vaga/11849069/estagio-em-arquitetura-e-urbanismo-em-sao-paulo-sp",
       "description": "Área e especialização profissional: Arquitetura, Decoração, Design - Arquitetura, Urbanismo Nível hierárquico: Estagiário Lugar de trabalho: São Paulo, SP Regime de contratação de tipo Estágio Jornada Parcial manhãs O que você precisa ter e saber: Cursando Arquitetura e Urbanismo. Bom conhecimento em Autocad. Local de trabalho Região central de São Paulo. Estamos localizados próximo ao portão 9 do Parque, Monumento às Bandeiras e ...",
       "descriptionSnippet": "Área e especialização profissional: Arquitetura, Decoração, Design - Arquitetura, Urbanismo Nível hierárquico: Estagiário Lugar de trabalho: São Paulo, SP Regime de contratação de tipo Estágio Jornada Parcial manhãs O que você precisa ter e…",
-      "collectedAt": "2026-10-18T05:32:14.732Z"
+      "collectedAt": "2026-10-18T13:50:34.382Z"
     },
     {
       "id": "8e22e7ee41eff19f",
@@ -193,11 +193,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "urbanismo",
-      "postedAt": "2026-10-06T05:30:11.198Z",
+      "postedAt": "2026-10-06T13:48:30.127Z",
       "url": "https://www.empregos.com.br/vaga/11885637/aux-de-planejamento-de-obras-estudante-de-engenharia-ou-arquitetura-e-urbanismo-em-sao-paulo-sp",
       "description": "Área e especialização profissional: Arquitetura, Decoração, Design - Arquitetura, Urbanismo Nível hierárquico: Auxiliar Lugar de trabalho: São Paulo, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral O que oferecemos: Centro ...",
       "descriptionSnippet": "Área e especialização profissional: Arquitetura, Decoração, Design - Arquitetura, Urbanismo Nível hierárquico: Auxiliar Lugar de trabalho: São Paulo, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral O que oferecemos:…",
-      "collectedAt": "2026-10-18T05:32:14.732Z"
+      "collectedAt": "2026-10-18T13:50:34.382Z"
     },
     {
       "id": "a984310dfe73b311",
@@ -212,11 +212,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "urbanismo",
-      "postedAt": "2026-09-18T05:30:11.198Z",
+      "postedAt": "2026-09-18T13:48:30.128Z",
       "url": "https://www.empregos.com.br/vaga/11840915/assist-de-arquitetura-e-urbanismo-proj-executivo-em-sao-paulo-sp",
       "description": "...o Gestor do departamento na elaboração dos detalhes técnicos determinados pelo Diretor de Obras.O que você precisa ter e saber: Superior completo em Arquitetura e Urbanismo.Experiência com projeto executivo.Local de trabalho Região central de São Paulo. Estamos localizados próximo ao portão 9 do Parque Ibirapuera e Monumento às Bandeiras.O que ...",
       "descriptionSnippet": "...o Gestor do departamento na elaboração dos detalhes técnicos determinados pelo Diretor de Obras.O que você precisa ter e saber: Superior completo em Arquitetura e Urbanismo.Experiência com projeto executivo.Local de trabalho Região centr…",
-      "collectedAt": "2026-10-18T05:32:14.732Z"
+      "collectedAt": "2026-10-18T13:50:34.382Z"
     },
     {
       "id": "f6af188f75b833cd",
@@ -231,11 +231,11 @@
       "seniority": "senior",
       "workplaceType": null,
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-09-29T05:30:18.993Z",
+      "postedAt": "2026-09-29T13:48:37.786Z",
       "url": "https://www.empregos.com.br/vaga/11867116/arquiteto-senior-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-18T05:32:14.733Z"
+      "collectedAt": "2026-10-18T13:50:34.383Z"
     },
     {
       "id": "3110a434dd656045",
@@ -250,11 +250,11 @@
       "seniority": "senior",
       "workplaceType": null,
       "matchedKeyword": "a revisar",
-      "postedAt": "2026-09-29T05:30:18.994Z",
+      "postedAt": "2026-09-29T13:48:37.786Z",
       "url": "https://www.empregos.com.br/vaga/11866068/engenheiro-civil-senior-incorporacao-imobiliaria-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-18T05:32:14.733Z"
+      "collectedAt": "2026-10-18T13:50:34.383Z"
     },
     {
       "id": "165045b9fadd1e41",
@@ -269,11 +269,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "licenciamento",
-      "postedAt": "2026-10-08T05:30:26.707Z",
+      "postedAt": "2026-10-08T13:48:45.323Z",
       "url": "https://www.empregos.com.br/vaga/11889917/analista-de-licenciamento-118015-em-sao-paulo-sp",
       "description": "...a a Pessoas com Deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de profissionais de todos os perfil.Regularizações cadastrais e imobiliárias de estabelecimentos;Processos de licenciamento e regularização de empresas e estabelecimentos;Alvarás de Funcionamento e demais licenças municipais, baixo, médio e alto risco;Processos e licenças perante Vigilância Sanitária, médio e alto risco;Processos junto ao Corpo de Bombeiros, incluindo regularizações, licenças e acompanhamento das exigências;Análise e acompanhamento de projetos e documentos técnicos necessários aos processos de licenciamento;Elaboração, análise e validação de documentação técnica;Conhecimento e acompanhamento de documentos como RIT, PPCI, EIV e demais estudos, projetos, laudos, memoriais e documentos técnicos aplicáveis a cada processo;Interpretação de legislação municipal, estadual e normas técnicas aplicáveis ao licenciamento;Análise de exigências e notificações emitidas pelos órgãos competentes;Acompanhamento de processos administrativos perante Prefeituras, Vigilâncias Sanitárias, Corpos de Bombeiros e demais órgãos reguladores;Levantamento e conferência de documentos necessários para cada tipo de regularização;Controle de protocolos, prazos, SLAs, pendências e renovações de licenças;Atuação com processos de regularização e atualização de estabelecimentos já existentes, além de novas implantações.No ManpowerGroup, a sua carreira tem um novo rumo! Se você está em busca de crescimento, desafios e um ambiente que valoriza o seu potencial, venha fazer parte do nosso time. Aqui, cada talento é reconhecido e valorizado.Candidate-se agora e transforme seu futuro com a gente !Requisitos e qualificaçõesEnsino Superior completo ou cursando em Engenharia ou Arquitetura, preferencialmente nos últimos anos da graduação, em razão da natureza técnica das atividades e dos documentos envolvidos nos processos.Vivência prática, preferencialmente em âmbito nacional, com regularização cadastral e imobiliária de estabelecimentos;Vivência em processos de licenciamento e regularização de empresas e estabelecimentos;Vivência com Alvarás de Funcionamento e demais licenças municipais para estabelecimentos de baixo, médio e alto risco;Vivência em processos e licenças junto à Vigilância Sanitária, especialmente para estabelecimentos de médio e alto risco;Vivência em processos junto ao Corpo de Bombeiros, incluindo regularizações, licenças e acompanhamento de exigências;Análise e acompanhamento de projetos e documentos técnicos necessários aos processos de licenciamento;Elaboração, análise e validação de documentação técnica;Conhecimento e acompanhamento de documentos como RIT, PPCI, EIV, além de estudos, projetos, laudos, memoriais e demais documentos técnicos aplicáveis a cada processo;Interpretação de legislação municipal, estadual e normas técnicas relacionadas aos processos de licenciamento e regularização;Análise de exigências e notificações emitidas pelos órgãos competentes;Acompanhamento de processos administrativos perante Prefeituras, Vigilâncias Sanitárias, Corpos de Bombeiros e demais órgãos reguladores;Levantamento, conferência e organização de documentos necessários para cada tipo de regularização;Controle de protocolos, prazos, SLAs, pendências e renovações de licenças;Atuação em processos de regularização e atualização de estabelecimentos existentes, além de suporte a novas implantações;Visão ampla dos processos de regularização e licenciamento;Conhecimento técnico em ALF (Alvará de Funcionamento), VISA (Vigilância Sanitária) e processos do Corpo de Bombeiros;Capacidade de atuar de forma integrada nas diferentes etapas dos ...",
       "descriptionSnippet": "...a a Pessoas com Deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de profissionais de todos os perfil.Regularizações cadastrais e imobiliárias de estabelecimentos;Processos de licenciamento e regularização de empr…",
-      "collectedAt": "2026-10-18T05:32:14.734Z"
+      "collectedAt": "2026-10-18T13:50:34.383Z"
     },
     {
       "id": "a0152bbb3f41e97c",
@@ -288,11 +288,11 @@
       "seniority": "pleno",
       "workplaceType": null,
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-09-30T05:30:34.500Z",
+      "postedAt": "2026-09-30T13:48:53.305Z",
       "url": "https://www.empregos.com.br/vaga/11867115/arquiteto-pleno-em-sao-paulo-sp",
       "description": "Experiência com empreendimento habitacionais do programa Minha Casa, Minha Vida (Caixa Econômica Federal)-HIS/HMP. Finalização de Estudo de massas, desenvolvimento de Projeto Executivo e Legal. Interiores. Ilustrações/3D. Memoriais. etc. Concepção e detalhamento de stands de vendas e unidades decoradas. Compatibilização de projetos, através da análise da legislação vigente, garantindo validação legal e viabilidade da obra. Interface entre equipes de Legalização, Projetos, Engenharia, Orçamentos e Suprimentos, para garantia da viabilidade do negócio. Elaboração dos manuais de ...",
       "descriptionSnippet": "Experiência com empreendimento habitacionais do programa Minha Casa, Minha Vida (Caixa Econômica Federal)-HIS/HMP. Finalização de Estudo de massas, desenvolvimento de Projeto Executivo e Legal. Interiores. Ilustrações/3D. Memoriais. etc. Co…",
-      "collectedAt": "2026-10-18T05:32:14.735Z"
+      "collectedAt": "2026-10-18T13:50:34.384Z"
     },
     {
       "id": "2a2332bff1c63ba2",
@@ -307,11 +307,11 @@
       "seniority": "estagio",
       "workplaceType": null,
       "matchedKeyword": "a revisar",
-      "postedAt": "2026-10-08T05:30:54.151Z",
+      "postedAt": "2026-10-08T13:49:13.007Z",
       "url": "https://www.empregos.com.br/vaga/11889876/estagio-em-gestao-de-politicas-publicas-causp-em-sao-paulo-sp",
       "description": "...l acadêmico, com foco em pesquisas relacionadas a políticas públicas urbanas, tais como planejamento urbano, habitação social, assistência técnica para habitação de interesse social, gênero, patrimônio histórico cultural, (entre outros);3. Domínio da escrita na língua portuguesa: ortografia, concordância verbal e nominal, regência verbal, acentuação, sintaxe, coesão e coerência textual e lógica ...",
       "descriptionSnippet": "...l acadêmico, com foco em pesquisas relacionadas a políticas públicas urbanas, tais como planejamento urbano, habitação social, assistência técnica para habitação de interesse social, gênero, patrimônio histórico cultural, (entre outros);…",
-      "collectedAt": "2026-10-18T05:32:14.736Z"
+      "collectedAt": "2026-10-18T13:50:34.385Z"
     },
     {
       "id": "359bb827b9052b97",
@@ -326,11 +326,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "a revisar",
-      "postedAt": "2026-09-17T05:31:04.195Z",
+      "postedAt": "2026-09-17T13:49:23.026Z",
       "url": "https://www.empregos.com.br/vaga/11840334/vistoriador-de-imoveis-pj-zona-sulsp-em-sao-paulo-sp",
       "description": "...r comparações minuciosas com base em relatórios e documentos; Registrar as informações captadas em forma de texto detalhado com fotos para elaboração do relatório de vistoria através de aplicativo para tablet; Realizar conferência de reparos e divergências; Realizar treinamento e acompanhamento de novos vistoriadores. Pré-requisitos: Ensino médio completo; Conhecimentos básicos ...",
       "descriptionSnippet": "...r comparações minuciosas com base em relatórios e documentos; Registrar as informações captadas em forma de texto detalhado com fotos para elaboração do relatório de vistoria através de aplicativo para tablet; Realizar conferência de rep…",
-      "collectedAt": "2026-10-18T05:32:14.738Z"
+      "collectedAt": "2026-10-18T13:50:34.386Z"
     },
     {
       "id": "b1d5e4bf53f76492",
@@ -345,11 +345,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "a revisar",
-      "postedAt": "2026-09-17T05:31:04.195Z",
+      "postedAt": "2026-09-17T13:49:23.026Z",
       "url": "https://www.empregos.com.br/vaga/11840333/vistoriador-de-imoveis-pj-zona-nortesp-em-sao-paulo-sp",
       "description": "...r comparações minuciosas com base em relatórios e documentos; Registrar as informações captadas em forma de texto detalhado com fotos para elaboração do relatório de vistoria através de aplicativo para tablet; Realizar conferência de reparos e divergências; Realizar treinamento e acompanhamento de novos vistoriadores. Pré-requisitos: Ensino médio completo; Conhecimentos básicos ...",
       "descriptionSnippet": "...r comparações minuciosas com base em relatórios e documentos; Registrar as informações captadas em forma de texto detalhado com fotos para elaboração do relatório de vistoria através de aplicativo para tablet; Realizar conferência de rep…",
-      "collectedAt": "2026-10-18T05:32:14.738Z"
+      "collectedAt": "2026-10-18T13:50:34.386Z"
     },
     {
       "id": "5e5d4706a0e9bc5c",
@@ -364,11 +364,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "a revisar",
-      "postedAt": "2026-09-17T05:31:04.196Z",
+      "postedAt": "2026-09-17T13:49:23.027Z",
       "url": "https://www.empregos.com.br/vaga/11839761/vistoriador-de-imoveis-pj-zona-sulsp-em-sao-paulo-sp",
       "description": "...r comparações minuciosas com base em relatórios e documentos; Registrar as informações captadas em forma de texto detalhado com fotos para elaboração do relatório de vistoria através de aplicativo para tablet; Realizar conferência de reparos e divergências; Realizar treinamento e acompanhamento de novos vistoriadores. Pré-requisitos: Ensino médio completo; Conhecimentos básicos ...",
       "descriptionSnippet": "...r comparações minuciosas com base em relatórios e documentos; Registrar as informações captadas em forma de texto detalhado com fotos para elaboração do relatório de vistoria através de aplicativo para tablet; Realizar conferência de rep…",
-      "collectedAt": "2026-10-18T05:32:14.738Z"
+      "collectedAt": "2026-10-18T13:50:34.386Z"
     },
     {
       "id": "73d693fd62123e8c",
@@ -383,11 +383,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "a revisar",
-      "postedAt": "2026-09-17T05:31:04.197Z",
+      "postedAt": "2026-09-17T13:49:23.028Z",
       "url": "https://www.empregos.com.br/vaga/11839760/vistoriador-de-imoveis-pj-zona-nortesp-em-sao-paulo-sp",
       "description": "...r comparações minuciosas com base em relatórios e documentos; Registrar as informações captadas em forma de texto detalhado com fotos para elaboração do relatório de vistoria através de aplicativo para tablet; Realizar conferência de reparos e divergências; Realizar treinamento e acompanhamento de novos vistoriadores. Pré-requisitos: Ensino médio completo; Conhecimentos básicos ...",
       "descriptionSnippet": "...r comparações minuciosas com base em relatórios e documentos; Registrar as informações captadas em forma de texto detalhado com fotos para elaboração do relatório de vistoria através de aplicativo para tablet; Realizar conferência de rep…",
-      "collectedAt": "2026-10-18T05:32:14.738Z"
+      "collectedAt": "2026-10-18T13:50:34.386Z"
     },
     {
       "id": "70045ce11a3958b3",
@@ -402,11 +402,11 @@
       "seniority": "nao_informado",
       "workplaceType": null,
       "matchedKeyword": "a revisar",
-      "postedAt": "2026-10-09T05:31:26.806Z",
+      "postedAt": "2026-10-09T13:49:45.562Z",
       "url": "https://www.empregos.com.br/vaga/11895758/auxiliar-de-manutencao-predial-guarulhossp-em-guarulhos-sp",
       "description": "...s componentes; Identificar e corrigir problemas de encanamento, vazamentos ou entupimentos; Auxiliar na pintura, reparo e substituição de drywall, pisos e revestimentos; Executar tarefas de paisagismo, como corte de grama, poda de árvores e manutenção de áreas externas; Manter registros precisos de todas as atividades de manutenção realizadas; Colaborar com ...",
       "descriptionSnippet": "...s componentes; Identificar e corrigir problemas de encanamento, vazamentos ou entupimentos; Auxiliar na pintura, reparo e substituição de drywall, pisos e revestimentos; Executar tarefas de paisagismo, como corte de grama, poda de árvore…",
-      "collectedAt": "2026-10-18T05:32:14.740Z"
+      "collectedAt": "2026-10-18T13:50:34.388Z"
     },
     {
       "id": "78d514323fd9686c",
@@ -421,11 +421,11 @@
       "seniority": "nao_informado",
       "workplaceType": "hybrid",
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-10-16T05:31:29.403Z",
+      "postedAt": "2026-10-16T13:49:48.153Z",
       "url": "https://www.empregos.com.br/vaga/11917933/architect-on-premises-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-18T05:32:14.740Z"
+      "collectedAt": "2026-10-18T13:50:34.388Z"
     },
     {
       "id": "f87f4249b83e06f4",
@@ -440,11 +440,11 @@
       "seniority": "nao_informado",
       "workplaceType": "on-site",
       "matchedKeyword": "interiores",
-      "postedAt": "2026-10-07T05:31:32.003Z",
+      "postedAt": "2026-10-07T13:49:50.747Z",
       "url": "https://www.empregos.com.br/vaga/11887050/assistente-design-de-interiores-pj-em-barueri-sp",
       "description": "Estamos em busca de um(a) Assistente de Design de Interiores para integrar a equipe de um escritório de Arquitetura e Interiores, atuando no desenvolvimento e acompanhamento de projetos residenciais de alto padrão. Principais responsabilidades Apoiar o desenvolvimento e a execução de projetos de interiores; Realizar pesquisas e seleção de mobiliário, tecidos, tapetes, iluminação, objetos e itens de decoração; Realizar contato com fornecedores, lojas e showrooms; Solicitar e acompanhar orçamentos e cotações; Elaborar e atualizar especificações, planilhas e controles de pedidos; Acompanhar pedidos, entregas e prazos; Realizar visitas a fornecedores, lojas e obras; Apoiar montagens e etapas finais dos projetos; Dar suporte à equipe nas rotinas relacionadas aos projetos de interiores. Requisitos Formação ou graduação em andamento em Design de Interiores ou Arquitetura; Experiência anterior na área de interiores, arquitetura ou design; Vivência em escritórios de arquitetura e interiores, preferencialmente no segmento de alto padrão; Conhecimento de marcas, fornecedores, showrooms e lojas de mobiliário, tecidos, tapetes, iluminação e decoração; Familiaridade com marcas como Artefacto, Entreposto, Donatelli, JRJ e similares; Conhecimento de AutoCAD e boa leitura de projetos; Bom repertório em design, arquitetura, arte e decoração; Organização para trabalhar com especificações, cotações, planilhas e acompanhamento de pedidos; Disponibilidade para visitas a fornecedores, lojas, obras e montagens; Carro próprio e disponibilidade para deslocamentos. Perfil desejado Buscamos uma pessoa organizada, ágil, proativa e com senso estético apurado, que tenha interesse pelo universo de interiores e decoração e vontade de se desenvolver profissionalmente em um escritório consolidado no segmento de alto padrão. Diferenciais Vivência em projetos residenciais de alto padrão; Experiência em escritórios de arquitetura e interiores de maior porte ou reconhecidos no segmento; Vivência internacional; Conhecimento de inglês ou outro idioma. Informações da vaga Local: Alphaville – Barueri/SP Modelo: Presencial Contratação: PJ Remuneração: R$ 4.000 a R$ 5.000, conforme experiência Horário: Segunda a sexta-feira, das 8h às 17h",
       "descriptionSnippet": "Estamos em busca de um(a) Assistente de Design de Interiores para integrar a equipe de um escritório de Arquitetura e Interiores, atuando no desenvolvimento e acompanhamento de projetos residenciais de alto padrão. Principais responsabilida…",
-      "collectedAt": "2026-10-18T05:32:14.740Z"
+      "collectedAt": "2026-10-18T13:50:34.389Z"
     },
     {
       "id": "9f5849330a5f6586",
@@ -459,11 +459,11 @@
       "seniority": "estagio",
       "workplaceType": "hybrid",
       "matchedKeyword": "arquitetura",
-      "postedAt": "2026-10-09T05:31:34.597Z",
+      "postedAt": "2026-10-09T13:49:53.336Z",
       "url": "https://www.empregos.com.br/vaga/11896657/estagio-em-arquitetura-em-sao-paulo-sp",
       "description": "",
       "descriptionSnippet": "",
-      "collectedAt": "2026-10-18T05:32:14.741Z"
+      "collectedAt": "2026-10-18T13:50:34.389Z"
     }
   ],
   "verdict": "ok"
