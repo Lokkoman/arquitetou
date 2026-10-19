@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 320
+      "n": 319
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 382
+      "n": 376
     },
     {
       "label": "Cadista",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 218
+      "n": 219
     },
     {
       "label": "Técnico em Edificações",
@@ -54,7 +54,7 @@
     },
     {
       "label": "Orçamentista",
-      "n": 24
+      "n": 23
     },
     {
       "label": "Consultor / Especialista",
@@ -68,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 15
+      "n": 14
     },
     {
       "label": "Projeto executivo",
@@ -92,7 +92,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 23
+      "n": 22
     },
     {
       "label": "Levantamento / as built",
@@ -100,7 +100,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 29
+      "n": 28
     },
     {
       "label": "Orçamento / quantitativos",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 85
+      "n": 83
     },
     {
       "label": "SketchUp",
@@ -166,11 +166,11 @@
     },
     {
       "label": "Revit",
-      "n": 38
+      "n": 37
     },
     {
       "label": "BIM",
-      "n": 73
+      "n": 72
     }
   ]
 }
