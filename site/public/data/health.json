@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:04:01.229Z",
+  "generatedAt": "2026-10-19T23:01:11.713Z",
   "ok": false,
   "alerts": [
     "bne: DEGRADED — erro em 37% das consultas"
@@ -19,32 +19,32 @@
       "queriesRun": 54,
       "errorRate": 0.37,
       "dominantError": "HTTP 403",
-      "durationMs": 18271,
-      "lastRunAt": "2026-10-19T16:50:43.466Z"
+      "durationMs": 15142,
+      "lastRunAt": "2026-10-19T22:49:27.029Z"
     },
     "catho": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 514,
+      "jobsFound": 518,
       "baselineMedian": 509,
       "errorCount": 0,
       "queriesRun": 530,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 296742,
-      "lastRunAt": "2026-10-19T16:55:22.396Z"
+      "durationMs": 311920,
+      "lastRunAt": "2026-10-19T22:54:26.164Z"
     },
     "empregos": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 24,
+      "jobsFound": 23,
       "baselineMedian": 24,
       "errorCount": 0,
       "queriesRun": 52,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 133804,
-      "lastRunAt": "2026-10-19T16:52:40.148Z"
+      "durationMs": 134534,
+      "lastRunAt": "2026-10-19T22:51:27.304Z"
     },
     "gupy-portal": {
       "verdict": "ok",
@@ -61,26 +61,26 @@
     "infojobs": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 101,
+      "jobsFound": 99,
       "baselineMedian": 95,
       "errorCount": 0,
       "queriesRun": 125,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 90958,
-      "lastRunAt": "2026-10-19T16:51:57.921Z"
+      "durationMs": 90028,
+      "lastRunAt": "2026-10-19T22:50:41.832Z"
     },
     "linkedin": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 95,
+      "jobsFound": 84,
       "baselineMedian": 92,
-      "errorCount": 44,
-      "queriesRun": 414,
-      "errorRate": 0.106,
+      "errorCount": 71,
+      "queriesRun": 316,
+      "errorRate": 0.225,
       "dominantError": "HTTP 429",
-      "durationMs": 393535,
-      "lastRunAt": "2026-10-19T16:57:00.625Z"
+      "durationMs": 304082,
+      "lastRunAt": "2026-10-19T22:54:16.994Z"
     },
     "vagas-com": {
       "verdict": "ok",
