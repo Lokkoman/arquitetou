@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 76
+      "n": 75
     },
     {
       "label": "Paisagismo",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 83
+      "n": 82
     },
     {
       "label": "SketchUp",
-      "n": 30
+      "n": 29
     },
     {
       "label": "ArchiCAD",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 37
+      "n": 36
     },
     {
       "label": "BIM",
