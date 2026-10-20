@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-20T14:58:55.625Z",
+  "generatedAt": "2026-10-20T19:58:05.759Z",
   "ok": false,
   "alerts": [
-    "bne: DEGRADED — erro em 35% das consultas"
+    "bne: DEGRADED — erro em 37% das consultas"
   ],
   "needsReprocess": [
     "bne"
@@ -11,28 +11,28 @@
     "bne": {
       "verdict": "degraded",
       "reasons": [
-        "erro em 35% das consultas"
+        "erro em 37% das consultas"
       ],
-      "jobsFound": 50,
+      "jobsFound": 48,
       "baselineMedian": 48,
-      "errorCount": 19,
+      "errorCount": 20,
       "queriesRun": 54,
-      "errorRate": 0.352,
+      "errorRate": 0.37,
       "dominantError": "HTTP 403",
-      "durationMs": 16749,
-      "lastRunAt": "2026-10-20T14:46:10.800Z"
+      "durationMs": 21672,
+      "lastRunAt": "2026-10-20T19:52:35.766Z"
     },
     "catho": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 518,
+      "jobsFound": 519,
       "baselineMedian": 508,
       "errorCount": 0,
       "queriesRun": 530,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 286704,
-      "lastRunAt": "2026-10-20T14:50:39.584Z"
+      "durationMs": 310947,
+      "lastRunAt": "2026-10-20T19:57:27.277Z"
     },
     "empregos": {
       "verdict": "ok",
@@ -43,8 +43,8 @@
       "queriesRun": 52,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 167134,
-      "lastRunAt": "2026-10-20T14:48:42.219Z"
+      "durationMs": 138702,
+      "lastRunAt": "2026-10-20T19:54:34.334Z"
     },
     "gupy-portal": {
       "verdict": "ok",
@@ -73,14 +73,14 @@
     "linkedin": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 99,
+      "jobsFound": 100,
       "baselineMedian": 89.5,
-      "errorCount": 57,
-      "queriesRun": 374,
-      "errorRate": 0.152,
+      "errorCount": 61,
+      "queriesRun": 331,
+      "errorRate": 0.184,
       "dominantError": "HTTP 429",
-      "durationMs": 362989,
-      "lastRunAt": "2026-10-20T14:51:58.721Z"
+      "durationMs": 335934,
+      "lastRunAt": "2026-10-20T19:57:50.297Z"
     },
     "vagas-com": {
       "verdict": "ok",

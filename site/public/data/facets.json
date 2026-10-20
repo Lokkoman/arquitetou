@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 385
+      "n": 388
     },
     {
       "label": "Cadista",
@@ -38,15 +38,15 @@
     },
     {
       "label": "Analista",
-      "n": 99
+      "n": 98
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 97
+      "n": 98
     },
     {
       "label": "Estagiário",
-      "n": 224
+      "n": 226
     },
     {
       "label": "Técnico em Edificações",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 76
+      "n": 78
     },
     {
       "label": "Paisagismo",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 84
+      "n": 85
     },
     {
       "label": "SketchUp",
@@ -170,7 +170,7 @@
     },
     {
       "label": "BIM",
-      "n": 73
+      "n": 74
     }
   ]
 }
