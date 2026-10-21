@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 327
+      "n": 330
     },
     {
       "label": "Urbanista",
@@ -10,11 +10,11 @@
     },
     {
       "label": "Projetista",
-      "n": 392
+      "n": 396
     },
     {
       "label": "Cadista",
-      "n": 77
+      "n": 76
     },
     {
       "label": "Desenhista",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 98
+      "n": 99
     },
     {
       "label": "Estagiário",
@@ -68,11 +68,11 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 16
+      "n": 17
     },
     {
       "label": "Projeto executivo",
-      "n": 23
+      "n": 24
     },
     {
       "label": "Projeto legal / aprovação",
@@ -80,7 +80,7 @@
     },
     {
       "label": "Legalização / regularização",
-      "n": 10
+      "n": 11
     },
     {
       "label": "Licenciamento",
@@ -92,7 +92,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 22
+      "n": 23
     },
     {
       "label": "Levantamento / as built",
@@ -100,7 +100,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 28
+      "n": 29
     },
     {
       "label": "Orçamento / quantitativos",
@@ -120,15 +120,15 @@
     },
     {
       "label": "Sustentabilidade / LEED",
-      "n": 2
+      "n": 1
     },
     {
       "label": "Maquete / renderização",
-      "n": 10
+      "n": 11
     },
     {
       "label": "Interiores",
-      "n": 78
+      "n": 80
     },
     {
       "label": "Paisagismo",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 88
+      "n": 89
     },
     {
       "label": "SketchUp",
-      "n": 30
+      "n": 31
     },
     {
       "label": "ArchiCAD",
@@ -166,11 +166,11 @@
     },
     {
       "label": "Revit",
-      "n": 35
+      "n": 36
     },
     {
       "label": "BIM",
-      "n": 73
+      "n": 74
     }
   ]
 }
