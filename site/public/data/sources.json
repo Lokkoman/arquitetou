@@ -31,12 +31,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 99,
+      "jobsFound": 100,
       "queriesRun": 125,
-      "durationMs": 101598,
+      "durationMs": 102277,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-10-21T14:56:33.291Z",
+      "lastRunAt": "2026-10-21T19:58:45.472Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
@@ -44,10 +44,11 @@
       "ok": true,
       "verdict": "degraded",
       "aborted": false,
-      "jobsFound": 62,
+      "jobsFound": 48,
       "queriesRun": 54,
-      "durationMs": 20978,
+      "durationMs": 19898,
       "errors": [
+        "projetista/sao-paulo: HTTP 403",
         "desenhista/sao-paulo: HTTP 403",
         "desenhista-projetista/sao-paulo: HTTP 403",
         "coordenador-de-projetos/sao-paulo: HTTP 403",
@@ -57,8 +58,7 @@
         "arquiteto-de-interiores/osasco: HTTP 403",
         "designer-de-interiores/osasco: HTTP 403",
         "projetista/osasco: HTTP 403",
-        "desenhista/osasco: HTTP 403",
-        "disjuntor: 10 erros seguidos — passada abortada em \"desenhista/osasco\"",
+        "disjuntor: 10 erros seguidos — passada abortada em \"projetista/osasco\"",
         "arquiteto/nacional: HTTP 403",
         "urbanista/nacional: HTTP 403",
         "arquiteto-urbanista/nacional: HTTP 403",
@@ -70,7 +70,7 @@
         "coordenador-de-projetos/nacional: HTTP 403"
       ],
       "errorCount": 20,
-      "lastRunAt": "2026-10-21T14:55:14.437Z",
+      "lastRunAt": "2026-10-21T19:57:22.539Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -78,26 +78,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 81,
-      "queriesRun": 499,
-      "durationMs": 522929,
-      "errors": [
-        "avaliação de imóveis/sao_paulo start=0: HTTP 429",
-        "ArchiCAD/sao_paulo start=75: HTTP 429",
-        "aprovação de projetos/osasco start=75: HTTP 429",
-        "compatibilização de projetos/osasco start=25: HTTP 429",
-        "paisagismo/barueri start=75: HTTP 429",
-        "maquete/barueri start=50: HTTP 429",
-        "aprovação de projetos/taboao start=50: HTTP 429",
-        "restauro/taboao start=0: HTTP 429",
-        "remoto/urbanista start=75: HTTP 429",
-        "remoto/regularização start=75: HTTP 429",
-        "remoto/BIM start=75: HTTP 429",
-        "remoto/compatibilização de projetos start=50: HTTP 429",
-        "remoto/acompanhamento de obra start=50: HTTP 429"
-      ],
-      "errorCount": 13,
-      "lastRunAt": "2026-10-21T15:03:35.140Z",
+      "jobsFound": 84,
+      "queriesRun": 524,
+      "durationMs": 528730,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-10-21T20:05:50.996Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -105,12 +91,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 517,
-      "queriesRun": 530,
-      "durationMs": 319064,
+      "jobsFound": 389,
+      "queriesRun": 320,
+      "durationMs": 169233,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-10-21T15:00:11.541Z",
+      "lastRunAt": "2026-10-21T19:59:52.637Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -120,10 +106,10 @@
       "aborted": false,
       "jobsFound": 25,
       "queriesRun": 52,
-      "durationMs": 196062,
+      "durationMs": 133474,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-10-21T14:58:09.646Z",
+      "lastRunAt": "2026-10-21T19:59:15.922Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -135,16 +121,16 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-10-21T15:17:51.932Z",
-  "startedAt": "2026-10-21T15:03:50.586Z",
-  "finishedAt": "2026-10-21T15:17:51.932Z",
+  "lastRun": "2026-10-21T20:07:44.675Z",
+  "startedAt": "2026-10-21T20:06:08.134Z",
+  "finishedAt": "2026-10-21T20:07:44.675Z",
   "linkedin": null,
   "ai": {
     "model": null,
-    "enriched": 200,
-    "dropped": 63,
-    "cached": 1449,
+    "enriched": 146,
+    "dropped": 58,
+    "cached": 1455,
     "ok": true,
-    "note": "59 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
+    "note": null
   }
 }
