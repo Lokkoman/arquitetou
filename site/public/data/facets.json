@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 396
+      "n": 399
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 115
+      "n": 116
     },
     {
       "label": "Designer de Interiores",
@@ -42,11 +42,11 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 101
+      "n": 104
     },
     {
       "label": "Estagiário",
-      "n": 228
+      "n": 227
     },
     {
       "label": "Técnico em Edificações",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 35
+      "n": 36
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 80
+      "n": 83
     },
     {
       "label": "Paisagismo",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 90
+      "n": 92
     },
     {
       "label": "SketchUp",
