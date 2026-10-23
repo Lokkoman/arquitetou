@@ -2,15 +2,15 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 323
+      "n": 340
     },
     {
       "label": "Urbanista",
-      "n": 1
+      "n": 7
     },
     {
       "label": "Projetista",
-      "n": 402
+      "n": 403
     },
     {
       "label": "Cadista",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 231
+      "n": 232
     },
     {
       "label": "Técnico em Edificações",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 34
+      "n": 35
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -68,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 16
+      "n": 17
     },
     {
       "label": "Projeto executivo",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 92
+      "n": 93
     },
     {
       "label": "SketchUp",
