@@ -22,7 +22,7 @@
     },
     {
       "label": "Designer de Interiores",
-      "n": 38
+      "n": 39
     },
     {
       "label": "Modelador BIM",
@@ -38,11 +38,11 @@
     },
     {
       "label": "Analista",
-      "n": 103
+      "n": 104
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 106
+      "n": 107
     },
     {
       "label": "Estagiário",
@@ -80,19 +80,19 @@
     },
     {
       "label": "Legalização / regularização",
-      "n": 11
+      "n": 10
     },
     {
       "label": "Licenciamento",
-      "n": 9
+      "n": 8
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 11
+      "n": 12
     },
     {
       "label": "Compatibilização",
-      "n": 24
+      "n": 23
     },
     {
       "label": "Levantamento / as built",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 86
+      "n": 87
     },
     {
       "label": "Paisagismo",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 93
+      "n": 92
     },
     {
       "label": "SketchUp",
-      "n": 34
+      "n": 33
     },
     {
       "label": "ArchiCAD",
