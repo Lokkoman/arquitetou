@@ -2,15 +2,15 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 338
+      "n": 323
     },
     {
       "label": "Urbanista",
-      "n": 7
+      "n": 1
     },
     {
       "label": "Projetista",
-      "n": 401
+      "n": 402
     },
     {
       "label": "Cadista",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 105
+      "n": 106
     },
     {
       "label": "Estagiário",
@@ -54,11 +54,11 @@
     },
     {
       "label": "Orçamentista",
-      "n": 27
+      "n": 28
     },
     {
       "label": "Consultor / Especialista",
-      "n": 35
+      "n": 34
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -68,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 17
+      "n": 16
     },
     {
       "label": "Projeto executivo",
@@ -120,7 +120,7 @@
     },
     {
       "label": "Sustentabilidade / LEED",
-      "n": 2
+      "n": 3
     },
     {
       "label": "Maquete / renderização",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 34
+      "n": 35
     },
     {
       "label": "BIM",
