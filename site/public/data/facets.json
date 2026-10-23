@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 403
+      "n": 408
     },
     {
       "label": "Cadista",
@@ -42,15 +42,15 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 107
+      "n": 109
     },
     {
       "label": "Estagiário",
-      "n": 232
+      "n": 236
     },
     {
       "label": "Técnico em Edificações",
-      "n": 86
+      "n": 87
     },
     {
       "label": "Orçamentista",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 12
+      "n": 10
     },
     {
       "label": "Compatibilização",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 87
+      "n": 86
     },
     {
       "label": "Paisagismo",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 92
+      "n": 89
     },
     {
       "label": "SketchUp",
@@ -166,11 +166,11 @@
     },
     {
       "label": "Revit",
-      "n": 35
+      "n": 34
     },
     {
       "label": "BIM",
-      "n": 76
+      "n": 75
     }
   ]
 }
