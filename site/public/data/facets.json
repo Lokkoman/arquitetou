@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 341
+      "n": 343
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 414
+      "n": 413
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 116
+      "n": 117
     },
     {
       "label": "Designer de Interiores",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 237
+      "n": 238
     },
     {
       "label": "Técnico em Edificações",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 11
+      "n": 12
     },
     {
       "label": "Compatibilização",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 89
+      "n": 93
     },
     {
       "label": "SketchUp",
-      "n": 33
+      "n": 34
     },
     {
       "label": "ArchiCAD",
