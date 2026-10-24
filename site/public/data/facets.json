@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 343
+      "n": 341
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 413
+      "n": 414
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 117
+      "n": 116
     },
     {
       "label": "Designer de Interiores",
@@ -84,7 +84,7 @@
     },
     {
       "label": "Licenciamento",
-      "n": 8
+      "n": 9
     },
     {
       "label": "Habite-se / alvará / AVCB",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 93
+      "n": 94
     },
     {
       "label": "SketchUp",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 34
+      "n": 35
     },
     {
       "label": "BIM",
