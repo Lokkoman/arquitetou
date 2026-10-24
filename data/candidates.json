@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T12:24:45.528Z",
+  "generatedAt": "2026-10-24T11:50:36.103Z",
   "note": "Gemini falhou: Gemini HTTP 429: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-lim",
   "candidates": [
     {
@@ -14,7 +14,7 @@
       "adopted": false,
       "probe": {
         "url": "https://www.empregos.com.br/vagas/arquiteto",
-        "checkedAt": "2026-10-17T11:21:45.243Z",
+        "checkedAt": "2026-10-24T11:50:33.275Z",
         "robots": {
           "status": 200,
           "protected": false,
@@ -22,11 +22,11 @@
           "note": null
         },
         "status": 200,
-        "ms": 1639,
+        "ms": 1268,
         "signals": {
           "contentType": "text/html;charset=utf-8",
-          "htmlBytes": 469085,
-          "textChars": 39844,
+          "htmlBytes": 464806,
+          "textChars": 38460,
           "scriptSrcCount": 1,
           "listingHits": 171,
           "isJson": false,
@@ -52,7 +52,7 @@
       "adopted": false,
       "probe": {
         "url": "https://www.trabalhabrasil.com.br/vagas-de-emprego/arquiteto",
-        "checkedAt": "2026-10-17T11:21:46.892Z",
+        "checkedAt": "2026-10-24T11:50:34.553Z",
         "robots": {
           "status": 200,
           "protected": false,
@@ -60,11 +60,11 @@
           "note": null
         },
         "status": 200,
-        "ms": 1685,
+        "ms": 1539,
         "signals": {
           "contentType": "text/html; charset=utf-8",
-          "htmlBytes": 376775,
-          "textChars": 4363,
+          "htmlBytes": 379562,
+          "textChars": 4464,
           "scriptSrcCount": 12,
           "listingHits": 31,
           "isJson": false,
