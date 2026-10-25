@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:01:19.356Z",
+  "generatedAt": "2026-10-25T21:39:18.748Z",
   "ok": false,
   "alerts": [
     "bne: DEGRADED — erro em 37% das consultas"
@@ -13,26 +13,26 @@
       "reasons": [
         "erro em 37% das consultas"
       ],
-      "jobsFound": 61,
+      "jobsFound": 47,
       "baselineMedian": 47,
       "errorCount": 20,
       "queriesRun": 54,
       "errorRate": 0.37,
       "dominantError": "HTTP 403",
-      "durationMs": 18720,
-      "lastRunAt": "2026-10-25T18:46:07.564Z"
+      "durationMs": 14162,
+      "lastRunAt": "2026-10-25T21:30:42.142Z"
     },
     "catho": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 512,
+      "jobsFound": 513,
       "baselineMedian": 514,
       "errorCount": 0,
       "queriesRun": 513,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 271765,
-      "lastRunAt": "2026-10-25T18:50:21.636Z"
+      "durationMs": 296674,
+      "lastRunAt": "2026-10-25T21:35:26.930Z"
     },
     "empregos": {
       "verdict": "ok",
@@ -43,8 +43,8 @@
       "queriesRun": 52,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 142173,
-      "lastRunAt": "2026-10-25T18:48:11.923Z"
+      "durationMs": 145026,
+      "lastRunAt": "2026-10-25T21:32:54.409Z"
     },
     "gupy-portal": {
       "verdict": "ok",
@@ -67,20 +67,20 @@
       "queriesRun": 125,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 85265,
-      "lastRunAt": "2026-10-25T18:47:13.068Z"
+      "durationMs": 90430,
+      "lastRunAt": "2026-10-25T21:31:59.746Z"
     },
     "linkedin": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 85,
+      "jobsFound": 84,
       "baselineMedian": 83,
-      "errorCount": 3,
-      "queriesRun": 519,
-      "errorRate": 0.006,
-      "dominantError": "HTTP 429",
-      "durationMs": 511825,
-      "lastRunAt": "2026-10-25T18:54:21.963Z"
+      "errorCount": 0,
+      "queriesRun": 524,
+      "errorRate": 0,
+      "dominantError": null,
+      "durationMs": 515824,
+      "lastRunAt": "2026-10-25T21:39:04.622Z"
     },
     "vagas-com": {
       "verdict": "ok",
