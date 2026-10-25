@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 340
+      "n": 338
     },
     {
       "label": "Urbanista",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 35
+      "n": 34
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -76,7 +76,7 @@
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 11
+      "n": 10
     },
     {
       "label": "Legalização / regularização",
@@ -84,7 +84,7 @@
     },
     {
       "label": "Licenciamento",
-      "n": 9
+      "n": 8
     },
     {
       "label": "Habite-se / alvará / AVCB",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 94
+      "n": 93
     },
     {
       "label": "SketchUp",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 34
+      "n": 35
     },
     {
       "label": "BIM",
