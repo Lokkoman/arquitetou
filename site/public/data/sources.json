@@ -33,10 +33,10 @@
       "aborted": false,
       "jobsFound": 105,
       "queriesRun": 125,
-      "durationMs": 100800,
+      "durationMs": 85265,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-10-25T14:10:11.925Z",
+      "lastRunAt": "2026-10-25T18:47:13.068Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
@@ -44,11 +44,10 @@
       "ok": true,
       "verdict": "degraded",
       "aborted": false,
-      "jobsFound": 47,
+      "jobsFound": 61,
       "queriesRun": 54,
-      "durationMs": 16246,
+      "durationMs": 18720,
       "errors": [
-        "projetista/sao-paulo: HTTP 403",
         "desenhista/sao-paulo: HTTP 403",
         "desenhista-projetista/sao-paulo: HTTP 403",
         "coordenador-de-projetos/sao-paulo: HTTP 403",
@@ -58,7 +57,8 @@
         "arquiteto-de-interiores/osasco: HTTP 403",
         "designer-de-interiores/osasco: HTTP 403",
         "projetista/osasco: HTTP 403",
-        "disjuntor: 10 erros seguidos — passada abortada em \"projetista/osasco\"",
+        "desenhista/osasco: HTTP 403",
+        "disjuntor: 10 erros seguidos — passada abortada em \"desenhista/osasco\"",
         "arquiteto/nacional: HTTP 403",
         "urbanista/nacional: HTTP 403",
         "arquiteto-urbanista/nacional: HTTP 403",
@@ -70,7 +70,7 @@
         "coordenador-de-projetos/nacional: HTTP 403"
       ],
       "errorCount": 20,
-      "lastRunAt": "2026-10-25T14:08:51.543Z",
+      "lastRunAt": "2026-10-25T18:46:07.564Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -78,27 +78,16 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 82,
-      "queriesRun": 484,
-      "durationMs": 486574,
+      "jobsFound": 85,
+      "queriesRun": 519,
+      "durationMs": 511825,
       "errors": [
-        "projetista/sao_paulo start=25: HTTP 429",
-        "aprovação de projetos/osasco start=0: HTTP 429",
-        "habite-se/osasco start=25: HTTP 429",
-        "restauro/osasco start=0: HTTP 429",
-        "avaliação de imóveis/osasco start=25: HTTP 429",
-        "BIM/osasco start=0: HTTP 429",
-        "SketchUp/osasco start=50: HTTP 429",
-        "paisagismo/guarulhos start=25: HTTP 429",
-        "SketchUp/guarulhos start=25: HTTP 429",
-        "habite-se/barueri start=75: HTTP 429",
-        "remoto/avaliação de imóveis start=0: HTTP 429",
-        "remoto/compatibilização de projetos start=50: HTTP 429",
-        "remoto/acompanhamento de obra start=75: HTTP 429",
-        "remoto/maquete start=25: HTTP 429"
+        "avaliação de imóveis/sao_paulo start=0: HTTP 429",
+        "ArchiCAD/barueri start=75: HTTP 429",
+        "descrição/Estágio em Engenharia Civil ou Técnico em Edificações para auxiliar na inspeção de obra de fachada: HTTP 429"
       ],
-      "errorCount": 14,
-      "lastRunAt": "2026-10-25T14:16:37.662Z",
+      "errorCount": 3,
+      "lastRunAt": "2026-10-25T18:54:21.963Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -108,10 +97,10 @@
       "aborted": false,
       "jobsFound": 512,
       "queriesRun": 513,
-      "durationMs": 272513,
+      "durationMs": 271765,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-10-25T14:13:02.141Z",
+      "lastRunAt": "2026-10-25T18:50:21.636Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -121,10 +110,10 @@
       "aborted": false,
       "jobsFound": 28,
       "queriesRun": 52,
-      "durationMs": 134240,
+      "durationMs": 142173,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-10-25T14:10:44.840Z",
+      "lastRunAt": "2026-10-25T18:48:11.923Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -136,16 +125,16 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-10-25T14:19:11.997Z",
-  "startedAt": "2026-10-25T14:16:56.696Z",
-  "finishedAt": "2026-10-25T14:19:11.997Z",
+  "lastRun": "2026-10-25T19:03:28.942Z",
+  "startedAt": "2026-10-25T19:01:19.414Z",
+  "finishedAt": "2026-10-25T19:03:28.942Z",
   "linkedin": null,
   "ai": {
     "model": null,
-    "enriched": 188,
+    "enriched": 200,
     "dropped": 50,
-    "cached": 1535,
-    "ok": false,
-    "note": "12 vaga(s) sem classificação nesta rodada; 10 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
+    "cached": 1534,
+    "ok": true,
+    "note": "20 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
   }
 }
