@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-10-26T16:45:01.427Z",
+  "generatedAt": "2026-10-26T23:15:45.196Z",
   "ok": false,
   "alerts": [
-    "bne: DEGRADED — erro em 37% das consultas",
-    "linkedin: FAILED — erro em 100% das consultas"
+    "bne: DEGRADED — erro em 37% das consultas"
   ],
   "needsReprocess": [
-    "bne",
-    "linkedin"
+    "bne"
   ],
   "sources": {
     "bne": {
@@ -15,26 +13,26 @@
       "reasons": [
         "erro em 37% das consultas"
       ],
-      "jobsFound": 61,
+      "jobsFound": 63,
       "baselineMedian": 47,
       "errorCount": 20,
       "queriesRun": 54,
       "errorRate": 0.37,
       "dominantError": "HTTP 403",
-      "durationMs": 19382,
-      "lastRunAt": "2026-10-26T16:36:26.718Z"
+      "durationMs": 20131,
+      "lastRunAt": "2026-10-26T23:03:30.401Z"
     },
     "catho": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 512,
-      "baselineMedian": 513.5,
+      "jobsFound": 513,
+      "baselineMedian": 513,
       "errorCount": 0,
       "queriesRun": 513,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 288704,
-      "lastRunAt": "2026-10-26T16:40:57.062Z"
+      "durationMs": 299758,
+      "lastRunAt": "2026-10-26T23:08:10.850Z"
     },
     "empregos": {
       "verdict": "ok",
@@ -45,8 +43,8 @@
       "queriesRun": 52,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 153775,
-      "lastRunAt": "2026-10-26T16:38:41.376Z"
+      "durationMs": 156688,
+      "lastRunAt": "2026-10-26T23:05:47.290Z"
     },
     "gupy-portal": {
       "verdict": "ok",
@@ -63,28 +61,26 @@
     "infojobs": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 107,
+      "jobsFound": 108,
       "baselineMedian": 105,
       "errorCount": 0,
       "queriesRun": 125,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 99286,
-      "lastRunAt": "2026-10-26T16:37:44.977Z"
+      "durationMs": 103205,
+      "lastRunAt": "2026-10-26T23:04:54.361Z"
     },
     "linkedin": {
-      "verdict": "failed",
-      "reasons": [
-        "erro em 100% das consultas"
-      ],
-      "jobsFound": 54,
+      "verdict": "ok",
+      "reasons": [],
+      "jobsFound": 85,
       "baselineMedian": 82.5,
-      "errorCount": 119,
-      "queriesRun": 119,
-      "errorRate": 1,
+      "errorCount": 59,
+      "queriesRun": 358,
+      "errorRate": 0.165,
       "dominantError": "HTTP 429",
-      "durationMs": 114908,
-      "lastRunAt": "2026-10-26T16:38:03.240Z"
+      "durationMs": 340862,
+      "lastRunAt": "2026-10-26T23:08:49.910Z"
     },
     "vagas-com": {
       "verdict": "ok",
