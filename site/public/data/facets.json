@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 337
+      "n": 336
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 415
+      "n": 416
     },
     {
       "label": "Cadista",
@@ -54,7 +54,7 @@
     },
     {
       "label": "Orçamentista",
-      "n": 27
+      "n": 28
     },
     {
       "label": "Consultor / Especialista",
@@ -80,7 +80,7 @@
     },
     {
       "label": "Legalização / regularização",
-      "n": 10
+      "n": 11
     },
     {
       "label": "Licenciamento",
@@ -92,7 +92,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 23
+      "n": 24
     },
     {
       "label": "Levantamento / as built",
@@ -158,7 +158,7 @@
     },
     {
       "label": "SketchUp",
-      "n": 34
+      "n": 35
     },
     {
       "label": "ArchiCAD",
@@ -166,11 +166,11 @@
     },
     {
       "label": "Revit",
-      "n": 35
+      "n": 36
     },
     {
       "label": "BIM",
-      "n": 75
+      "n": 76
     }
   ]
 }
