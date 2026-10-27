@@ -2,15 +2,15 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 341
+      "n": 325
     },
     {
       "label": "Urbanista",
-      "n": 7
+      "n": 1
     },
     {
       "label": "Projetista",
-      "n": 427
+      "n": 423
     },
     {
       "label": "Cadista",
@@ -18,11 +18,11 @@
     },
     {
       "label": "Desenhista",
-      "n": 116
+      "n": 117
     },
     {
       "label": "Designer de Interiores",
-      "n": 40
+      "n": 28
     },
     {
       "label": "Modelador BIM",
@@ -38,7 +38,7 @@
     },
     {
       "label": "Analista",
-      "n": 104
+      "n": 103
     },
     {
       "label": "Assistente / Auxiliar",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 238
+      "n": 240
     },
     {
       "label": "Técnico em Edificações",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 36
+      "n": 35
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -68,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 17
+      "n": 16
     },
     {
       "label": "Projeto executivo",
@@ -92,7 +92,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 24
+      "n": 25
     },
     {
       "label": "Levantamento / as built",
@@ -100,7 +100,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 29
+      "n": 30
     },
     {
       "label": "Orçamento / quantitativos",
@@ -124,15 +124,15 @@
     },
     {
       "label": "Maquete / renderização",
-      "n": 12
+      "n": 11
     },
     {
       "label": "Interiores",
-      "n": 86
+      "n": 85
     },
     {
       "label": "Paisagismo",
-      "n": 11
+      "n": 10
     },
     {
       "label": "Planejamento urbano",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 92
+      "n": 88
     },
     {
       "label": "SketchUp",
-      "n": 32
+      "n": 28
     },
     {
       "label": "ArchiCAD",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 35
+      "n": 33
     },
     {
       "label": "BIM",
