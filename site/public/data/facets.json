@@ -2,27 +2,27 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 325
+      "n": 339
     },
     {
       "label": "Urbanista",
-      "n": 1
+      "n": 7
     },
     {
       "label": "Projetista",
-      "n": 423
+      "n": 429
     },
     {
       "label": "Cadista",
-      "n": 78
+      "n": 79
     },
     {
       "label": "Desenhista",
-      "n": 117
+      "n": 120
     },
     {
       "label": "Designer de Interiores",
-      "n": 28
+      "n": 41
     },
     {
       "label": "Modelador BIM",
@@ -38,7 +38,7 @@
     },
     {
       "label": "Analista",
-      "n": 103
+      "n": 104
     },
     {
       "label": "Assistente / Auxiliar",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 240
+      "n": 242
     },
     {
       "label": "Técnico em Edificações",
@@ -54,11 +54,11 @@
     },
     {
       "label": "Orçamentista",
-      "n": 28
+      "n": 29
     },
     {
       "label": "Consultor / Especialista",
-      "n": 35
+      "n": 36
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -68,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 16
+      "n": 17
     },
     {
       "label": "Projeto executivo",
@@ -88,11 +88,11 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 11
+      "n": 12
     },
     {
       "label": "Compatibilização",
-      "n": 25
+      "n": 24
     },
     {
       "label": "Levantamento / as built",
@@ -124,11 +124,11 @@
     },
     {
       "label": "Maquete / renderização",
-      "n": 11
+      "n": 12
     },
     {
       "label": "Interiores",
-      "n": 85
+      "n": 88
     },
     {
       "label": "Paisagismo",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 88
+      "n": 94
     },
     {
       "label": "SketchUp",
-      "n": 28
+      "n": 35
     },
     {
       "label": "ArchiCAD",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 33
+      "n": 35
     },
     {
       "label": "BIM",
