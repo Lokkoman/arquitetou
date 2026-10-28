@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 340
+      "n": 339
     },
     {
       "label": "Urbanista",
@@ -10,11 +10,11 @@
     },
     {
       "label": "Projetista",
-      "n": 431
+      "n": 435
     },
     {
       "label": "Cadista",
-      "n": 79
+      "n": 78
     },
     {
       "label": "Desenhista",
@@ -38,7 +38,7 @@
     },
     {
       "label": "Analista",
-      "n": 103
+      "n": 102
     },
     {
       "label": "Assistente / Auxiliar",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 242
+      "n": 244
     },
     {
       "label": "Técnico em Edificações",
@@ -72,7 +72,7 @@
     },
     {
       "label": "Projeto executivo",
-      "n": 24
+      "n": 25
     },
     {
       "label": "Projeto legal / aprovação",
@@ -128,11 +128,11 @@
     },
     {
       "label": "Interiores",
-      "n": 89
+      "n": 91
     },
     {
       "label": "Paisagismo",
-      "n": 10
+      "n": 11
     },
     {
       "label": "Planejamento urbano",
@@ -170,7 +170,7 @@
     },
     {
       "label": "BIM",
-      "n": 76
+      "n": 75
     }
   ]
 }
