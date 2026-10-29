@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 435
+      "n": 431
     },
     {
       "label": "Cadista",
@@ -22,7 +22,7 @@
     },
     {
       "label": "Designer de Interiores",
-      "n": 43
+      "n": 42
     },
     {
       "label": "Modelador BIM",
@@ -68,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 18
+      "n": 19
     },
     {
       "label": "Projeto executivo",
@@ -100,7 +100,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 31
+      "n": 32
     },
     {
       "label": "Orçamento / quantitativos",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 93
+      "n": 92
     },
     {
       "label": "Paisagismo",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 94
+      "n": 93
     },
     {
       "label": "SketchUp",
