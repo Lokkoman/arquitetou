@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 339
+      "n": 338
     },
     {
       "label": "Urbanista",
@@ -14,19 +14,19 @@
     },
     {
       "label": "Cadista",
-      "n": 78
+      "n": 77
     },
     {
       "label": "Desenhista",
-      "n": 119
+      "n": 120
     },
     {
       "label": "Designer de Interiores",
-      "n": 42
+      "n": 43
     },
     {
       "label": "Modelador BIM",
-      "n": 13
+      "n": 12
     },
     {
       "label": "Coordenador de Projetos",
@@ -42,15 +42,15 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 113
+      "n": 114
     },
     {
       "label": "Estagiário",
-      "n": 244
+      "n": 245
     },
     {
       "label": "Técnico em Edificações",
-      "n": 89
+      "n": 90
     },
     {
       "label": "Orçamentista",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 36
+      "n": 37
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -68,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 19
+      "n": 18
     },
     {
       "label": "Projeto executivo",
@@ -100,7 +100,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 32
+      "n": 31
     },
     {
       "label": "Orçamento / quantitativos",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 92
+      "n": 94
     },
     {
       "label": "Paisagismo",
@@ -166,11 +166,11 @@
     },
     {
       "label": "Revit",
-      "n": 35
+      "n": 36
     },
     {
       "label": "BIM",
-      "n": 75
+      "n": 72
     }
   ]
 }
