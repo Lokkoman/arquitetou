@@ -10,11 +10,11 @@
     },
     {
       "label": "Projetista",
-      "n": 437
+      "n": 433
     },
     {
       "label": "Cadista",
-      "n": 77
+      "n": 78
     },
     {
       "label": "Desenhista",
@@ -22,7 +22,7 @@
     },
     {
       "label": "Designer de Interiores",
-      "n": 42
+      "n": 41
     },
     {
       "label": "Modelador BIM",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 38
+      "n": 37
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 96
+      "n": 95
     },
     {
       "label": "Paisagismo",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 94
+      "n": 93
     },
     {
       "label": "SketchUp",
@@ -162,7 +162,7 @@
     },
     {
       "label": "ArchiCAD",
-      "n": 7
+      "n": 8
     },
     {
       "label": "Revit",
