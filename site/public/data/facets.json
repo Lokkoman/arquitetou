@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 340
+      "n": 341
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 437
+      "n": 436
     },
     {
       "label": "Cadista",
@@ -38,11 +38,11 @@
     },
     {
       "label": "Analista",
-      "n": 102
+      "n": 103
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 115
+      "n": 116
     },
     {
       "label": "Estagiário",
@@ -50,7 +50,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 90
+      "n": 91
     },
     {
       "label": "Orçamentista",
@@ -72,7 +72,7 @@
     },
     {
       "label": "Projeto executivo",
-      "n": 25
+      "n": 24
     },
     {
       "label": "Projeto legal / aprovação",
@@ -124,11 +124,11 @@
     },
     {
       "label": "Maquete / renderização",
-      "n": 12
+      "n": 11
     },
     {
       "label": "Interiores",
-      "n": 95
+      "n": 93
     },
     {
       "label": "Paisagismo",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 95
+      "n": 96
     },
     {
       "label": "SketchUp",
