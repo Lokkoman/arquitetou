@@ -38,11 +38,11 @@
     },
     {
       "label": "Analista",
-      "n": 104
+      "n": 103
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 117
+      "n": 116
     },
     {
       "label": "Estagiário",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 98
+      "n": 97
     },
     {
       "label": "SketchUp",
