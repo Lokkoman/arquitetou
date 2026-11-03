@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 339
+      "n": 338
     },
     {
       "label": "Urbanista",
@@ -10,11 +10,11 @@
     },
     {
       "label": "Projetista",
-      "n": 436
+      "n": 435
     },
     {
       "label": "Cadista",
-      "n": 78
+      "n": 77
     },
     {
       "label": "Desenhista",
@@ -38,7 +38,7 @@
     },
     {
       "label": "Analista",
-      "n": 102
+      "n": 100
     },
     {
       "label": "Assistente / Auxiliar",
@@ -72,7 +72,7 @@
     },
     {
       "label": "Projeto executivo",
-      "n": 24
+      "n": 25
     },
     {
       "label": "Projeto legal / aprovação",
@@ -132,7 +132,7 @@
     },
     {
       "label": "Paisagismo",
-      "n": 10
+      "n": 9
     },
     {
       "label": "Planejamento urbano",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 95
+      "n": 96
     },
     {
       "label": "SketchUp",
