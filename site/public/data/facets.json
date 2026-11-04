@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 435
+      "n": 436
     },
     {
       "label": "Cadista",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 249
+      "n": 251
     },
     {
       "label": "Técnico em Edificações",
@@ -68,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 18
+      "n": 19
     },
     {
       "label": "Projeto executivo",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 96
+      "n": 97
     },
     {
       "label": "SketchUp",
-      "n": 35
+      "n": 36
     },
     {
       "label": "ArchiCAD",
