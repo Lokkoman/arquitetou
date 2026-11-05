@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 340
+      "n": 351
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 445
+      "n": 455
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 127
+      "n": 125
     },
     {
       "label": "Designer de Interiores",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 116
+      "n": 119
     },
     {
       "label": "Estagiário",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 38
+      "n": 39
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 92
+      "n": 93
     },
     {
       "label": "Paisagismo",
@@ -136,7 +136,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 6
+      "n": 7
     },
     {
       "label": "Loteamento / parcelamento",
@@ -154,15 +154,15 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 99
+      "n": 100
     },
     {
       "label": "SketchUp",
-      "n": 37
+      "n": 36
     },
     {
       "label": "ArchiCAD",
-      "n": 8
+      "n": 7
     },
     {
       "label": "Revit",
@@ -170,7 +170,7 @@
     },
     {
       "label": "BIM",
-      "n": 75
+      "n": 76
     }
   ]
 }
