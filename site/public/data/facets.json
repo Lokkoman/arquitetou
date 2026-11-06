@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 348
+      "n": 349
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 443
+      "n": 455
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 126
+      "n": 128
     },
     {
       "label": "Designer de Interiores",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 39
+      "n": 40
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -68,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 22
+      "n": 23
     },
     {
       "label": "Projeto executivo",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 94
+      "n": 97
     },
     {
       "label": "Paisagismo",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 100
+      "n": 99
     },
     {
       "label": "SketchUp",
-      "n": 37
+      "n": 36
     },
     {
       "label": "ArchiCAD",
