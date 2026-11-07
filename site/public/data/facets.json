@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 450
+      "n": 451
     },
     {
       "label": "Cadista",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Gerente de Projetos",
-      "n": 5
+      "n": 3
     },
     {
       "label": "Analista",
@@ -136,7 +136,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 6
+      "n": 7
     },
     {
       "label": "Loteamento / parcelamento",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 99
+      "n": 100
     },
     {
       "label": "SketchUp",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 39
+      "n": 37
     },
     {
       "label": "BIM",
