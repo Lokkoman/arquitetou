@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 455
+      "n": 450
     },
     {
       "label": "Cadista",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 255
+      "n": 256
     },
     {
       "label": "Técnico em Edificações",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 13
+      "n": 14
     },
     {
       "label": "Compatibilização",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 97
+      "n": 96
     },
     {
       "label": "Paisagismo",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 99
+      "n": 100
     },
     {
       "label": "SketchUp",
-      "n": 36
+      "n": 37
     },
     {
       "label": "ArchiCAD",
