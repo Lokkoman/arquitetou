@@ -1,6 +1,6 @@
-# Candidatos de fontes — 2026-11-06
+# Candidatos de fontes — 2026-11-07
 
-> Gemini falhou: Gemini HTTP 429: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-lim
+> Gemini falhou: Gemini HTTP 429: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. 
 
 **2** candidato(s) na fila · **2** raspáveis (probe = estruturado/html) · **0** firmas com vaga de arquitetura confirmada.
 

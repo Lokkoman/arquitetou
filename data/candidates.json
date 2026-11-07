@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T14:46:48.967Z",
-  "note": "Gemini falhou: Gemini HTTP 429: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-lim",
+  "generatedAt": "2026-11-07T13:44:18.694Z",
+  "note": "Gemini falhou: Gemini HTTP 429: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. ",
   "candidates": [
     {
       "type": "job-board",
@@ -14,7 +14,7 @@
       "adopted": false,
       "probe": {
         "url": "https://www.empregos.com.br/vagas/arquiteto",
-        "checkedAt": "2026-10-31T13:17:29.369Z",
+        "checkedAt": "2026-11-07T13:44:14.907Z",
         "robots": {
           "status": 200,
           "protected": false,
@@ -22,13 +22,13 @@
           "note": null
         },
         "status": 200,
-        "ms": 1019,
+        "ms": 1559,
         "signals": {
           "contentType": "text/html;charset=utf-8",
-          "htmlBytes": 460867,
-          "textChars": 34617,
+          "htmlBytes": 472413,
+          "textChars": 41848,
           "scriptSrcCount": 1,
-          "listingHits": 170,
+          "listingHits": 171,
           "isJson": false,
           "hasJobPosting": false,
           "hasEmbeddedJson": true,
@@ -52,7 +52,7 @@
       "adopted": false,
       "probe": {
         "url": "https://www.trabalhabrasil.com.br/vagas-de-emprego/arquiteto",
-        "checkedAt": "2026-10-31T13:17:30.397Z",
+        "checkedAt": "2026-11-07T13:44:16.477Z",
         "robots": {
           "status": 200,
           "protected": false,
@@ -60,11 +60,11 @@
           "note": null
         },
         "status": 200,
-        "ms": 1053,
+        "ms": 2206,
         "signals": {
           "contentType": "text/html; charset=utf-8",
-          "htmlBytes": 379313,
-          "textChars": 4491,
+          "htmlBytes": 376489,
+          "textChars": 4428,
           "scriptSrcCount": 12,
           "listingHits": 31,
           "isJson": false,
