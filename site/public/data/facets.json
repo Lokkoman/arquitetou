@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 349
+      "n": 348
     },
     {
       "label": "Urbanista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 128
+      "n": 129
     },
     {
       "label": "Designer de Interiores",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Gerente de Projetos",
-      "n": 3
+      "n": 5
     },
     {
       "label": "Analista",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 100
+      "n": 99
     },
     {
       "label": "SketchUp",
-      "n": 37
+      "n": 36
     },
     {
       "label": "ArchiCAD",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 37
+      "n": 39
     },
     {
       "label": "BIM",
