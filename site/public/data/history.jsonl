@@ -12,13 +12,6 @@
 {"ts":"2026-08-28T04:57:12.486Z","sourceId":"linkedin-api","jobsFound":18,"errorCount":0,"queriesRun":null,"durationMs":null,"verdict":"ok"}
 {"ts":"2026-08-28T05:16:56.979Z","sourceId":"linkedin-api","jobsFound":18,"errorCount":0,"queriesRun":null,"durationMs":null,"verdict":"ok"}
 {"ts":"2026-08-28T05:52:36.073Z","sourceId":"linkedin-api","jobsFound":18,"errorCount":0,"queriesRun":null,"durationMs":null,"verdict":"ok"}
-{"ts":"2026-10-27T20:37:48.436Z","sourceId":"infojobs","jobsFound":103,"errorCount":0,"queriesRun":125,"durationMs":97026,"verdict":"ok"}
-{"ts":"2026-10-27T20:37:48.436Z","sourceId":"linkedin","jobsFound":81,"errorCount":0,"queriesRun":524,"durationMs":534376,"verdict":"ok"}
-{"ts":"2026-10-27T20:37:48.436Z","sourceId":"gupy-portal","jobsFound":5,"errorCount":0,"queriesRun":252,"durationMs":22318,"verdict":"ok"}
-{"ts":"2026-10-27T20:37:48.436Z","sourceId":"vagas-com","jobsFound":1,"errorCount":0,"queriesRun":32,"durationMs":23961,"verdict":"ok"}
-{"ts":"2026-10-27T20:37:48.436Z","sourceId":"bne","jobsFound":47,"errorCount":20,"queriesRun":54,"durationMs":15989,"verdict":"degraded"}
-{"ts":"2026-10-27T20:37:48.436Z","sourceId":"catho","jobsFound":519,"errorCount":0,"queriesRun":495,"durationMs":294435,"verdict":"ok"}
-{"ts":"2026-10-27T20:37:48.436Z","sourceId":"empregos","jobsFound":30,"errorCount":0,"queriesRun":52,"durationMs":155987,"verdict":"ok"}
 {"ts":"2026-10-28T01:10:05.330Z","sourceId":"infojobs","jobsFound":101,"errorCount":0,"queriesRun":125,"durationMs":92850,"verdict":"ok"}
 {"ts":"2026-10-28T01:10:05.330Z","sourceId":"linkedin","jobsFound":82,"errorCount":0,"queriesRun":524,"durationMs":523684,"verdict":"ok"}
 {"ts":"2026-10-28T01:10:05.330Z","sourceId":"gupy-portal","jobsFound":5,"errorCount":0,"queriesRun":252,"durationMs":22318,"verdict":"ok"}
@@ -292,3 +285,10 @@
 {"ts":"2026-11-10T04:04:08.945Z","sourceId":"bne","jobsFound":46,"errorCount":20,"queriesRun":54,"durationMs":15183,"verdict":"degraded"}
 {"ts":"2026-11-10T04:04:08.945Z","sourceId":"catho","jobsFound":486,"errorCount":0,"queriesRun":553,"durationMs":330505,"verdict":"ok"}
 {"ts":"2026-11-10T04:04:08.945Z","sourceId":"empregos","jobsFound":45,"errorCount":0,"queriesRun":52,"durationMs":138915,"verdict":"ok"}
+{"ts":"2026-11-10T17:45:35.477Z","sourceId":"infojobs","jobsFound":100,"errorCount":0,"queriesRun":125,"durationMs":103564,"verdict":"ok"}
+{"ts":"2026-11-10T17:45:35.477Z","sourceId":"linkedin","jobsFound":76,"errorCount":35,"queriesRun":429,"durationMs":413518,"verdict":"ok"}
+{"ts":"2026-11-10T17:45:35.477Z","sourceId":"gupy-portal","jobsFound":5,"errorCount":0,"queriesRun":252,"durationMs":22318,"verdict":"ok"}
+{"ts":"2026-11-10T17:45:35.477Z","sourceId":"vagas-com","jobsFound":1,"errorCount":0,"queriesRun":32,"durationMs":23961,"verdict":"ok"}
+{"ts":"2026-11-10T17:45:35.477Z","sourceId":"bne","jobsFound":48,"errorCount":19,"queriesRun":54,"durationMs":18681,"verdict":"degraded"}
+{"ts":"2026-11-10T17:45:35.477Z","sourceId":"catho","jobsFound":489,"errorCount":0,"queriesRun":530,"durationMs":318511,"verdict":"ok"}
+{"ts":"2026-11-10T17:45:35.477Z","sourceId":"empregos","jobsFound":45,"errorCount":0,"queriesRun":52,"durationMs":129615,"verdict":"ok"}
