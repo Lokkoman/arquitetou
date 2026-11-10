@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 347
+      "n": 346
     },
     {
       "label": "Urbanista",
@@ -10,15 +10,15 @@
     },
     {
       "label": "Projetista",
-      "n": 452
+      "n": 444
     },
     {
       "label": "Cadista",
-      "n": 79
+      "n": 78
     },
     {
       "label": "Desenhista",
-      "n": 128
+      "n": 127
     },
     {
       "label": "Designer de Interiores",
@@ -26,7 +26,7 @@
     },
     {
       "label": "Modelador BIM",
-      "n": 13
+      "n": 14
     },
     {
       "label": "Coordenador de Projetos",
@@ -50,7 +50,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 89
+      "n": 88
     },
     {
       "label": "Orçamentista",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 40
+      "n": 39
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -76,11 +76,11 @@
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 11
+      "n": 10
     },
     {
       "label": "Legalização / regularização",
-      "n": 12
+      "n": 11
     },
     {
       "label": "Licenciamento",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 97
+      "n": 95
     },
     {
       "label": "Paisagismo",
@@ -144,7 +144,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 13
+      "n": 12
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 101
+      "n": 99
     },
     {
       "label": "SketchUp",
-      "n": 37
+      "n": 36
     },
     {
       "label": "ArchiCAD",
@@ -170,7 +170,7 @@
     },
     {
       "label": "BIM",
-      "n": 79
+      "n": 80
     }
   ]
 }
