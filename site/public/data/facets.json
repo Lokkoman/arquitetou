@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 455
+      "n": 458
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 133
+      "n": 132
     },
     {
       "label": "Designer de Interiores",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 253
+      "n": 254
     },
     {
       "label": "Técnico em Edificações",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 40
+      "n": 39
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -68,11 +68,11 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 23
+      "n": 22
     },
     {
       "label": "Projeto executivo",
-      "n": 28
+      "n": 27
     },
     {
       "label": "Projeto legal / aprovação",
@@ -84,11 +84,11 @@
     },
     {
       "label": "Licenciamento",
-      "n": 7
+      "n": 8
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 15
+      "n": 14
     },
     {
       "label": "Compatibilização",
@@ -100,7 +100,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 34
+      "n": 32
     },
     {
       "label": "Orçamento / quantitativos",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 95
+      "n": 96
     },
     {
       "label": "Paisagismo",
@@ -136,7 +136,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 7
+      "n": 6
     },
     {
       "label": "Loteamento / parcelamento",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 100
+      "n": 99
     },
     {
       "label": "SketchUp",
-      "n": 36
+      "n": 35
     },
     {
       "label": "ArchiCAD",
