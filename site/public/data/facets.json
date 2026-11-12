@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 355
+      "n": 360
     },
     {
       "label": "Urbanista",
@@ -10,19 +10,19 @@
     },
     {
       "label": "Projetista",
-      "n": 454
+      "n": 465
     },
     {
       "label": "Cadista",
-      "n": 80
+      "n": 78
     },
     {
       "label": "Desenhista",
-      "n": 131
+      "n": 133
     },
     {
       "label": "Designer de Interiores",
-      "n": 42
+      "n": 40
     },
     {
       "label": "Modelador BIM",
@@ -30,7 +30,7 @@
     },
     {
       "label": "Coordenador de Projetos",
-      "n": 10
+      "n": 9
     },
     {
       "label": "Gerente de Projetos",
@@ -38,15 +38,15 @@
     },
     {
       "label": "Analista",
-      "n": 100
+      "n": 99
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 116
+      "n": 121
     },
     {
       "label": "Estagiário",
-      "n": 254
+      "n": 252
     },
     {
       "label": "Técnico em Edificações",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 40
+      "n": 41
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -72,23 +72,23 @@
     },
     {
       "label": "Projeto executivo",
-      "n": 27
+      "n": 28
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 9
+      "n": 10
     },
     {
       "label": "Legalização / regularização",
-      "n": 11
+      "n": 10
     },
     {
       "label": "Licenciamento",
-      "n": 7
+      "n": 6
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 13
+      "n": 15
     },
     {
       "label": "Compatibilização",
@@ -100,7 +100,7 @@
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 32
+      "n": 34
     },
     {
       "label": "Orçamento / quantitativos",
@@ -112,7 +112,7 @@
     },
     {
       "label": "Avaliação de imóveis",
-      "n": 2
+      "n": 3
     },
     {
       "label": "Restauro / retrofit",
@@ -120,7 +120,7 @@
     },
     {
       "label": "Sustentabilidade / LEED",
-      "n": 3
+      "n": 4
     },
     {
       "label": "Maquete / renderização",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 96
+      "n": 95
     },
     {
       "label": "Paisagismo",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 97
+      "n": 99
     },
     {
       "label": "SketchUp",
-      "n": 35
+      "n": 36
     },
     {
       "label": "ArchiCAD",
