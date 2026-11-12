@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 356
+      "n": 355
     },
     {
       "label": "Urbanista",
@@ -10,15 +10,15 @@
     },
     {
       "label": "Projetista",
-      "n": 446
+      "n": 454
     },
     {
       "label": "Cadista",
-      "n": 79
+      "n": 80
     },
     {
       "label": "Desenhista",
-      "n": 130
+      "n": 131
     },
     {
       "label": "Designer de Interiores",
@@ -42,11 +42,11 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 117
+      "n": 116
     },
     {
       "label": "Estagiário",
-      "n": 253
+      "n": 254
     },
     {
       "label": "Técnico em Edificações",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 41
+      "n": 40
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -68,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 22
+      "n": 21
     },
     {
       "label": "Projeto executivo",
@@ -76,7 +76,7 @@
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 10
+      "n": 9
     },
     {
       "label": "Legalização / regularização",
@@ -88,7 +88,7 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 14
+      "n": 13
     },
     {
       "label": "Compatibilização",
@@ -124,15 +124,15 @@
     },
     {
       "label": "Maquete / renderização",
-      "n": 11
+      "n": 12
     },
     {
       "label": "Interiores",
-      "n": 95
+      "n": 96
     },
     {
       "label": "Paisagismo",
-      "n": 10
+      "n": 9
     },
     {
       "label": "Planejamento urbano",
@@ -170,7 +170,7 @@
     },
     {
       "label": "BIM",
-      "n": 80
+      "n": 81
     }
   ]
 }
