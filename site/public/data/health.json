@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T00:08:07.629Z",
+  "generatedAt": "2026-11-13T07:48:15.334Z",
   "ok": false,
   "alerts": [
     "bne: DEGRADED — erro em 37% das consultas"
@@ -19,20 +19,20 @@
       "queriesRun": 54,
       "errorRate": 0.37,
       "dominantError": "HTTP 403",
-      "durationMs": 16967,
-      "lastRunAt": "2026-11-12T23:59:29.181Z"
+      "durationMs": 16530,
+      "lastRunAt": "2026-11-13T07:39:32.002Z"
     },
     "catho": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 485,
-      "baselineMedian": 487,
+      "jobsFound": 482,
+      "baselineMedian": 486,
       "errorCount": 0,
-      "queriesRun": 553,
+      "queriesRun": 529,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 326036,
-      "lastRunAt": "2026-11-13T00:04:39.260Z"
+      "durationMs": 278408,
+      "lastRunAt": "2026-11-13T07:43:54.235Z"
     },
     "empregos": {
       "verdict": "ok",
@@ -43,8 +43,8 @@
       "queriesRun": 52,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 151095,
-      "lastRunAt": "2026-11-13T00:01:43.573Z"
+      "durationMs": 135818,
+      "lastRunAt": "2026-11-13T07:41:30.463Z"
     },
     "gupy-portal": {
       "verdict": "ok",
@@ -67,20 +67,20 @@
       "queriesRun": 125,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 103709,
-      "lastRunAt": "2026-11-13T00:01:01.544Z"
+      "durationMs": 98110,
+      "lastRunAt": "2026-11-13T07:40:55.275Z"
     },
     "linkedin": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 67,
+      "jobsFound": 71,
       "baselineMedian": 77,
-      "errorCount": 1,
-      "queriesRun": 520,
-      "errorRate": 0.002,
-      "dominantError": "HTTP 429",
-      "durationMs": 520909,
-      "lastRunAt": "2026-11-13T00:07:52.737Z"
+      "errorCount": 0,
+      "queriesRun": 524,
+      "errorRate": 0,
+      "dominantError": null,
+      "durationMs": 521238,
+      "lastRunAt": "2026-11-13T07:47:58.556Z"
     },
     "vagas-com": {
       "verdict": "ok",
