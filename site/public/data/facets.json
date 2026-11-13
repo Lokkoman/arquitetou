@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 351
+      "n": 358
     },
     {
       "label": "Urbanista",
@@ -10,19 +10,19 @@
     },
     {
       "label": "Projetista",
-      "n": 460
+      "n": 473
     },
     {
       "label": "Cadista",
-      "n": 78
+      "n": 79
     },
     {
       "label": "Desenhista",
-      "n": 131
+      "n": 141
     },
     {
       "label": "Designer de Interiores",
-      "n": 40
+      "n": 41
     },
     {
       "label": "Modelador BIM",
@@ -38,11 +38,11 @@
     },
     {
       "label": "Analista",
-      "n": 97
+      "n": 100
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 117
+      "n": 118
     },
     {
       "label": "Estagiário",
@@ -50,7 +50,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 87
+      "n": 86
     },
     {
       "label": "Orçamentista",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 38
+      "n": 39
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -88,11 +88,11 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 14
+      "n": 13
     },
     {
       "label": "Compatibilização",
-      "n": 26
+      "n": 27
     },
     {
       "label": "Levantamento / as built",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 97
+      "n": 98
     },
     {
       "label": "Paisagismo",
@@ -140,7 +140,7 @@
     },
     {
       "label": "Loteamento / parcelamento",
-      "n": 3
+      "n": 4
     },
     {
       "label": "HIS / habitação social",
@@ -154,23 +154,23 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 99
+      "n": 103
     },
     {
       "label": "SketchUp",
-      "n": 36
+      "n": 37
     },
     {
       "label": "ArchiCAD",
-      "n": 7
+      "n": 8
     },
     {
       "label": "Revit",
-      "n": 42
+      "n": 43
     },
     {
       "label": "BIM",
-      "n": 81
+      "n": 84
     }
   ]
 }
