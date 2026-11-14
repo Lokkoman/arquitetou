@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 358
+      "n": 357
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 473
+      "n": 454
     },
     {
       "label": "Cadista",
@@ -18,11 +18,11 @@
     },
     {
       "label": "Desenhista",
-      "n": 141
+      "n": 131
     },
     {
       "label": "Designer de Interiores",
-      "n": 41
+      "n": 40
     },
     {
       "label": "Modelador BIM",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Gerente de Projetos",
-      "n": 5
+      "n": 7
     },
     {
       "label": "Analista",
@@ -42,11 +42,11 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 118
+      "n": 117
     },
     {
       "label": "Estagiário",
-      "n": 251
+      "n": 253
     },
     {
       "label": "Técnico em Edificações",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 39
+      "n": 38
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -68,7 +68,7 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 21
+      "n": 20
     },
     {
       "label": "Projeto executivo",
@@ -112,7 +112,7 @@
     },
     {
       "label": "Avaliação de imóveis",
-      "n": 3
+      "n": 2
     },
     {
       "label": "Restauro / retrofit",
@@ -124,15 +124,15 @@
     },
     {
       "label": "Maquete / renderização",
-      "n": 12
+      "n": 13
     },
     {
       "label": "Interiores",
-      "n": 98
+      "n": 96
     },
     {
       "label": "Paisagismo",
-      "n": 9
+      "n": 8
     },
     {
       "label": "Planejamento urbano",
@@ -154,23 +154,23 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 103
+      "n": 102
     },
     {
       "label": "SketchUp",
-      "n": 37
+      "n": 36
     },
     {
       "label": "ArchiCAD",
-      "n": 8
+      "n": 7
     },
     {
       "label": "Revit",
-      "n": 43
+      "n": 44
     },
     {
       "label": "BIM",
-      "n": 84
+      "n": 86
     }
   ]
 }
