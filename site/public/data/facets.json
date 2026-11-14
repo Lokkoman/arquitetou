@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 465
+      "n": 460
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 137
+      "n": 132
     },
     {
       "label": "Designer de Interiores",
@@ -154,15 +154,15 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 104
+      "n": 103
     },
     {
       "label": "SketchUp",
-      "n": 37
+      "n": 36
     },
     {
       "label": "ArchiCAD",
-      "n": 8
+      "n": 7
     },
     {
       "label": "Revit",
