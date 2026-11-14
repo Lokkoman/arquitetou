@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 357
+      "n": 360
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 454
+      "n": 458
     },
     {
       "label": "Cadista",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 96
+      "n": 99
     },
     {
       "label": "Paisagismo",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 44
+      "n": 45
     },
     {
       "label": "BIM",
