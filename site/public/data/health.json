@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-11-15T16:59:40.375Z",
+  "generatedAt": "2026-11-15T23:28:31.000Z",
   "ok": false,
   "alerts": [
-    "bne: DEGRADED — erro em 56% das consultas"
+    "bne: DEGRADED — erro em 37% das consultas",
+    "empregos: FAILED — erro em 100% das consultas; 76% abaixo da mediana (37)"
   ],
   "needsReprocess": [
-    "bne"
+    "bne",
+    "empregos"
   ],
   "sources": {
     "bne": {
       "verdict": "degraded",
       "reasons": [
-        "erro em 56% das consultas"
+        "erro em 37% das consultas"
       ],
-      "jobsFound": 46,
+      "jobsFound": 60,
       "baselineMedian": 46,
-      "errorCount": 30,
+      "errorCount": 20,
       "queriesRun": 54,
-      "errorRate": 0.556,
+      "errorRate": 0.37,
       "dominantError": "HTTP 403",
-      "durationMs": 21285,
-      "lastRunAt": "2026-11-15T16:51:11.026Z"
+      "durationMs": 16763,
+      "lastRunAt": "2026-11-15T23:19:55.045Z"
     },
     "catho": {
       "verdict": "ok",
@@ -31,20 +33,23 @@
       "queriesRun": 552,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 330618,
-      "lastRunAt": "2026-11-15T16:56:22.297Z"
+      "durationMs": 309016,
+      "lastRunAt": "2026-11-15T23:24:45.993Z"
     },
     "empregos": {
-      "verdict": "ok",
-      "reasons": [],
-      "jobsFound": 37,
-      "baselineMedian": 38,
-      "errorCount": 0,
-      "queriesRun": 52,
-      "errorRate": 0,
-      "dominantError": null,
-      "durationMs": 140019,
-      "lastRunAt": "2026-11-15T16:53:12.375Z"
+      "verdict": "failed",
+      "reasons": [
+        "erro em 100% das consultas",
+        "76% abaixo da mediana (37)"
+      ],
+      "jobsFound": 9,
+      "baselineMedian": 37,
+      "errorCount": 15,
+      "queriesRun": 2,
+      "errorRate": 1,
+      "dominantError": "HTTP 429",
+      "durationMs": 29658,
+      "lastRunAt": "2026-11-15T23:20:09.341Z"
     },
     "gupy-portal": {
       "verdict": "ok",
@@ -67,20 +72,20 @@
       "queriesRun": 125,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 82901,
-      "lastRunAt": "2026-11-15T16:52:13.132Z"
+      "durationMs": 81009,
+      "lastRunAt": "2026-11-15T23:20:56.643Z"
     },
     "linkedin": {
       "verdict": "ok",
       "reasons": [],
-      "jobsFound": 63,
-      "baselineMedian": 64.5,
+      "jobsFound": 60,
+      "baselineMedian": 64,
       "errorCount": 0,
       "queriesRun": 524,
       "errorRate": 0,
       "dominantError": null,
-      "durationMs": 516996,
-      "lastRunAt": "2026-11-15T16:59:27.002Z"
+      "durationMs": 516349,
+      "lastRunAt": "2026-11-15T23:28:14.284Z"
     },
     "vagas-com": {
       "verdict": "ok",
