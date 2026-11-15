@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 460
+      "n": 469
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 132
+      "n": 136
     },
     {
       "label": "Designer de Interiores",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 116
+      "n": 115
     },
     {
       "label": "Estagiário",
@@ -154,19 +154,19 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 103
+      "n": 104
     },
     {
       "label": "SketchUp",
-      "n": 36
+      "n": 37
     },
     {
       "label": "ArchiCAD",
-      "n": 7
+      "n": 8
     },
     {
       "label": "Revit",
-      "n": 45
+      "n": 44
     },
     {
       "label": "BIM",
