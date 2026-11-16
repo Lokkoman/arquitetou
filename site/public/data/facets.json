@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 459
+      "n": 468
     },
     {
       "label": "Cadista",
@@ -18,11 +18,11 @@
     },
     {
       "label": "Desenhista",
-      "n": 131
+      "n": 134
     },
     {
       "label": "Designer de Interiores",
-      "n": 40
+      "n": 41
     },
     {
       "label": "Modelador BIM",
@@ -38,7 +38,7 @@
     },
     {
       "label": "Analista",
-      "n": 98
+      "n": 99
     },
     {
       "label": "Assistente / Auxiliar",
@@ -46,11 +46,11 @@
     },
     {
       "label": "Estagiário",
-      "n": 252
+      "n": 255
     },
     {
       "label": "Técnico em Edificações",
-      "n": 86
+      "n": 89
     },
     {
       "label": "Orçamentista",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 37
+      "n": 39
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -76,7 +76,7 @@
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 9
+      "n": 10
     },
     {
       "label": "Legalização / regularização",
@@ -84,7 +84,7 @@
     },
     {
       "label": "Licenciamento",
-      "n": 6
+      "n": 8
     },
     {
       "label": "Habite-se / alvará / AVCB",
@@ -92,7 +92,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 27
+      "n": 25
     },
     {
       "label": "Levantamento / as built",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 97
+      "n": 101
     },
     {
       "label": "Paisagismo",
@@ -154,7 +154,7 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 103
+      "n": 104
     },
     {
       "label": "SketchUp",
@@ -170,7 +170,7 @@
     },
     {
       "label": "BIM",
-      "n": 86
+      "n": 85
     }
   ]
 }
