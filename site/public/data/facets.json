@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 356
+      "n": 358
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 464
+      "n": 459
     },
     {
       "label": "Cadista",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 253
+      "n": 252
     },
     {
       "label": "Técnico em Edificações",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 98
+      "n": 97
     },
     {
       "label": "Paisagismo",
@@ -158,7 +158,7 @@
     },
     {
       "label": "SketchUp",
-      "n": 37
+      "n": 38
     },
     {
       "label": "ArchiCAD",
