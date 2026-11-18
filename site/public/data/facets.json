@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 361
+      "n": 362
     },
     {
       "label": "Urbanista",
@@ -10,15 +10,15 @@
     },
     {
       "label": "Projetista",
-      "n": 462
+      "n": 465
     },
     {
       "label": "Cadista",
-      "n": 80
+      "n": 78
     },
     {
       "label": "Desenhista",
-      "n": 135
+      "n": 133
     },
     {
       "label": "Designer de Interiores",
@@ -42,15 +42,15 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 118
+      "n": 117
     },
     {
       "label": "Estagiário",
-      "n": 257
+      "n": 256
     },
     {
       "label": "Técnico em Edificações",
-      "n": 88
+      "n": 89
     },
     {
       "label": "Orçamentista",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 40
+      "n": 39
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -76,7 +76,7 @@
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 10
+      "n": 9
     },
     {
       "label": "Legalização / regularização",
@@ -84,7 +84,7 @@
     },
     {
       "label": "Licenciamento",
-      "n": 9
+      "n": 7
     },
     {
       "label": "Habite-se / alvará / AVCB",
@@ -124,7 +124,7 @@
     },
     {
       "label": "Maquete / renderização",
-      "n": 15
+      "n": 14
     },
     {
       "label": "Interiores",
@@ -136,11 +136,11 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 4
+      "n": 6
     },
     {
       "label": "Loteamento / parcelamento",
-      "n": 3
+      "n": 2
     },
     {
       "label": "HIS / habitação social",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 102
+      "n": 101
     },
     {
       "label": "SketchUp",
-      "n": 39
+      "n": 38
     },
     {
       "label": "ArchiCAD",
@@ -166,11 +166,11 @@
     },
     {
       "label": "Revit",
-      "n": 46
+      "n": 45
     },
     {
       "label": "BIM",
-      "n": 86
+      "n": 87
     }
   ]
 }
