@@ -33,10 +33,10 @@
       "aborted": false,
       "jobsFound": 96,
       "queriesRun": 125,
-      "durationMs": 82361,
+      "durationMs": 102413,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-11-17T18:59:47.580Z",
+      "lastRunAt": "2026-11-18T01:35:28.632Z",
       "note": "Coletado em workflow próprio."
     },
     "bne": {
@@ -44,11 +44,12 @@
       "ok": true,
       "verdict": "degraded",
       "aborted": false,
-      "jobsFound": 47,
+      "jobsFound": 46,
       "queriesRun": 54,
-      "durationMs": 20517,
+      "durationMs": 16314,
       "errors": [
         "projetista/sao-paulo: HTTP 403",
+        "desenhista/sao-paulo: HTTP 403",
         "desenhista-projetista/sao-paulo: HTTP 403",
         "coordenador-de-projetos/sao-paulo: HTTP 403",
         "arquiteto/osasco: HTTP 403",
@@ -57,20 +58,19 @@
         "arquiteto-de-interiores/osasco: HTTP 403",
         "designer-de-interiores/osasco: HTTP 403",
         "projetista/osasco: HTTP 403",
-        "desenhista/osasco: HTTP 403",
-        "desenhista-projetista/osasco: HTTP 403",
-        "disjuntor: 10 erros seguidos — passada abortada em \"desenhista-projetista/osasco\"",
+        "disjuntor: 10 erros seguidos — passada abortada em \"projetista/osasco\"",
         "arquiteto/nacional: HTTP 403",
         "urbanista/nacional: HTTP 403",
         "arquiteto-urbanista/nacional: HTTP 403",
         "arquiteto-de-interiores/nacional: HTTP 403",
+        "designer-de-interiores/nacional: HTTP 403",
         "projetista/nacional: HTTP 403",
         "desenhista/nacional: HTTP 403",
         "desenhista-projetista/nacional: HTTP 403",
         "coordenador-de-projetos/nacional: HTTP 403"
       ],
       "errorCount": 20,
-      "lastRunAt": "2026-11-17T18:58:48.387Z",
+      "lastRunAt": "2026-11-18T01:33:56.771Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin": {
@@ -78,15 +78,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 65,
-      "queriesRun": 520,
-      "durationMs": 539827,
-      "errors": [
-        "paisagismo/osasco start=50: HTTP 429",
-        "remoto/interiores start=50: HTTP 429"
-      ],
-      "errorCount": 2,
-      "lastRunAt": "2026-11-17T19:07:28.490Z",
+      "jobsFound": 71,
+      "queriesRun": 524,
+      "durationMs": 527448,
+      "errors": [],
+      "errorCount": 0,
+      "lastRunAt": "2026-11-18T01:42:27.489Z",
       "note": "Coletado em workflow próprio."
     },
     "catho": {
@@ -94,12 +91,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 498,
-      "queriesRun": 555,
-      "durationMs": 294550,
+      "jobsFound": 501,
+      "queriesRun": 500,
+      "durationMs": 294177,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-11-17T19:03:26.342Z",
+      "lastRunAt": "2026-11-18T01:38:35.405Z",
       "note": "Coletado em workflow próprio."
     },
     "empregos": {
@@ -107,12 +104,12 @@
       "ok": true,
       "verdict": "ok",
       "aborted": false,
-      "jobsFound": 33,
+      "jobsFound": 30,
       "queriesRun": 52,
-      "durationMs": 140694,
+      "durationMs": 151765,
       "errors": [],
       "errorCount": 0,
-      "lastRunAt": "2026-11-17T19:00:48.516Z",
+      "lastRunAt": "2026-11-18T01:36:11.081Z",
       "note": "Coletado em workflow próprio."
     },
     "linkedin-api": {
@@ -124,16 +121,16 @@
       "note": "Modo incremental: 76 da API."
     }
   },
-  "lastRun": "2026-11-17T19:11:43.394Z",
-  "startedAt": "2026-11-17T19:07:45.175Z",
-  "finishedAt": "2026-11-17T19:11:43.394Z",
+  "lastRun": "2026-11-18T01:45:27.237Z",
+  "startedAt": "2026-11-18T01:42:41.596Z",
+  "finishedAt": "2026-11-18T01:45:27.237Z",
   "linkedin": null,
   "ai": {
     "model": null,
-    "enriched": 108,
-    "dropped": 32,
-    "cached": 1618,
+    "enriched": 176,
+    "dropped": 47,
+    "cached": 1624,
     "ok": false,
-    "note": "92 vaga(s) sem classificação nesta rodada; 41 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
+    "note": "24 vaga(s) sem classificação nesta rodada; 49 adiada(s) pelo teto de 200/rodada — serão classificadas nas próximas rodadas."
   }
 }
