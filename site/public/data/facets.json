@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 362
+      "n": 356
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 465
+      "n": 462
     },
     {
       "label": "Cadista",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 117
+      "n": 116
     },
     {
       "label": "Estagiário",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 39
+      "n": 37
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -136,7 +136,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 6
+      "n": 5
     },
     {
       "label": "Loteamento / parcelamento",
@@ -148,13 +148,13 @@
     },
     {
       "label": "Due diligence / georreferenciamento",
-      "n": 1
+      "n": 2
     }
   ],
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 101
+      "n": 102
     },
     {
       "label": "SketchUp",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 45
+      "n": 46
     },
     {
       "label": "BIM",
