@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 358
+      "n": 361
     },
     {
       "label": "Urbanista",
@@ -10,11 +10,11 @@
     },
     {
       "label": "Projetista",
-      "n": 467
+      "n": 468
     },
     {
       "label": "Cadista",
-      "n": 78
+      "n": 77
     },
     {
       "label": "Desenhista",
@@ -38,11 +38,11 @@
     },
     {
       "label": "Analista",
-      "n": 99
+      "n": 98
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 115
+      "n": 118
     },
     {
       "label": "Estagiário",
@@ -72,7 +72,7 @@
     },
     {
       "label": "Projeto executivo",
-      "n": 31
+      "n": 32
     },
     {
       "label": "Projeto legal / aprovação",
@@ -92,7 +92,7 @@
     },
     {
       "label": "Compatibilização",
-      "n": 25
+      "n": 26
     },
     {
       "label": "Levantamento / as built",
@@ -148,13 +148,13 @@
     },
     {
       "label": "Due diligence / georreferenciamento",
-      "n": 1
+      "n": 2
     }
   ],
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 99
+      "n": 101
     },
     {
       "label": "SketchUp",
