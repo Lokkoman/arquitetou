@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 361
+      "n": 367
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 468
+      "n": 478
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 132
+      "n": 130
     },
     {
       "label": "Designer de Interiores",
@@ -38,7 +38,7 @@
     },
     {
       "label": "Analista",
-      "n": 98
+      "n": 97
     },
     {
       "label": "Assistente / Auxiliar",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Estagiário",
-      "n": 256
+      "n": 253
     },
     {
       "label": "Técnico em Edificações",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 38
+      "n": 41
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -72,11 +72,11 @@
     },
     {
       "label": "Projeto executivo",
-      "n": 32
+      "n": 31
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 9
+      "n": 10
     },
     {
       "label": "Legalização / regularização",
@@ -88,11 +88,11 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 12
+      "n": 13
     },
     {
       "label": "Compatibilização",
-      "n": 26
+      "n": 25
     },
     {
       "label": "Levantamento / as built",
@@ -136,7 +136,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 5
+      "n": 6
     },
     {
       "label": "Loteamento / parcelamento",
@@ -148,13 +148,13 @@
     },
     {
       "label": "Due diligence / georreferenciamento",
-      "n": 2
+      "n": 1
     }
   ],
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 101
+      "n": 99
     },
     {
       "label": "SketchUp",
