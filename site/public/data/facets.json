@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 367
+      "n": 355
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 478
+      "n": 470
     },
     {
       "label": "Cadista",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 130
+      "n": 128
     },
     {
       "label": "Designer de Interiores",
@@ -42,7 +42,7 @@
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 118
+      "n": 115
     },
     {
       "label": "Estagiário",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 41
+      "n": 39
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 102
+      "n": 103
     },
     {
       "label": "Paisagismo",
@@ -136,7 +136,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 6
+      "n": 5
     },
     {
       "label": "Loteamento / parcelamento",
