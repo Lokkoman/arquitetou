@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 355
+      "n": 365
     },
     {
       "label": "Urbanista",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Projetista",
-      "n": 467
+      "n": 475
     },
     {
       "label": "Cadista",
@@ -38,19 +38,19 @@
     },
     {
       "label": "Analista",
-      "n": 99
+      "n": 96
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 115
+      "n": 118
     },
     {
       "label": "Estagiário",
-      "n": 250
+      "n": 249
     },
     {
       "label": "Técnico em Edificações",
-      "n": 88
+      "n": 87
     },
     {
       "label": "Orçamentista",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 39
+      "n": 41
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -68,19 +68,19 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 21
+      "n": 20
     },
     {
       "label": "Projeto executivo",
-      "n": 32
+      "n": 31
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 11
+      "n": 9
     },
     {
       "label": "Legalização / regularização",
-      "n": 11
+      "n": 9
     },
     {
       "label": "Licenciamento",
@@ -88,15 +88,15 @@
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 15
+      "n": 14
     },
     {
       "label": "Compatibilização",
-      "n": 26
+      "n": 27
     },
     {
       "label": "Levantamento / as built",
-      "n": 3
+      "n": 2
     },
     {
       "label": "Acompanhamento de obra",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 102
+      "n": 104
     },
     {
       "label": "Paisagismo",
@@ -136,7 +136,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 5
+      "n": 6
     },
     {
       "label": "Loteamento / parcelamento",
@@ -144,7 +144,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 13
+      "n": 12
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 97
+      "n": 95
     },
     {
       "label": "SketchUp",
-      "n": 39
+      "n": 38
     },
     {
       "label": "ArchiCAD",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 45
+      "n": 46
     },
     {
       "label": "BIM",
