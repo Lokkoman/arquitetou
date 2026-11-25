@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T18:38:21.890Z",
+  "generatedAt": "2026-11-25T17:47:50.120Z",
   "note": "Gemini falhou: Gemini HTTP 429: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. ",
   "candidates": [
     {
