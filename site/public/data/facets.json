@@ -2,7 +2,7 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 357
+      "n": 363
     },
     {
       "label": "Urbanista",
@@ -10,15 +10,15 @@
     },
     {
       "label": "Projetista",
-      "n": 464
+      "n": 473
     },
     {
       "label": "Cadista",
-      "n": 75
+      "n": 77
     },
     {
       "label": "Desenhista",
-      "n": 125
+      "n": 127
     },
     {
       "label": "Designer de Interiores",
@@ -38,11 +38,11 @@
     },
     {
       "label": "Analista",
-      "n": 95
+      "n": 96
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 113
+      "n": 116
     },
     {
       "label": "Estagiário",
@@ -50,7 +50,7 @@
     },
     {
       "label": "Técnico em Edificações",
-      "n": 87
+      "n": 85
     },
     {
       "label": "Orçamentista",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 41
+      "n": 38
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -116,7 +116,7 @@
     },
     {
       "label": "Restauro / retrofit",
-      "n": 3
+      "n": 4
     },
     {
       "label": "Sustentabilidade / LEED",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Interiores",
-      "n": 103
+      "n": 106
     },
     {
       "label": "Paisagismo",
@@ -136,7 +136,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 5
+      "n": 4
     },
     {
       "label": "Loteamento / parcelamento",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 45
+      "n": 46
     },
     {
       "label": "BIM",
