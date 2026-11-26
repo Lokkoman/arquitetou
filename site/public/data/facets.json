@@ -2,19 +2,19 @@
   "roles": [
     {
       "label": "Arquiteto(a)",
-      "n": 363
+      "n": 352
     },
     {
       "label": "Urbanista",
-      "n": 7
+      "n": 6
     },
     {
       "label": "Projetista",
-      "n": 480
+      "n": 464
     },
     {
       "label": "Cadista",
-      "n": 77
+      "n": 78
     },
     {
       "label": "Desenhista",
@@ -38,19 +38,19 @@
     },
     {
       "label": "Analista",
-      "n": 100
+      "n": 97
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 114
+      "n": 113
     },
     {
       "label": "Estagiário",
-      "n": 248
+      "n": 243
     },
     {
       "label": "Técnico em Edificações",
-      "n": 86
+      "n": 88
     },
     {
       "label": "Orçamentista",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Consultor / Especialista",
-      "n": 39
+      "n": 37
     },
     {
       "label": "Fiscal / Mestre de Obras",
@@ -68,27 +68,27 @@
   "scope": [
     {
       "label": "Projeto arquitetônico",
-      "n": 21
+      "n": 19
     },
     {
       "label": "Projeto executivo",
-      "n": 32
+      "n": 31
     },
     {
       "label": "Projeto legal / aprovação",
-      "n": 10
+      "n": 9
     },
     {
       "label": "Legalização / regularização",
-      "n": 11
+      "n": 9
     },
     {
       "label": "Licenciamento",
-      "n": 8
+      "n": 7
     },
     {
       "label": "Habite-se / alvará / AVCB",
-      "n": 15
+      "n": 13
     },
     {
       "label": "Compatibilização",
@@ -96,11 +96,11 @@
     },
     {
       "label": "Levantamento / as built",
-      "n": 3
+      "n": 2
     },
     {
       "label": "Acompanhamento de obra",
-      "n": 33
+      "n": 32
     },
     {
       "label": "Orçamento / quantitativos",
@@ -124,11 +124,11 @@
     },
     {
       "label": "Maquete / renderização",
-      "n": 15
+      "n": 14
     },
     {
       "label": "Interiores",
-      "n": 107
+      "n": 104
     },
     {
       "label": "Paisagismo",
@@ -136,7 +136,7 @@
     },
     {
       "label": "Planejamento urbano",
-      "n": 5
+      "n": 4
     },
     {
       "label": "Loteamento / parcelamento",
@@ -144,7 +144,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 13
+      "n": 12
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 96
+      "n": 92
     },
     {
       "label": "SketchUp",
-      "n": 39
+      "n": 37
     },
     {
       "label": "ArchiCAD",
@@ -166,7 +166,7 @@
     },
     {
       "label": "Revit",
-      "n": 47
+      "n": 46
     },
     {
       "label": "BIM",
