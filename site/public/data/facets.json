@@ -18,7 +18,7 @@
     },
     {
       "label": "Desenhista",
-      "n": 130
+      "n": 129
     },
     {
       "label": "Designer de Interiores",
@@ -38,15 +38,15 @@
     },
     {
       "label": "Analista",
-      "n": 98
+      "n": 99
     },
     {
       "label": "Assistente / Auxiliar",
-      "n": 112
+      "n": 111
     },
     {
       "label": "Estagiário",
-      "n": 242
+      "n": 243
     },
     {
       "label": "Técnico em Edificações",
@@ -128,11 +128,11 @@
     },
     {
       "label": "Interiores",
-      "n": 104
+      "n": 105
     },
     {
       "label": "Paisagismo",
-      "n": 8
+      "n": 9
     },
     {
       "label": "Planejamento urbano",
@@ -144,7 +144,7 @@
     },
     {
       "label": "HIS / habitação social",
-      "n": 12
+      "n": 13
     },
     {
       "label": "Due diligence / georreferenciamento",
@@ -154,11 +154,11 @@
   "tools": [
     {
       "label": "AutoCAD",
-      "n": 92
+      "n": 93
     },
     {
       "label": "SketchUp",
-      "n": 37
+      "n": 38
     },
     {
       "label": "ArchiCAD",
